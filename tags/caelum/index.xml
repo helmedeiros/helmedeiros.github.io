@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Caelum on Helio Medeiros</title>
-    <link>http://replace-this-with-your-hugo-site.com/tags/caelum/</link>
+    <link>https://helmedeiros.github.io//tags/caelum/</link>
     <description>Recent content in Caelum on Helio Medeiros</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 05 Sep 2012 19:51:01 +0000</lastBuildDate>
     
-	<atom:link href="http://replace-this-with-your-hugo-site.com/tags/caelum/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://helmedeiros.github.io//tags/caelum/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Novatos no seu time ágil? Corra da inércia! – Cecilia Fernandes</title>
-      <link>http://replace-this-with-your-hugo-site.com/2012/09/05/novatos-no-seu-time-agil-corra-da-inercia-cecilia-fernandes/</link>
+      <link>https://helmedeiros.github.io//2012/09/05/novatos-no-seu-time-agil-corra-da-inercia-cecilia-fernandes/</link>
       <pubDate>Wed, 05 Sep 2012 19:51:01 +0000</pubDate>
       
-      <guid>http://replace-this-with-your-hugo-site.com/2012/09/05/novatos-no-seu-time-agil-corra-da-inercia-cecilia-fernandes/</guid>
+      <guid>https://helmedeiros.github.io//2012/09/05/novatos-no-seu-time-agil-corra-da-inercia-cecilia-fernandes/</guid>
       <description>[][1]Evitando mudanças Começou falando sobre inércia, explicando que inércia não quer dizer parado, mas pode ser … Então como fugir deste comportamento com os novatos?
 A Caelum em 2009 era de certo pequeno mas passado 3 anos que ainda permanecem na empresa mas muita… muita… mudanças aconteceram, e em uma equipe que acreditava em agilidade e nos benefícios dela pode se preocupar ainda somos ágeis?
 Mas primeiramente precisamos definir o que é agilidade, porque eles ainda continuam com testes automatizados, propriedade coletiva do código, coragem e outras práticas, mas a incerteza da agilidade preocupa.</description>
@@ -24,20 +24,20 @@ Mas primeiramente precisamos definir o que é agilidade, porque eles ainda conti
     
     <item>
       <title>WS-46 na Caelum com Phillip Calçado</title>
-      <link>http://replace-this-with-your-hugo-site.com/2009/11/09/ws-46-na-caelum-com-phillip-calcado/</link>
+      <link>https://helmedeiros.github.io//2009/11/09/ws-46-na-caelum-com-phillip-calcado/</link>
       <pubDate>Mon, 09 Nov 2009 23:37:20 +0000</pubDate>
       
-      <guid>http://replace-this-with-your-hugo-site.com/2009/11/09/ws-46-na-caelum-com-phillip-calcado/</guid>
+      <guid>https://helmedeiros.github.io//2009/11/09/ws-46-na-caelum-com-phillip-calcado/</guid>
       <description>Após alguns anos acompanhando o blog do Phillip, tive nesta segunda-feira o tão esperado curso WS-46 na Caelum Rio. Em um post recente e durante nossas conversas nos intervalos do curso o Phillip disse que provavelmente este seria o último ano do curso&amp;#8230; estou muito feliz por ter aproveitado a oportunidade.
 O curso iniciou-se às 09:20h devido alguns problemas de conexão apple mini display port -&amp;gt; projetor com entrada vga, o Nico Steppat que estava por lá rapidamente providenciou um notebook para substituir o mac pro do Phillip e a palestra começou com o aviso de que o computador não lhe pertencia e que com certeza haveriam problemas&amp;#8230;.</description>
     </item>
     
     <item>
       <title>Caelum Day in Rio – Muito Sol e excelentes palestrantes</title>
-      <link>http://replace-this-with-your-hugo-site.com/2009/11/07/caelum-day-in-rio-muito-sol-e-excelentes-palestrantes/</link>
+      <link>https://helmedeiros.github.io//2009/11/07/caelum-day-in-rio-muito-sol-e-excelentes-palestrantes/</link>
       <pubDate>Sat, 07 Nov 2009 23:27:21 +0000</pubDate>
       
-      <guid>http://replace-this-with-your-hugo-site.com/2009/11/07/caelum-day-in-rio-muito-sol-e-excelentes-palestrantes/</guid>
+      <guid>https://helmedeiros.github.io//2009/11/07/caelum-day-in-rio-muito-sol-e-excelentes-palestrantes/</guid>
       <description>Caelum day in Rio  Mesmo com todo o sol que convidava os cariocas e visitantes a refrescarem-se nas frias águas das praias cariocas, houveram pouquíssimas cadeiras vazias no primeiro evento, da Caelum unidade Rio, intitulado Caelum Day in Rio.  Ao todo 120 e participantes, entre desenvolvedores atraídos pelas palestras e light talks   do Fábio Kung sobre Cloud;   do Guilherme Silveira e Filipe Sabella sobre as novidades do VRaptor 3;   do Sergio Junior e Luiz Costa sobre Restful.</description>
     </item>
     

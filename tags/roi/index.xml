@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Roi on Helio Medeiros</title>
-    <link>http://replace-this-with-your-hugo-site.com/tags/roi/</link>
+    <link>https://helmedeiros.github.io//tags/roi/</link>
     <description>Recent content in Roi on Helio Medeiros</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 03 Mar 2010 01:21:54 +0000</lastBuildDate>
     
-	<atom:link href="http://replace-this-with-your-hugo-site.com/tags/roi/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://helmedeiros.github.io//tags/roi/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Segunda aula ministrada! Projeto…Processo…</title>
-      <link>http://replace-this-with-your-hugo-site.com/2010/03/02/segunda-aula-ministrada-projetoprocesso/</link>
+      <link>https://helmedeiros.github.io//2010/03/02/segunda-aula-ministrada-projetoprocesso/</link>
       <pubDate>Wed, 03 Mar 2010 01:21:54 +0000</pubDate>
       
-      <guid>http://replace-this-with-your-hugo-site.com/2010/03/02/segunda-aula-ministrada-projetoprocesso/</guid>
+      <guid>https://helmedeiros.github.io//2010/03/02/segunda-aula-ministrada-projetoprocesso/</guid>
       <description>Segue a baixo a segunda aula ministrada a disciplina de engenharia de software da UnP, quem tiver algumas dicas ou sugestões, ainda continuam sendo bem vindos. Tivemos hoje uma breve passagem pela história da criação de software, falamos da &amp;#8220;crise de software&amp;#8221; que apesar de ser datada de muito tempo atrás ainda não se evidência a correção de todos os fatores que a influenciaram.
 Foi apresentado os componentes de um projeto de software e discutimos alguns cenários e qual a influência de cada um destes no resultado final, sucesso ou falha no projeto.</description>
     </item>
     
     <item>
       <title>O objetivo não deveria ser entregar ótimas funcionalidades ?</title>
-      <link>http://replace-this-with-your-hugo-site.com/2010/02/09/o-objetivo-nao-deveria-ser-entregar-otimas-funcionalidades/</link>
+      <link>https://helmedeiros.github.io//2010/02/09/o-objetivo-nao-deveria-ser-entregar-otimas-funcionalidades/</link>
       <pubDate>Tue, 09 Feb 2010 23:49:20 +0000</pubDate>
       
-      <guid>http://replace-this-with-your-hugo-site.com/2010/02/09/o-objetivo-nao-deveria-ser-entregar-otimas-funcionalidades/</guid>
+      <guid>https://helmedeiros.github.io//2010/02/09/o-objetivo-nao-deveria-ser-entregar-otimas-funcionalidades/</guid>
       <description>Uma coisa que me intriga mais e mais cada vez que escuto alguém falando que utiliza metodologias ágeis, e que seus clientes continuam insatisfeitos, mesmo com as entregas reptiveis de software funcionando, é que nós não deveríamos antecipar o retorno ao investimento de nosso cliente dando a ele subsídios para otimizar o funcionamento de seu negócio ?
 Lí a pouco uma frase no twitter do @jeffpatton, &amp;#8220;Looking forward to the time when people use agile development to build great products, not just deliver dumb stuff faster.</description>
     </item>

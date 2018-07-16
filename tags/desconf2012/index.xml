@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Desconf2012 on Helio Medeiros</title>
-    <link>http://replace-this-with-your-hugo-site.com/tags/desconf2012/</link>
+    <link>https://helmedeiros.github.io//tags/desconf2012/</link>
     <description>Recent content in Desconf2012 on Helio Medeiros</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 29 Dec 2012 13:32:02 +0000</lastBuildDate>
     
-	<atom:link href="http://replace-this-with-your-hugo-site.com/tags/desconf2012/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://helmedeiros.github.io//tags/desconf2012/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Desconf 2012 – Fim do mundo</title>
-      <link>http://replace-this-with-your-hugo-site.com/2012/12/29/desconf-2012-fim-do-mundo/</link>
+      <link>https://helmedeiros.github.io//2012/12/29/desconf-2012-fim-do-mundo/</link>
       <pubDate>Sat, 29 Dec 2012 13:32:02 +0000</pubDate>
       
-      <guid>http://replace-this-with-your-hugo-site.com/2012/12/29/desconf-2012-fim-do-mundo/</guid>
+      <guid>https://helmedeiros.github.io//2012/12/29/desconf-2012-fim-do-mundo/</guid>
       <description>&amp;nbsp;Desconf 2012 &amp;#8211; Eu Falei antes do fim do mundo
 Aconteceu no dia 17 de dezembro de 2012, a terceira edição da desconferência rápida(#desconf2012) em Porto Alegre. Este ano sobe organização apenas do Daniel Wildt e da Natalia Arsand, o evento foi espetacular como as outras edições, apenas em um formato mais curto aproximadamente 28 participantes, dos quais 20 eram palestrantes e 28 eram conferencistas.
 Se tratando de um evento completamente fora dos padrões a desconf, como já havia falado antes por aqui, possuí um formato muito enxuto, que maximiza o primeiro contato entre interessados em um assunto; ou até garante a criação de novas ideias fundamentadas em metáforas extraídas.</description>
@@ -24,10 +24,10 @@ Se tratando de um evento completamente fora dos padrões a desconf, como já ha
     
     <item>
       <title>Sucesso na medida certa – Métricas de vaidade</title>
-      <link>http://replace-this-with-your-hugo-site.com/2012/12/18/sucesso-na-medida-certa-metricas-de-vaidade/</link>
+      <link>https://helmedeiros.github.io//2012/12/18/sucesso-na-medida-certa-metricas-de-vaidade/</link>
       <pubDate>Tue, 18 Dec 2012 02:42:59 +0000</pubDate>
       
-      <guid>http://replace-this-with-your-hugo-site.com/2012/12/18/sucesso-na-medida-certa-metricas-de-vaidade/</guid>
+      <guid>https://helmedeiros.github.io//2012/12/18/sucesso-na-medida-certa-metricas-de-vaidade/</guid>
       <description>[][1]Sucesso na medida certa &amp;#8211; Métricas de vaidade Ví recentemente um time de desenvolvimento apresentando aos gerentes, a defesa da qualidade como agente de crescimento. Eles estavam apresentando em um gráfico que demonstrava que quando eles começaram a focar em qualidade, obtiveram um crescimento no número de cadastros. Já o setor de marketing um dia depois após esta apresentação, reclamou os créditos, e apresentou as propagandas como fator no aumento de 170%… Qual deles foi realmente o gatilho para o sucesso?</description>
     </item>
     

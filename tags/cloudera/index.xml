@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Cloudera on Helio Medeiros</title>
-    <link>http://replace-this-with-your-hugo-site.com/tags/cloudera/</link>
+    <link>https://helmedeiros.github.io//tags/cloudera/</link>
     <description>Recent content in Cloudera on Helio Medeiros</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 10 Apr 2014 16:05:02 +0000</lastBuildDate>
     
-	<atom:link href="http://replace-this-with-your-hugo-site.com/tags/cloudera/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://helmedeiros.github.io//tags/cloudera/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>How Impala has Pushed HDFS in New Ways</title>
-      <link>http://replace-this-with-your-hugo-site.com/2014/04/10/how-impala-has-pushed-hdfs-in-new-ways/</link>
+      <link>https://helmedeiros.github.io//2014/04/10/how-impala-has-pushed-hdfs-in-new-ways/</link>
       <pubDate>Thu, 10 Apr 2014 16:05:02 +0000</pubDate>
       
-      <guid>http://replace-this-with-your-hugo-site.com/2014/04/10/how-impala-has-pushed-hdfs-in-new-ways/</guid>
+      <guid>https://helmedeiros.github.io//2014/04/10/how-impala-has-pushed-hdfs-in-new-ways/</guid>
       <description>Como Impala e a Cloudera tem ajudado a comunidade nos últimos anos, nada melhor que o Aaron para falar sobre isso commiter do Hadoop, vamos ver como funciona HDFS, impala e como o último tem sido alterado para atender novos requisitos.
 Quando as pessoas falam sobre Hadoop, uma parte esta atrelada ao HDFS (Hadoop Distributed File System). Este é utilizado apenas como um file-system distribuído, ele foi única e exclusivamente para trabalhar com blocos de dados grandes que precisam ser rápidos para uma boa performance de MapReduce.</description>
     </item>

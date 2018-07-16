@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Padrões De Análise on Helio Medeiros</title>
-    <link>http://replace-this-with-your-hugo-site.com/categories/padr%C3%B5es-de-an%C3%A1lise/</link>
+    <link>https://helmedeiros.github.io//categories/padr%C3%B5es-de-an%C3%A1lise/</link>
     <description>Recent content in Padrões De Análise on Helio Medeiros</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 12 Jul 2008 03:27:57 +0000</lastBuildDate>
     
-	<atom:link href="http://replace-this-with-your-hugo-site.com/categories/padr%C3%B5es-de-an%C3%A1lise/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://helmedeiros.github.io//categories/padr%C3%B5es-de-an%C3%A1lise/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Padrões de Análise</title>
-      <link>http://replace-this-with-your-hugo-site.com/2008/07/12/padroes-de-analise/</link>
+      <link>https://helmedeiros.github.io//2008/07/12/padroes-de-analise/</link>
       <pubDate>Sat, 12 Jul 2008 03:27:57 +0000</pubDate>
       
-      <guid>http://replace-this-with-your-hugo-site.com/2008/07/12/padroes-de-analise/</guid>
+      <guid>https://helmedeiros.github.io//2008/07/12/padroes-de-analise/</guid>
       <description>Há algumas semanas, tive durante a aula de MODELAGEM ORIENTADA A OBJETOS E UML, ministrada pelo professor Osmar Fernandes Jr., uma breve introdução aos Padrões de Software, para Análise (Analysis Patterns) e Projetos (Design Patterns), sobre a qual me faço nesta página, abrindo um pequeno espaço a aqueles, que assim como eu estão iniciando os seus estudos na área.
 Com a complexidade inerente aos processos, de negócios, ORGANIZACIONAIS, que se transformam dia-a-dia em milhares de níveis de código e modelagem, de novos módulos de trabalho, tornasse imprescindível o conhecimento de técnicas de modelagem conceitual.</description>
     </item>

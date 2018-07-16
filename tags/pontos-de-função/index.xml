@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Pontos De Função on Helio Medeiros</title>
-    <link>http://replace-this-with-your-hugo-site.com/tags/pontos-de-fun%C3%A7%C3%A3o/</link>
+    <link>https://helmedeiros.github.io//tags/pontos-de-fun%C3%A7%C3%A3o/</link>
     <description>Recent content in Pontos De Função on Helio Medeiros</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 26 Feb 2010 00:44:26 +0000</lastBuildDate>
     
-	<atom:link href="http://replace-this-with-your-hugo-site.com/tags/pontos-de-fun%C3%A7%C3%A3o/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://helmedeiros.github.io//tags/pontos-de-fun%C3%A7%C3%A3o/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Já tive um gerente que comia velocidade no café</title>
-      <link>http://replace-this-with-your-hugo-site.com/2010/02/25/ja-tive-um-gerente-que-comia-velocidade-no-cafe/</link>
+      <link>https://helmedeiros.github.io//2010/02/25/ja-tive-um-gerente-que-comia-velocidade-no-cafe/</link>
       <pubDate>Fri, 26 Feb 2010 00:44:26 +0000</pubDate>
       
-      <guid>http://replace-this-with-your-hugo-site.com/2010/02/25/ja-tive-um-gerente-que-comia-velocidade-no-cafe/</guid>
+      <guid>https://helmedeiros.github.io//2010/02/25/ja-tive-um-gerente-que-comia-velocidade-no-cafe/</guid>
       <description>Há um bom tempo venho observando as mais diversas formas utilizadas, pelos gerentes das equipes por onde passei, para realização dos acompanhamentos das minhas produtividades, e também dos outros membros para realizar suas estimativas. Alguns demoram muito analisando os misteriosos pontos de função, outros visualizam apenas linhas de código e só alguns, talvez os mais interessantes, viam a quantidade de funcionalidades entregues realmente da forma que satisfazia iteração após iteração o nosso cliente.</description>
     </item>
     

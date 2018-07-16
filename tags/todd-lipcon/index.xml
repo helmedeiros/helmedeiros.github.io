@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Todd Lipcon on Helio Medeiros</title>
-    <link>http://replace-this-with-your-hugo-site.com/tags/todd-lipcon/</link>
+    <link>https://helmedeiros.github.io//tags/todd-lipcon/</link>
     <description>Recent content in Todd Lipcon on Helio Medeiros</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 11 Apr 2014 13:36:05 +0000</lastBuildDate>
     
-	<atom:link href="http://replace-this-with-your-hugo-site.com/tags/todd-lipcon/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://helmedeiros.github.io//tags/todd-lipcon/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Hadoop and the Big Data Ecosystem</title>
-      <link>http://replace-this-with-your-hugo-site.com/2014/04/11/hadoop-and-the-big-data-ecosystem/</link>
+      <link>https://helmedeiros.github.io//2014/04/11/hadoop-and-the-big-data-ecosystem/</link>
       <pubDate>Fri, 11 Apr 2014 13:36:05 +0000</pubDate>
       
-      <guid>http://replace-this-with-your-hugo-site.com/2014/04/11/hadoop-and-the-big-data-ecosystem/</guid>
+      <guid>https://helmedeiros.github.io//2014/04/11/hadoop-and-the-big-data-ecosystem/</guid>
       <description>Porque devemos nos preocupar? Assim começou o keynote do Todd Lipcon&amp;#8230; Talvez porque ao longo dos últimos anos, as empresas têm visto uma explosão no volume, variedade e velocidade dos dados que eles têm de lidar todos os dias. Esta tem sido uma bênção e uma maldição. Ao mesmo tempo que a explosão de dados nos permitiu gerar novos tipos de aplicativos e insights altamente inteligentes, os desenvolvedores descobriram que a geração anterior de ferramentas de gerenciamento de dados e frameworks desmoronavam quando tentando trabalhar e manter terabytes ou petabytes de dados muitas vezes mal-estruturados.</description>
     </item>
     

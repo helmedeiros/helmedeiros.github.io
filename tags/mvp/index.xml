@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Mvp on Helio Medeiros</title>
-    <link>http://replace-this-with-your-hugo-site.com/tags/mvp/</link>
+    <link>https://helmedeiros.github.io//tags/mvp/</link>
     <description>Recent content in Mvp on Helio Medeiros</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 05 Sep 2012 17:45:08 +0000</lastBuildDate>
     
-	<atom:link href="http://replace-this-with-your-hugo-site.com/tags/mvp/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://helmedeiros.github.io//tags/mvp/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>The role of Agile analysis in Continuous Delivery – Jenny Wong e Danilo Sato</title>
-      <link>http://replace-this-with-your-hugo-site.com/2012/09/05/the-role-of-agile-analysis-in-continuous-delivery-jenny-wong-e-danilo-sato/</link>
+      <link>https://helmedeiros.github.io//2012/09/05/the-role-of-agile-analysis-in-continuous-delivery-jenny-wong-e-danilo-sato/</link>
       <pubDate>Wed, 05 Sep 2012 17:45:08 +0000</pubDate>
       
-      <guid>http://replace-this-with-your-hugo-site.com/2012/09/05/the-role-of-agile-analysis-in-continuous-delivery-jenny-wong-e-danilo-sato/</guid>
+      <guid>https://helmedeiros.github.io//2012/09/05/the-role-of-agile-analysis-in-continuous-delivery-jenny-wong-e-danilo-sato/</guid>
       <description>O que é entrega continua(continuos Delivery &amp;#8211; CD)? Assim começou a apresentação! A seguir em palavras trocadas entre a Jenny e o Danilo, vimos o que se seguiria, princípios de analise e engenharia envolvidos, definições e por fim princípios e atividades que podem ser utilizadas e testadas para realmente avançarmos nesta prática avançando de forma consciente as nossas entregas continuamente durante os seus dias e sprints.
 Entrega contínua é uma estratégia de desenvolvimento de software que otimiza o seu processo de entrega para obter software de alta qualidade, de valor entregue o mais rápido possível, mas por mais incrível que pareça, como a maior parte das estratégias lidas por nós acabamos por nos aprofundar e priorizar práticas e passos de como ao invés dos porquês.</description>
     </item>
     
     <item>
       <title>Não adivinhe o futuro, acompanhe-o! MVP e Livro de Possibilidades!</title>
-      <link>http://replace-this-with-your-hugo-site.com/2011/11/27/nao-adivinhe-o-futuro-acompanhe-o-mvp-e-livro-de-possibilidades/</link>
+      <link>https://helmedeiros.github.io//2011/11/27/nao-adivinhe-o-futuro-acompanhe-o-mvp-e-livro-de-possibilidades/</link>
       <pubDate>Sun, 27 Nov 2011 17:08:43 +0000</pubDate>
       
-      <guid>http://replace-this-with-your-hugo-site.com/2011/11/27/nao-adivinhe-o-futuro-acompanhe-o-mvp-e-livro-de-possibilidades/</guid>
+      <guid>https://helmedeiros.github.io//2011/11/27/nao-adivinhe-o-futuro-acompanhe-o-mvp-e-livro-de-possibilidades/</guid>
       <description>[][1]KYEO Costumo pensar que todo projeto, seja aqui ou na China, tem algo semelhante em seu início, algo que permite a fundamentação, o crescimento e a melhoria continua&amp;hellip; Seguindo os encalorados discursos sobre Lean Startups, dentre muitos outros que já ouvi de pequenos, médios e grandes empreendedores, é certo concluir que o sucesso é um longo caminho de aprendizados, no qual nossa única certeza é que as ideias irão surgir e quando implementadas podem ser bem sucedidas ou não.</description>
     </item>
     

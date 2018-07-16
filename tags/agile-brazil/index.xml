@@ -2,89 +2,89 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Agile Brazil on Helio Medeiros</title>
-    <link>http://replace-this-with-your-hugo-site.com/tags/agile-brazil/</link>
+    <link>https://helmedeiros.github.io//tags/agile-brazil/</link>
     <description>Recent content in Agile Brazil on Helio Medeiros</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 21 Aug 2013 20:14:02 +0000</lastBuildDate>
     
-	<atom:link href="http://replace-this-with-your-hugo-site.com/tags/agile-brazil/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://helmedeiros.github.io//tags/agile-brazil/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Neal Ford – Abstraction Distractions</title>
-      <link>http://replace-this-with-your-hugo-site.com/2013/08/21/neal-ford-abstraction-distractions/</link>
+      <link>https://helmedeiros.github.io//2013/08/21/neal-ford-abstraction-distractions/</link>
       <pubDate>Wed, 21 Aug 2013 20:14:02 +0000</pubDate>
       
-      <guid>http://replace-this-with-your-hugo-site.com/2013/08/21/neal-ford-abstraction-distractions/</guid>
+      <guid>https://helmedeiros.github.io//2013/08/21/neal-ford-abstraction-distractions/</guid>
       <description>Falar sobre abstrações nos dias atuais, é refletir sobre a própria natureza da ciência da computação e da engenharia de software. Soluções escaláveis, problemas rotineiros, todos passam em algum momento pela escolha de como serão visto pelos usuários finais, e é comumente aí em que soterramos sob camadas e mais camadas de abstração as nossas soluções.
 Pensamos na facilidade de entender, de manter, e até de expandir; mas como lidamos com os problemas que existem nas partes que encobrimos com a abstração?</description>
     </item>
     
     <item>
       <title>O limbo da demanda latente – Alê Gomes</title>
-      <link>http://replace-this-with-your-hugo-site.com/2013/06/28/o-limbo-da-demanda-latente-ale-gomes/</link>
+      <link>https://helmedeiros.github.io//2013/06/28/o-limbo-da-demanda-latente-ale-gomes/</link>
       <pubDate>Fri, 28 Jun 2013 13:20:24 +0000</pubDate>
       
-      <guid>http://replace-this-with-your-hugo-site.com/2013/06/28/o-limbo-da-demanda-latente-ale-gomes/</guid>
+      <guid>https://helmedeiros.github.io//2013/06/28/o-limbo-da-demanda-latente-ale-gomes/</guid>
       <description>O Alê começou se apresentando e se colocando como indigno de ser keynoter deste grande evento, e começando a definir todos os outros que estão envolvidos no crescimento da comunidade. Para ele um não só é eleito um comitê para representar e lutar pelos interesses de todos uma vez que várias vozes ao mesmo tempo estão clamando.
 O Agile Brazil tem acontecido bem, e assim acontece quando o interesse deste grupo representa os representados!</description>
     </item>
     
     <item>
       <title>Story Mapping: o desafio de selecionar a primeira fatia do produto</title>
-      <link>http://replace-this-with-your-hugo-site.com/2013/06/26/story-mapping-o-desafio-de-selecionar-a-primeira-fatia-do-produto/</link>
+      <link>https://helmedeiros.github.io//2013/06/26/story-mapping-o-desafio-de-selecionar-a-primeira-fatia-do-produto/</link>
       <pubDate>Wed, 26 Jun 2013 15:58:21 +0000</pubDate>
       
-      <guid>http://replace-this-with-your-hugo-site.com/2013/06/26/story-mapping-o-desafio-de-selecionar-a-primeira-fatia-do-produto/</guid>
+      <guid>https://helmedeiros.github.io//2013/06/26/story-mapping-o-desafio-de-selecionar-a-primeira-fatia-do-produto/</guid>
       <description>O Imbertti começou a falar sobre o porque do agile, para ele uma das coisas é descobrir o produto e atender o time to market; outro ponto trabalhar junto e debater os assuntos.
 Story Mapping é desenvolver o produto em camadas, onde a primeira camada a mais baixa de um bolo pode ainda ser realizada uma festa, quanto mais voce aprende e evolui o bolo ganha camadas e pode ficar melhor.</description>
     </item>
     
     <item>
       <title>AgileBR bem vindo!!</title>
-      <link>http://replace-this-with-your-hugo-site.com/2013/06/26/agilebr-bem-vindo/</link>
+      <link>https://helmedeiros.github.io//2013/06/26/agilebr-bem-vindo/</link>
       <pubDate>Wed, 26 Jun 2013 13:26:47 +0000</pubDate>
       
-      <guid>http://replace-this-with-your-hugo-site.com/2013/06/26/agilebr-bem-vindo/</guid>
+      <guid>https://helmedeiros.github.io//2013/06/26/agilebr-bem-vindo/</guid>
       <description>Hoje, 26 de Junho dia de um dos maiores protestos desta nossa nova mudança brasileira, estamos reunidos para o início do maior evento de métodos ágeis do hemisfério sul.
 O grande Manoel Pimentel, iniciou os trabalhos às 09:30h com a apresentação de quem seriam os nosso convidados de honra e sobre oque eles iriam falar. Depois tivemos a apresentação dos novos brinquedos do evento como o continuos feedback, como canal direto com a equipe organizadora do evento e a sugestão de bombarmos com a #agilebr.</description>
     </item>
     
     <item>
       <title>The Green Lake Strategy – Um metamodelo para design de mercados – Manoel Pimentel Medeiros</title>
-      <link>http://replace-this-with-your-hugo-site.com/2012/09/07/the-green-lake-strategy-um-metamodelo-para-design-de-mercados-manoel-pimentel-medeiros/</link>
+      <link>https://helmedeiros.github.io//2012/09/07/the-green-lake-strategy-um-metamodelo-para-design-de-mercados-manoel-pimentel-medeiros/</link>
       <pubDate>Fri, 07 Sep 2012 12:12:40 +0000</pubDate>
       
-      <guid>http://replace-this-with-your-hugo-site.com/2012/09/07/the-green-lake-strategy-um-metamodelo-para-design-de-mercados-manoel-pimentel-medeiros/</guid>
+      <guid>https://helmedeiros.github.io//2012/09/07/the-green-lake-strategy-um-metamodelo-para-design-de-mercados-manoel-pimentel-medeiros/</guid>
       <description>A estratégia do oceano azul, é um livro que ensina estratégias de como criar e trabalhar mercados, e vai de encontra ao oceano vermelho cheio de concorrência, e a entrada neste mercado normalmente é baseada no aproveitamento e diferenciação por baixo custo sobre o mesmo. Mas &amp;#8220;como podemos escapar do oceano vermlho&amp;#8221; achar mercados inexplorados, onde você possa estar sozinho, ou que a concorrência seja irrelevante, onde a diferenciação pela inovação possas ser feita pelo valor gerado, oque é diretamente pontuado pelo mercado.</description>
     </item>
     
     <item>
       <title>Agile Portfolio Planning: Managing Your Project Portfolio – Johanna Rothman</title>
-      <link>http://replace-this-with-your-hugo-site.com/2012/09/06/agile-portfolio-planning-managing-your-project-portfolio-johanna-rothman/</link>
+      <link>https://helmedeiros.github.io//2012/09/06/agile-portfolio-planning-managing-your-project-portfolio-johanna-rothman/</link>
       <pubDate>Thu, 06 Sep 2012 18:07:51 +0000</pubDate>
       
-      <guid>http://replace-this-with-your-hugo-site.com/2012/09/06/agile-portfolio-planning-managing-your-project-portfolio-johanna-rothman/</guid>
+      <guid>https://helmedeiros.github.io//2012/09/06/agile-portfolio-planning-managing-your-project-portfolio-johanna-rothman/</guid>
       <description>&amp;nbsp;
 A Johanna iniciou agradecendo pelo convite e dizendo quanto esta feliz de estar no Brazil. E com uma pergunta como vocês adoram trabalhar em projetos multitarefas. Muitos podem gostar mas como você sabe oque fazer? Qual delas fazer primeiro? E quando existem interrupções? Não podemos ficar o tempo todo procurando nossos gerentes para que eles nos digam oque fazer. Nos precisamos e queremos usar nossos cerebros e participar e decidir por nós mesmos oque fazer.</description>
     </item>
     
     <item>
       <title>Keynote: Growing into FLUENCY AND EXCELLENCE – James Shore</title>
-      <link>http://replace-this-with-your-hugo-site.com/2012/09/06/keynote-growing-into-fluency-and-excellence-james-shore/</link>
+      <link>https://helmedeiros.github.io//2012/09/06/keynote-growing-into-fluency-and-excellence-james-shore/</link>
       <pubDate>Thu, 06 Sep 2012 13:48:33 +0000</pubDate>
       
-      <guid>http://replace-this-with-your-hugo-site.com/2012/09/06/keynote-growing-into-fluency-and-excellence-james-shore/</guid>
+      <guid>https://helmedeiros.github.io//2012/09/06/keynote-growing-into-fluency-and-excellence-james-shore/</guid>
       <description>O James Shore iniciou a sua apresentação as 09:10 falando sobre como se envolveu em um primeiro projeto utilizando FDD, com várias práticas que envolviam o cliente e protótipos e após várias entrega o projeto foi ENCERRADO, e uma coisa que ele percebeu pela primeira vez foi como mesmo inertes na realização de práticas ágeis, sem a devida evolução cultural, acabamos e continuamos nos preocupando com os pontos não tão importantes, deixando a preocupação de onde vem o dinheiro por exemplo de fora.</description>
     </item>
     
     <item>
       <title>Novatos no seu time ágil? Corra da inércia! – Cecilia Fernandes</title>
-      <link>http://replace-this-with-your-hugo-site.com/2012/09/05/novatos-no-seu-time-agil-corra-da-inercia-cecilia-fernandes/</link>
+      <link>https://helmedeiros.github.io//2012/09/05/novatos-no-seu-time-agil-corra-da-inercia-cecilia-fernandes/</link>
       <pubDate>Wed, 05 Sep 2012 19:51:01 +0000</pubDate>
       
-      <guid>http://replace-this-with-your-hugo-site.com/2012/09/05/novatos-no-seu-time-agil-corra-da-inercia-cecilia-fernandes/</guid>
+      <guid>https://helmedeiros.github.io//2012/09/05/novatos-no-seu-time-agil-corra-da-inercia-cecilia-fernandes/</guid>
       <description>[][1]Evitando mudanças Começou falando sobre inércia, explicando que inércia não quer dizer parado, mas pode ser … Então como fugir deste comportamento com os novatos?
 A Caelum em 2009 era de certo pequeno mas passado 3 anos que ainda permanecem na empresa mas muita… muita… mudanças aconteceram, e em uma equipe que acreditava em agilidade e nos benefícios dela pode se preocupar ainda somos ágeis?
 Mas primeiramente precisamos definir o que é agilidade, porque eles ainda continuam com testes automatizados, propriedade coletiva do código, coragem e outras práticas, mas a incerteza da agilidade preocupa.</description>
@@ -92,20 +92,20 @@ Mas primeiramente precisamos definir o que é agilidade, porque eles ainda conti
     
     <item>
       <title>The role of Agile analysis in Continuous Delivery – Jenny Wong e Danilo Sato</title>
-      <link>http://replace-this-with-your-hugo-site.com/2012/09/05/the-role-of-agile-analysis-in-continuous-delivery-jenny-wong-e-danilo-sato/</link>
+      <link>https://helmedeiros.github.io//2012/09/05/the-role-of-agile-analysis-in-continuous-delivery-jenny-wong-e-danilo-sato/</link>
       <pubDate>Wed, 05 Sep 2012 17:45:08 +0000</pubDate>
       
-      <guid>http://replace-this-with-your-hugo-site.com/2012/09/05/the-role-of-agile-analysis-in-continuous-delivery-jenny-wong-e-danilo-sato/</guid>
+      <guid>https://helmedeiros.github.io//2012/09/05/the-role-of-agile-analysis-in-continuous-delivery-jenny-wong-e-danilo-sato/</guid>
       <description>O que é entrega continua(continuos Delivery &amp;#8211; CD)? Assim começou a apresentação! A seguir em palavras trocadas entre a Jenny e o Danilo, vimos o que se seguiria, princípios de analise e engenharia envolvidos, definições e por fim princípios e atividades que podem ser utilizadas e testadas para realmente avançarmos nesta prática avançando de forma consciente as nossas entregas continuamente durante os seus dias e sprints.
 Entrega contínua é uma estratégia de desenvolvimento de software que otimiza o seu processo de entrega para obter software de alta qualidade, de valor entregue o mais rápido possível, mas por mais incrível que pareça, como a maior parte das estratégias lidas por nós acabamos por nos aprofundar e priorizar práticas e passos de como ao invés dos porquês.</description>
     </item>
     
     <item>
       <title>Bem vindo ao Agile Brazil 2012</title>
-      <link>http://replace-this-with-your-hugo-site.com/2012/09/05/bem-vindo-ao-agile-brazil-2012/</link>
+      <link>https://helmedeiros.github.io//2012/09/05/bem-vindo-ao-agile-brazil-2012/</link>
       <pubDate>Wed, 05 Sep 2012 14:33:33 +0000</pubDate>
       
-      <guid>http://replace-this-with-your-hugo-site.com/2012/09/05/bem-vindo-ao-agile-brazil-2012/</guid>
+      <guid>https://helmedeiros.github.io//2012/09/05/bem-vindo-ao-agile-brazil-2012/</guid>
       <description>Chegou o Agile Brazil 2012! Começamos as 09:40h com o Dairton Bassi fazendo as honras, o evento deste ano conta com a participação de 782 participantes, 302 empresas, 121 apresentações e 38 patrocinadores.
 Estarei nos próximos dias trazendo diariamente os relatos das apresentações que participar!
 As fotos vão se acumulando aqui &amp;gt;&amp;gt; http://www.flickr.com/photos/heliomedeiros/sets/72157631421021516/

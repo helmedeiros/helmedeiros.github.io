@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Rio on Helio Medeiros</title>
-    <link>http://replace-this-with-your-hugo-site.com/tags/rio/</link>
+    <link>https://helmedeiros.github.io//tags/rio/</link>
     <description>Recent content in Rio on Helio Medeiros</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 09 Nov 2009 23:37:20 +0000</lastBuildDate>
     
-	<atom:link href="http://replace-this-with-your-hugo-site.com/tags/rio/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://helmedeiros.github.io//tags/rio/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>WS-46 na Caelum com Phillip Calçado</title>
-      <link>http://replace-this-with-your-hugo-site.com/2009/11/09/ws-46-na-caelum-com-phillip-calcado/</link>
+      <link>https://helmedeiros.github.io//2009/11/09/ws-46-na-caelum-com-phillip-calcado/</link>
       <pubDate>Mon, 09 Nov 2009 23:37:20 +0000</pubDate>
       
-      <guid>http://replace-this-with-your-hugo-site.com/2009/11/09/ws-46-na-caelum-com-phillip-calcado/</guid>
+      <guid>https://helmedeiros.github.io//2009/11/09/ws-46-na-caelum-com-phillip-calcado/</guid>
       <description>Após alguns anos acompanhando o blog do Phillip, tive nesta segunda-feira o tão esperado curso WS-46 na Caelum Rio. Em um post recente e durante nossas conversas nos intervalos do curso o Phillip disse que provavelmente este seria o último ano do curso&amp;#8230; estou muito feliz por ter aproveitado a oportunidade.
 O curso iniciou-se às 09:20h devido alguns problemas de conexão apple mini display port -&amp;gt; projetor com entrada vga, o Nico Steppat que estava por lá rapidamente providenciou um notebook para substituir o mac pro do Phillip e a palestra começou com o aviso de que o computador não lhe pertencia e que com certeza haveriam problemas&amp;#8230;.</description>
     </item>

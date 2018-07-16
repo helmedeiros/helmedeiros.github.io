@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Fabiane Nardon on Helio Medeiros</title>
-    <link>http://replace-this-with-your-hugo-site.com/tags/fabiane-nardon/</link>
+    <link>https://helmedeiros.github.io//tags/fabiane-nardon/</link>
     <description>Recent content in Fabiane Nardon on Helio Medeiros</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 10 Apr 2014 18:32:54 +0000</lastBuildDate>
     
-	<atom:link href="http://replace-this-with-your-hugo-site.com/tags/fabiane-nardon/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://helmedeiros.github.io//tags/fabiane-nardon/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Data Science em Tempo Real com Storm</title>
-      <link>http://replace-this-with-your-hugo-site.com/2014/04/10/data-science-em-tempo-real-com-storm/</link>
+      <link>https://helmedeiros.github.io//2014/04/10/data-science-em-tempo-real-com-storm/</link>
       <pubDate>Thu, 10 Apr 2014 18:32:54 +0000</pubDate>
       
-      <guid>http://replace-this-with-your-hugo-site.com/2014/04/10/data-science-em-tempo-real-com-storm/</guid>
+      <guid>https://helmedeiros.github.io//2014/04/10/data-science-em-tempo-real-com-storm/</guid>
       <description>Hoje sabemos que temos um monte de dados, e dai descobrimos que estes dados não é só uma caixinha mais várias, você aplica processadores estatísticos, algo de inteligência artificial, e no final temos uma saída com os dados que são esperados.
 Em 2012 as aplicações da Fabiane eram mais ou menos, um acumulo de dados e que no final estes eram processados em batch com uma saída. Parece que durante muito tempo este processamento ou a necessidade em relacioná-los e processá-los era menor.</description>
     </item>

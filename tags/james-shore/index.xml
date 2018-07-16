@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>James Shore on Helio Medeiros</title>
-    <link>http://replace-this-with-your-hugo-site.com/tags/james-shore/</link>
+    <link>https://helmedeiros.github.io//tags/james-shore/</link>
     <description>Recent content in James Shore on Helio Medeiros</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 06 Sep 2012 13:48:33 +0000</lastBuildDate>
     
-	<atom:link href="http://replace-this-with-your-hugo-site.com/tags/james-shore/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://helmedeiros.github.io//tags/james-shore/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Keynote: Growing into FLUENCY AND EXCELLENCE – James Shore</title>
-      <link>http://replace-this-with-your-hugo-site.com/2012/09/06/keynote-growing-into-fluency-and-excellence-james-shore/</link>
+      <link>https://helmedeiros.github.io//2012/09/06/keynote-growing-into-fluency-and-excellence-james-shore/</link>
       <pubDate>Thu, 06 Sep 2012 13:48:33 +0000</pubDate>
       
-      <guid>http://replace-this-with-your-hugo-site.com/2012/09/06/keynote-growing-into-fluency-and-excellence-james-shore/</guid>
+      <guid>https://helmedeiros.github.io//2012/09/06/keynote-growing-into-fluency-and-excellence-james-shore/</guid>
       <description>O James Shore iniciou a sua apresentação as 09:10 falando sobre como se envolveu em um primeiro projeto utilizando FDD, com várias práticas que envolviam o cliente e protótipos e após várias entrega o projeto foi ENCERRADO, e uma coisa que ele percebeu pela primeira vez foi como mesmo inertes na realização de práticas ágeis, sem a devida evolução cultural, acabamos e continuamos nos preocupando com os pontos não tão importantes, deixando a preocupação de onde vem o dinheiro por exemplo de fora.</description>
     </item>
     

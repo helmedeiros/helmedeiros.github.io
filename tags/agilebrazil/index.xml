@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Agilebrazil on Helio Medeiros</title>
-    <link>http://replace-this-with-your-hugo-site.com/tags/agilebrazil/</link>
+    <link>https://helmedeiros.github.io//tags/agilebrazil/</link>
     <description>Recent content in Agilebrazil on Helio Medeiros</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 26 Jun 2013 15:58:21 +0000</lastBuildDate>
     
-	<atom:link href="http://replace-this-with-your-hugo-site.com/tags/agilebrazil/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://helmedeiros.github.io//tags/agilebrazil/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Story Mapping: o desafio de selecionar a primeira fatia do produto</title>
-      <link>http://replace-this-with-your-hugo-site.com/2013/06/26/story-mapping-o-desafio-de-selecionar-a-primeira-fatia-do-produto/</link>
+      <link>https://helmedeiros.github.io//2013/06/26/story-mapping-o-desafio-de-selecionar-a-primeira-fatia-do-produto/</link>
       <pubDate>Wed, 26 Jun 2013 15:58:21 +0000</pubDate>
       
-      <guid>http://replace-this-with-your-hugo-site.com/2013/06/26/story-mapping-o-desafio-de-selecionar-a-primeira-fatia-do-produto/</guid>
+      <guid>https://helmedeiros.github.io//2013/06/26/story-mapping-o-desafio-de-selecionar-a-primeira-fatia-do-produto/</guid>
       <description>O Imbertti começou a falar sobre o porque do agile, para ele uma das coisas é descobrir o produto e atender o time to market; outro ponto trabalhar junto e debater os assuntos.
 Story Mapping é desenvolver o produto em camadas, onde a primeira camada a mais baixa de um bolo pode ainda ser realizada uma festa, quanto mais voce aprende e evolui o bolo ganha camadas e pode ficar melhor.</description>
     </item>

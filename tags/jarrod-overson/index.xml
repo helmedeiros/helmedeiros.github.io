@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Jarrod Overson on Helio Medeiros</title>
-    <link>http://replace-this-with-your-hugo-site.com/tags/jarrod-overson/</link>
+    <link>https://helmedeiros.github.io//tags/jarrod-overson/</link>
     <description>Recent content in Jarrod Overson on Helio Medeiros</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 10 Apr 2014 15:03:02 +0000</lastBuildDate>
     
-	<atom:link href="http://replace-this-with-your-hugo-site.com/tags/jarrod-overson/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://helmedeiros.github.io//tags/jarrod-overson/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Scaling League of Legends: managing culture, extreme complexity and 30 million active users</title>
-      <link>http://replace-this-with-your-hugo-site.com/2014/04/10/scaling-league-of-legends-managing-culture-extreme-complexity-and-30-million-active-users/</link>
+      <link>https://helmedeiros.github.io//2014/04/10/scaling-league-of-legends-managing-culture-extreme-complexity-and-30-million-active-users/</link>
       <pubDate>Thu, 10 Apr 2014 15:03:02 +0000</pubDate>
       
-      <guid>http://replace-this-with-your-hugo-site.com/2014/04/10/scaling-league-of-legends-managing-culture-extreme-complexity-and-30-million-active-users/</guid>
+      <guid>https://helmedeiros.github.io//2014/04/10/scaling-league-of-legends-managing-culture-extreme-complexity-and-30-million-active-users/</guid>
       <description>O keynote do Jarrod Overson começou as 10:58h com um pouco do seu background, ele como um gamer não poderia trabalhar em algo diferente. Com 15 anos &amp;#8220;remunerados&amp;#8221; como assim pode dizer, chegou ao ponto em que sua empresa tem um grande produto hoje o League of Legends, em que jogadores on-line se degladeiam, enquanto a plataforma se torna ENORME!!League of legends
 Imagine agora seu código, ou o código escrito por Jarrod ou sua equipe para aguentar tantos acessos, agora pense em como a empresa cresce para acompanhar o sucesso e escalar as necessidades de um novo mercado que se abre.</description>
     </item>

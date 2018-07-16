@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Global Code on Helio Medeiros</title>
-    <link>http://replace-this-with-your-hugo-site.com/tags/global-code/</link>
+    <link>https://helmedeiros.github.io//tags/global-code/</link>
     <description>Recent content in Global Code on Helio Medeiros</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 11 Nov 2009 14:22:51 +0000</lastBuildDate>
     
-	<atom:link href="http://replace-this-with-your-hugo-site.com/tags/global-code/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://helmedeiros.github.io//tags/global-code/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Mike Keith – Java EE 6 – Uma grande evolução</title>
-      <link>http://replace-this-with-your-hugo-site.com/2009/11/11/mike-keith-java-ee-6-uma-grande-evolucao/</link>
+      <link>https://helmedeiros.github.io//2009/11/11/mike-keith-java-ee-6-uma-grande-evolucao/</link>
       <pubDate>Wed, 11 Nov 2009 14:22:51 +0000</pubDate>
       
-      <guid>http://replace-this-with-your-hugo-site.com/2009/11/11/mike-keith-java-ee-6-uma-grande-evolucao/</guid>
+      <guid>https://helmedeiros.github.io//2009/11/11/mike-keith-java-ee-6-uma-grande-evolucao/</guid>
       <description>A palestra de Mike Keith iniciou às 11:00h, após o coffee break, com algumas brincadeiras e perguntas sobre o tempo em que era despendido entre o lançamento das novas versões Java, sem a platéia achava muito ou pouco e se não os interessava, o slide deste momento mostrava a frase &amp;#8220;Ou não se importa pois acha que a Microsoft irá matar o Java&amp;#8221;. Sei que poderiam haver problemas dizer algo assim a algum tempo&amp;#8230; mas pelo que vim escutando neste tempo aqui no Rio, pelo próprio Phillip, o .</description>
     </item>
     

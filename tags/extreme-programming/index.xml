@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Extreme Programming on Helio Medeiros</title>
-    <link>http://replace-this-with-your-hugo-site.com/tags/extreme-programming/</link>
+    <link>https://helmedeiros.github.io//tags/extreme-programming/</link>
     <description>Recent content in Extreme Programming on Helio Medeiros</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 24 Aug 2012 12:06:34 +0000</lastBuildDate>
     
-	<atom:link href="http://replace-this-with-your-hugo-site.com/tags/extreme-programming/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://helmedeiros.github.io//tags/extreme-programming/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>1ª Semana de LightningTalks e FishBowls no TecnoPUC</title>
-      <link>http://replace-this-with-your-hugo-site.com/2012/08/24/1a-semana-de-lightningtalks-e-fishbowls-no-tecnopuc/</link>
+      <link>https://helmedeiros.github.io//2012/08/24/1a-semana-de-lightningtalks-e-fishbowls-no-tecnopuc/</link>
       <pubDate>Fri, 24 Aug 2012 12:06:34 +0000</pubDate>
       
-      <guid>http://replace-this-with-your-hugo-site.com/2012/08/24/1a-semana-de-lightningtalks-e-fishbowls-no-tecnopuc/</guid>
+      <guid>https://helmedeiros.github.io//2012/08/24/1a-semana-de-lightningtalks-e-fishbowls-no-tecnopuc/</guid>
       <description>Aconteceu há algumas horas o 4º dia da 1ª Semana de LightningTalks e FishBowls no TecnoPUC onde apresentei a Lightning Talk Test Driven Development &amp;#8211; Em busca de feedback útil e concreto, que abordava o conceito de feedback validado na construção de software.
 Muito se tem falado por equipes e comunidades por onde transito sobre testes e QA, mas aparentemente muitas delas ainda estão correndo e lutando as mesmas batalhas todos os dias.</description>
     </item>
     
     <item>
       <title>Materializando os Valores XP – Aula 13</title>
-      <link>http://replace-this-with-your-hugo-site.com/2010/04/11/materializando-os-valores-xp-aula-13/</link>
+      <link>https://helmedeiros.github.io//2010/04/11/materializando-os-valores-xp-aula-13/</link>
       <pubDate>Sun, 11 Apr 2010 12:45:09 +0000</pubDate>
       
-      <guid>http://replace-this-with-your-hugo-site.com/2010/04/11/materializando-os-valores-xp-aula-13/</guid>
+      <guid>https://helmedeiros.github.io//2010/04/11/materializando-os-valores-xp-aula-13/</guid>
       <description>Segunda aula sobre a metodologia ágil XP lecionada junto a Universidade Potiguar. Nesta aula foram apresentados as formas encontradas pelo XP para transmitir seu valores, materializando-os por meio de ações, decisões e práticas. São apresentados os princípios básicos e menos fundamentais, assim como as práticas do XP. Por fim são diagramadas as relações expostas por Kent Beck em Extreme Programming Explained entre as práticas, mostrando a integração proposta para práticas consagradas mas que haviam falhado em um outros ambientes, que agora mostram sua força coletiva nesta metodologia de ações extremas.</description>
     </item>
     

@@ -2,119 +2,119 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Uncategorized on Helio Medeiros</title>
-    <link>http://replace-this-with-your-hugo-site.com/categories/uncategorized/</link>
+    <link>https://helmedeiros.github.io//categories/uncategorized/</link>
     <description>Recent content in Uncategorized on Helio Medeiros</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 18 Mar 2010 03:18:19 +0000</lastBuildDate>
     
-	<atom:link href="http://replace-this-with-your-hugo-site.com/categories/uncategorized/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://helmedeiros.github.io//categories/uncategorized/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Sétima aula !! SCRUM !!!</title>
-      <link>http://replace-this-with-your-hugo-site.com/2010/03/18/setima-aula-scrum-processo/</link>
+      <link>https://helmedeiros.github.io//2010/03/18/setima-aula-scrum-processo/</link>
       <pubDate>Thu, 18 Mar 2010 03:18:19 +0000</pubDate>
       
-      <guid>http://replace-this-with-your-hugo-site.com/2010/03/18/setima-aula-scrum-processo/</guid>
+      <guid>https://helmedeiros.github.io//2010/03/18/setima-aula-scrum-processo/</guid>
       <description>Segunda apresentação sobre a metodologia ágil SCRUM lecionada junto a Universidade Potiguar. Nesta aula são definidas as etapas e os benefícios trazidos aos projetos que adotam essa metodologia.
 [slideshare id=3462783&amp;amp;doc=unp-aula7-100317220152-phpapp01]</description>
     </item>
     
     <item>
       <title>Sexta aula !! SCRUM !!!</title>
-      <link>http://replace-this-with-your-hugo-site.com/2010/03/16/sexta-aula-scrum/</link>
+      <link>https://helmedeiros.github.io//2010/03/16/sexta-aula-scrum/</link>
       <pubDate>Wed, 17 Mar 2010 01:32:39 +0000</pubDate>
       
-      <guid>http://replace-this-with-your-hugo-site.com/2010/03/16/sexta-aula-scrum/</guid>
+      <guid>https://helmedeiros.github.io//2010/03/16/sexta-aula-scrum/</guid>
       <description>Primeira aula sobre a metodologia ágil SCRUM apresentada junto a Universidade Potiguar. Nesta aula é apresentada a origem do SCRUM, seus papeis e responsabilidades, ciclo de via e artefatos.
 [slideshare id=3451696&amp;amp;doc=unp-aula6-100316202213-phpapp01]</description>
     </item>
     
     <item>
       <title>Terceira Aula !! Modelo Cascata…</title>
-      <link>http://replace-this-with-your-hugo-site.com/2010/03/04/terceira-aula-modelo-cascata/</link>
+      <link>https://helmedeiros.github.io//2010/03/04/terceira-aula-modelo-cascata/</link>
       <pubDate>Thu, 04 Mar 2010 02:53:58 +0000</pubDate>
       
-      <guid>http://replace-this-with-your-hugo-site.com/2010/03/04/terceira-aula-modelo-cascata/</guid>
+      <guid>https://helmedeiros.github.io//2010/03/04/terceira-aula-modelo-cascata/</guid>
       <description>Esta é a terceira aula ministrada junto a disciplina de engenharia de software da Universidade Potiguar, onde é apresentada a fundamentação para a escolha de um modelo baseado em processo sequencial e definido para resolução dos problemas conhecidos e imutáveis. É exibido o modelo cascata e sua incompatibilidade com os cenários reais&amp;#8230; desenvolver software não é construir prédio.
 [slideshare id=3331054&amp;amp;doc=unp-aula3-100303204328-phpapp01]</description>
     </item>
     
     <item>
       <title>Já tive um gerente que comia velocidade no café</title>
-      <link>http://replace-this-with-your-hugo-site.com/2010/02/25/ja-tive-um-gerente-que-comia-velocidade-no-cafe/</link>
+      <link>https://helmedeiros.github.io//2010/02/25/ja-tive-um-gerente-que-comia-velocidade-no-cafe/</link>
       <pubDate>Fri, 26 Feb 2010 00:44:26 +0000</pubDate>
       
-      <guid>http://replace-this-with-your-hugo-site.com/2010/02/25/ja-tive-um-gerente-que-comia-velocidade-no-cafe/</guid>
+      <guid>https://helmedeiros.github.io//2010/02/25/ja-tive-um-gerente-que-comia-velocidade-no-cafe/</guid>
       <description>Há um bom tempo venho observando as mais diversas formas utilizadas, pelos gerentes das equipes por onde passei, para realização dos acompanhamentos das minhas produtividades, e também dos outros membros para realizar suas estimativas. Alguns demoram muito analisando os misteriosos pontos de função, outros visualizam apenas linhas de código e só alguns, talvez os mais interessantes, viam a quantidade de funcionalidades entregues realmente da forma que satisfazia iteração após iteração o nosso cliente.</description>
     </item>
     
     <item>
       <title>Primeira aula ministrada! Começando…</title>
-      <link>http://replace-this-with-your-hugo-site.com/2010/02/24/primeira-aula-ministrada-comecando/</link>
+      <link>https://helmedeiros.github.io//2010/02/24/primeira-aula-ministrada-comecando/</link>
       <pubDate>Wed, 24 Feb 2010 02:10:53 +0000</pubDate>
       
-      <guid>http://replace-this-with-your-hugo-site.com/2010/02/24/primeira-aula-ministrada-comecando/</guid>
+      <guid>https://helmedeiros.github.io//2010/02/24/primeira-aula-ministrada-comecando/</guid>
       <description>Tem um tempo que comentei sobre o convite realizado pela Universidade Potiguar para que eu ministrasse a disciplina de engenharia de software, bem hoje foi a primeira aula, seguindo principalmente aquilo que esperava como aluno e guiado pela diretrizes da coordenação elaborei o cronograma de aulas que proporcionasse ao aluno um conhecimento geral, mas prático do desenvolvimento de software com objetivos sólidos e focados em qualidade.
 Segue a baixo a primeira aula, quem tiver algumas dicas ou sugestões, sejam bem vindos.</description>
     </item>
     
     <item>
       <title>Minha equipe precisa de um pedal de overdriver</title>
-      <link>http://replace-this-with-your-hugo-site.com/2010/02/11/minha-equipe-precisa-de-um-pedal-de-overdriver/</link>
+      <link>https://helmedeiros.github.io//2010/02/11/minha-equipe-precisa-de-um-pedal-de-overdriver/</link>
       <pubDate>Fri, 12 Feb 2010 01:55:03 +0000</pubDate>
       
-      <guid>http://replace-this-with-your-hugo-site.com/2010/02/11/minha-equipe-precisa-de-um-pedal-de-overdriver/</guid>
+      <guid>https://helmedeiros.github.io//2010/02/11/minha-equipe-precisa-de-um-pedal-de-overdriver/</guid>
       <description>Estou a algum tempo pesquisando sobre o as relações e como podemos trabalhar junto as equipes constituindo um crescimento naturalmente feliz e produtivo.
 Estive um tempo atrás no Rio e ouvi(tudo que eu queria saber antes de virar um líder técnico), assim como tinha lido em alguns blogs, que se queremos aprender ou aplicar algo em nosso dia-a-dia que impacte positivamente em nosso trabalho devemos fazê-lo nos mesmos e não esperar por chefes ou colegas, é mostrando as melhorias que realmente se conquista o reconhecimento do sucesso.</description>
     </item>
     
     <item>
       <title>O objetivo não deveria ser entregar ótimas funcionalidades ?</title>
-      <link>http://replace-this-with-your-hugo-site.com/2010/02/09/o-objetivo-nao-deveria-ser-entregar-otimas-funcionalidades/</link>
+      <link>https://helmedeiros.github.io//2010/02/09/o-objetivo-nao-deveria-ser-entregar-otimas-funcionalidades/</link>
       <pubDate>Tue, 09 Feb 2010 23:49:20 +0000</pubDate>
       
-      <guid>http://replace-this-with-your-hugo-site.com/2010/02/09/o-objetivo-nao-deveria-ser-entregar-otimas-funcionalidades/</guid>
+      <guid>https://helmedeiros.github.io//2010/02/09/o-objetivo-nao-deveria-ser-entregar-otimas-funcionalidades/</guid>
       <description>Uma coisa que me intriga mais e mais cada vez que escuto alguém falando que utiliza metodologias ágeis, e que seus clientes continuam insatisfeitos, mesmo com as entregas reptiveis de software funcionando, é que nós não deveríamos antecipar o retorno ao investimento de nosso cliente dando a ele subsídios para otimizar o funcionamento de seu negócio ?
 Lí a pouco uma frase no twitter do @jeffpatton, &amp;#8220;Looking forward to the time when people use agile development to build great products, not just deliver dumb stuff faster.</description>
     </item>
     
     <item>
       <title>Mais um professor na família !</title>
-      <link>http://replace-this-with-your-hugo-site.com/2010/01/26/ola-unp-mais-um-professor-na-familia/</link>
+      <link>https://helmedeiros.github.io//2010/01/26/ola-unp-mais-um-professor-na-familia/</link>
       <pubDate>Tue, 26 Jan 2010 23:47:13 +0000</pubDate>
       
-      <guid>http://replace-this-with-your-hugo-site.com/2010/01/26/ola-unp-mais-um-professor-na-familia/</guid>
+      <guid>https://helmedeiros.github.io//2010/01/26/ola-unp-mais-um-professor-na-familia/</guid>
       <description>Não esperava que isto pudesse acontecer tão cedo, o fluxo a seguir tratando-se da área acadêmica é sempre muito longo e normalmente pretere os mais experientes, mas acontece que em 2010 minha família ganhará um novo professor.
 Sempre tive este sonho, de assim como minha família, poder um dia lecionar e quem sabe ajudar a construir os alicerces de algumas carreiras, assim como estou acostumado a ouvir grandes pessoas referindo-se a minha mãe; ou quem sabe receber o afeto incondicional dos alunos&amp;#8230; materializados em chocolates, maças e outras coisas mais&amp;#8230; como minha irmã mais velha.</description>
     </item>
     
     <item>
       <title>Será que ajudei alguém a derrubar as paredes erradas?</title>
-      <link>http://replace-this-with-your-hugo-site.com/2009/11/17/sera-que-ajudei-alguem-a-derrubar-as-paredes-erradas/</link>
+      <link>https://helmedeiros.github.io//2009/11/17/sera-que-ajudei-alguem-a-derrubar-as-paredes-erradas/</link>
       <pubDate>Tue, 17 Nov 2009 10:06:49 +0000</pubDate>
       
-      <guid>http://replace-this-with-your-hugo-site.com/2009/11/17/sera-que-ajudei-alguem-a-derrubar-as-paredes-erradas/</guid>
+      <guid>https://helmedeiros.github.io//2009/11/17/sera-que-ajudei-alguem-a-derrubar-as-paredes-erradas/</guid>
       <description>Aproximadamente um mês atrás realizei juntamente ao meu ex-colega de trabalho e amigo Germano Carvalho, um minicurso sobre metodologias ágeis e scrum no décimo primeiro congresso científico da UnP. A principio ficamos naquela sobre a quantidade de participantes e do interesse dos mesmos sobre o assunto. Eu como sempre imaginei a sala meio cheia, mas no final quem acertou foi Germano. Acho que os participantes já haviam lido muitos artigos e acabaram por prolongar seus feriados.</description>
     </item>
     
     <item>
       <title>yUML- Por que escrever um blog ?</title>
-      <link>http://replace-this-with-your-hugo-site.com/2009/08/05/yuml-por-que-escrever-um-blog/</link>
+      <link>https://helmedeiros.github.io//2009/08/05/yuml-por-que-escrever-um-blog/</link>
       <pubDate>Wed, 05 Aug 2009 12:03:24 +0000</pubDate>
       
-      <guid>http://replace-this-with-your-hugo-site.com/2009/08/05/yuml-por-que-escrever-um-blog/</guid>
+      <guid>https://helmedeiros.github.io//2009/08/05/yuml-por-que-escrever-um-blog/</guid>
       <description>Venho tentando a algum tempo criar a cultura de assim como ler ótimos posts, escrevê-los tambem. Lí em vários destes a importância da disseminação do conhecimento e ê sobre isso que falo neste post de retomada.
 Foi lançado mais um serviço web que reforça o compartilhamento de conhecimentos web, o que era antes algo dispendioso para os blogueiros do &amp;#8220;mundo.dev&amp;#8221;, que tinham sua pequena banda utilizada pelas visualização de diagramas e mais diagramas, que deveriam ser pequenos para não ocupar muito espaço, mas não tanto para que não se tornasse impossível a visualização e entendimento.</description>
     </item>
     
     <item>
       <title>Pronto para começar !</title>
-      <link>http://replace-this-with-your-hugo-site.com/2008/06/12/hello-world/</link>
+      <link>https://helmedeiros.github.io//2008/06/12/hello-world/</link>
       <pubDate>Thu, 12 Jun 2008 20:16:38 +0000</pubDate>
       
-      <guid>http://replace-this-with-your-hugo-site.com/2008/06/12/hello-world/</guid>
+      <guid>https://helmedeiros.github.io//2008/06/12/hello-world/</guid>
       <description>Com este primeiro post trago as boas novas:
 Estou inciando hoje esta nova experiência, criando meu primeiro blog pessoal.
 E as más novas também:

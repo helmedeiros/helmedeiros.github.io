@@ -2,102 +2,102 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Helio Medeiros</title>
-    <link>http://replace-this-with-your-hugo-site.com/categories/</link>
+    <link>https://helmedeiros.github.io//categories/</link>
     <description>Recent content in Categories on Helio Medeiros</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 06 Nov 2014 12:57:31 +0000</lastBuildDate>
     
-	<atom:link href="http://replace-this-with-your-hugo-site.com/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://helmedeiros.github.io//categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Ageis</title>
-      <link>http://replace-this-with-your-hugo-site.com/categories/ageis/</link>
+      <link>https://helmedeiros.github.io//categories/ageis/</link>
       <pubDate>Thu, 06 Nov 2014 12:57:31 +0000</pubDate>
       
-      <guid>http://replace-this-with-your-hugo-site.com/categories/ageis/</guid>
+      <guid>https://helmedeiros.github.io//categories/ageis/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Apresentações</title>
-      <link>http://replace-this-with-your-hugo-site.com/categories/apresenta%C3%A7%C3%B5es/</link>
+      <link>https://helmedeiros.github.io//categories/apresenta%C3%A7%C3%B5es/</link>
       <pubDate>Thu, 06 Nov 2014 12:57:31 +0000</pubDate>
       
-      <guid>http://replace-this-with-your-hugo-site.com/categories/apresenta%C3%A7%C3%B5es/</guid>
+      <guid>https://helmedeiros.github.io//categories/apresenta%C3%A7%C3%B5es/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Eventos</title>
-      <link>http://replace-this-with-your-hugo-site.com/categories/eventos/</link>
+      <link>https://helmedeiros.github.io//categories/eventos/</link>
       <pubDate>Thu, 06 Nov 2014 12:57:31 +0000</pubDate>
       
-      <guid>http://replace-this-with-your-hugo-site.com/categories/eventos/</guid>
+      <guid>https://helmedeiros.github.io//categories/eventos/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Metodologias</title>
-      <link>http://replace-this-with-your-hugo-site.com/categories/metodologias/</link>
+      <link>https://helmedeiros.github.io//categories/metodologias/</link>
       <pubDate>Thu, 06 Nov 2014 12:57:31 +0000</pubDate>
       
-      <guid>http://replace-this-with-your-hugo-site.com/categories/metodologias/</guid>
+      <guid>https://helmedeiros.github.io//categories/metodologias/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Padrões De Análise</title>
-      <link>http://replace-this-with-your-hugo-site.com/categories/padr%C3%B5es-de-an%C3%A1lise/</link>
+      <link>https://helmedeiros.github.io//categories/padr%C3%B5es-de-an%C3%A1lise/</link>
       <pubDate>Sat, 12 Jul 2008 03:27:57 +0000</pubDate>
       
-      <guid>http://replace-this-with-your-hugo-site.com/categories/padr%C3%B5es-de-an%C3%A1lise/</guid>
+      <guid>https://helmedeiros.github.io//categories/padr%C3%B5es-de-an%C3%A1lise/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Rup</title>
-      <link>http://replace-this-with-your-hugo-site.com/categories/rup/</link>
+      <link>https://helmedeiros.github.io//categories/rup/</link>
       <pubDate>Sat, 12 Jul 2008 09:24:51 +0000</pubDate>
       
-      <guid>http://replace-this-with-your-hugo-site.com/categories/rup/</guid>
+      <guid>https://helmedeiros.github.io//categories/rup/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Slides</title>
-      <link>http://replace-this-with-your-hugo-site.com/categories/slides/</link>
+      <link>https://helmedeiros.github.io//categories/slides/</link>
       <pubDate>Tue, 18 Dec 2012 02:42:59 +0000</pubDate>
       
-      <guid>http://replace-this-with-your-hugo-site.com/categories/slides/</guid>
+      <guid>https://helmedeiros.github.io//categories/slides/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Uml</title>
-      <link>http://replace-this-with-your-hugo-site.com/categories/uml/</link>
+      <link>https://helmedeiros.github.io//categories/uml/</link>
       <pubDate>Wed, 05 Aug 2009 12:03:24 +0000</pubDate>
       
-      <guid>http://replace-this-with-your-hugo-site.com/categories/uml/</guid>
+      <guid>https://helmedeiros.github.io//categories/uml/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Uncategorized</title>
-      <link>http://replace-this-with-your-hugo-site.com/categories/uncategorized/</link>
+      <link>https://helmedeiros.github.io//categories/uncategorized/</link>
       <pubDate>Thu, 18 Mar 2010 03:18:19 +0000</pubDate>
       
-      <guid>http://replace-this-with-your-hugo-site.com/categories/uncategorized/</guid>
+      <guid>https://helmedeiros.github.io//categories/uncategorized/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Zsh</title>
-      <link>http://replace-this-with-your-hugo-site.com/categories/zsh/</link>
+      <link>https://helmedeiros.github.io//categories/zsh/</link>
       <pubDate>Tue, 15 Nov 2011 20:23:19 +0000</pubDate>
       
-      <guid>http://replace-this-with-your-hugo-site.com/categories/zsh/</guid>
+      <guid>https://helmedeiros.github.io//categories/zsh/</guid>
       <description></description>
     </item>
     

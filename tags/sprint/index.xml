@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Sprint on Helio Medeiros</title>
-    <link>http://replace-this-with-your-hugo-site.com/tags/sprint/</link>
+    <link>https://helmedeiros.github.io//tags/sprint/</link>
     <description>Recent content in Sprint on Helio Medeiros</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 17 Nov 2009 10:06:49 +0000</lastBuildDate>
     
-	<atom:link href="http://replace-this-with-your-hugo-site.com/tags/sprint/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://helmedeiros.github.io//tags/sprint/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Será que ajudei alguém a derrubar as paredes erradas?</title>
-      <link>http://replace-this-with-your-hugo-site.com/2009/11/17/sera-que-ajudei-alguem-a-derrubar-as-paredes-erradas/</link>
+      <link>https://helmedeiros.github.io//2009/11/17/sera-que-ajudei-alguem-a-derrubar-as-paredes-erradas/</link>
       <pubDate>Tue, 17 Nov 2009 10:06:49 +0000</pubDate>
       
-      <guid>http://replace-this-with-your-hugo-site.com/2009/11/17/sera-que-ajudei-alguem-a-derrubar-as-paredes-erradas/</guid>
+      <guid>https://helmedeiros.github.io//2009/11/17/sera-que-ajudei-alguem-a-derrubar-as-paredes-erradas/</guid>
       <description>Aproximadamente um mês atrás realizei juntamente ao meu ex-colega de trabalho e amigo Germano Carvalho, um minicurso sobre metodologias ágeis e scrum no décimo primeiro congresso científico da UnP. A principio ficamos naquela sobre a quantidade de participantes e do interesse dos mesmos sobre o assunto. Eu como sempre imaginei a sala meio cheia, mas no final quem acertou foi Germano. Acho que os participantes já haviam lido muitos artigos e acabaram por prolongar seus feriados.</description>
     </item>
     
