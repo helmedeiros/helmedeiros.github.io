@@ -1,0 +1,349 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  <head>
+  <meta charset="utf-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
+
+  <title>Nunca é tarde! Convertido do Bash para ZSH!</title>
+
+  <meta name="author" content="" />
+  
+  
+
+  <meta name="generator" content="Hugo 0.44" />
+
+  <link rel="alternate" href="http://replace-this-with-your-hugo-site.com/index.xml" type="application/rss+xml" title="Helio Medeiros">
+
+  <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css" />
+  <link rel="stylesheet" href="http://replace-this-with-your-hugo-site.com/css/bootstrap.min.css" />
+  <link rel="stylesheet" href="http://replace-this-with-your-hugo-site.com/css/main.css" />
+  <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Lora:400,700,400italic,700italic" />
+  <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800" />
+  <link rel="stylesheet" href="http://replace-this-with-your-hugo-site.com/css/pygment_highlights.css" />
+  
+  
+  <meta property="og:title" content="Nunca é tarde! Convertido do Bash para ZSH!" />
+  <meta property="og:type" content="website" />
+  <meta property="og:url" content="/2011/11/15/nunca-e-tarde-convertido-do-bash-para-zsh//" />
+  <meta property="og:image" content="" />
+  
+</head>
+
+
+  <body>
+
+    <nav class="navbar navbar-default navbar-fixed-top navbar-custom">
+  <div class="container-fluid">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#main-navbar">
+        <span class="sr-only">Toggle navigation</span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a class="navbar-brand" href="http://replace-this-with-your-hugo-site.com/">Helio Medeiros</a>
+    </div>
+
+    <div class="collapse navbar-collapse" id="main-navbar">
+      <ul class="nav navbar-nav navbar-right">
+      
+      </ul>
+    </div>
+
+	<div class="avatar-container">
+	  <div class="avatar-img-border">
+      
+	  </div>
+	</div>
+
+  </div>
+</nav>
+
+
+    <div role="main" class="container main-content">
+
+      
+        
+
+
+
+
+
+<header class="header-section ">
+
+<div class="intro-header no-img">
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+        <div class="post-heading">
+          <h1>Nunca é tarde! Convertido do Bash para ZSH!</h1>
+      
+      
+      
+      <span class="post-meta">Posted on November 15, 2011</span>
+      
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+</header>
+
+
+
+
+<div class="container">
+  <div class="row">
+    <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+      <article role="main" class="blog-post">
+          
+
+<p>Após um bom tempo utilizando o zsh, apresentei recentemente a um amigo que se surpreendeu, após conversarmos um pouco surgiu a idéia de aprender um pouco mais, e compartilhar&#8230;. Fui influenciado há certo tempo pela onda <a href="http://twitter.com/#!/ohmyzsh/status/14812098501">oh-my-zsh</a>, mas acabei por não contribuir em nada. Quem sabe agora?!?!</p>
+
+<p>Começando do inicio, acredito que a maior parte de nós em algum momento já se deparou com um <a href="http://en.wikipedia.org/wiki/Shell_%28computing%29" target="_blank">shell</a> de linha de comandos.O shell como é mais utilizado é uma interface textual para as funcionalidades do sistema operacional, no MacOS você o acessa por meio do Terminal ou <a href="http://www.iterm2.com/#/section/home" title="iTerm2">iTerm2</a>. Existem muitos shells a serem escolhidas, e a maioria dos sistemas operacionais/distribuições acabam &#8220;facilitando&#8221; esta escolha definindo alguma padrão. Durante muito tempo só conhecia o mais popular deles GNU Bourne Again Shell ou <a href="http://en.wikipedia.org/wiki/Bash_(Unix_shell)" title="bash">bash</a>, uma excelente escolha quando você precisa repetir os mesmos comandos que já estão no histórico, para iniciar algum container ou ver logs&#8230; mas uma péssima, quando você passa certo tempo usando <a href="http://git-scm.com/">Git</a> e <a href="https://rvm.beginrescueend.com/">RVM</a> (</p>
+
+<div class="codecolorer-container text railscasts" style="overflow:auto;white-space:nowrap;width:435px;">
+  <table cellspacing="0" cellpadding="0">
+    <tr>
+      <td class="line-numbers">
+        <div>
+          1<br />
+        </div>
+      </td>
+      
+      <td>
+        <div class="text codecolorer">
+          git branch
+        </div>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<p> para lembrar o branch que estou e </p>
+
+<div class="codecolorer-container text railscasts" style="overflow:auto;white-space:nowrap;width:435px;">
+  <table cellspacing="0" cellpadding="0">
+    <tr>
+      <td class="line-numbers">
+        <div>
+          1<br />
+        </div>
+      </td>
+      
+      <td>
+        <div class="text codecolorer">
+          rvm gemdir
+        </div>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<p> para ver a versão do ruby e gems) ou aprendendo comandos novos e utilizando novas técnicas do universo <a href="http://en.wikipedia.org/wiki/DevOps" title="devOps">devops</a> (fiz recentemente o curso da <a href="http://www.egenial.pro/pt/site" title="egenial">egenial</a> de <a href="http://www.egenial.pro/pt/imersaosysdeploy" title="Imersão Sys Deploy">imersão sys deploy</a>).</p>
+
+<h2 id="zsh">zsh?</h2>
+
+<p>O Z-shell ou <a href="http://en.wikipedia.org/wiki/Z_shell">zsh</a> é um dos shells mais completos em termos de funcionalidades e usabilidade dentre os disponíveis no <a href="http://en.wikipedia.org/wiki/Darwin_(operating_system)" title="Darwin">Darwin</a> que traz como default o tsch desde a v.7.0 presente no Mac Os X Panther. A <a href="http://zsh.sourceforge.net/" title="ZSH site">equipe do zsh</a> já faz um excelente trabalho explicando e e advogando ao seu respeito, mas como todos tenho meus pontos preferidos.</p>
+
+<ol>
+<li><p><strong>Corretor ortográfico</strong>: Quem nunca escreveu _rmv, fnd, mkdr _ou qualquer outro comando incorretamente? O zsh possui um corretor que varre e apresenta entre comandos e sub-comandos o mais próximo ao incorreto informado. Estava errado me corrija?</p>
+
+<p><em>zsh: correct &#8216;rmv&#8217; to &#8216;rvm&#8217; [nyae]?</em></p></li>
+
+<li><p><strong>Tab completion:</strong> A maior parte dos shells como o bash possuem tab completion, mas não tão simples ou amigável quanto o zsh. Tanto no sentido de configuração quanto de usabilidade, o zsh dá um banho. Ele apresenta em um menu navegável de sub-comandos e opções de preenchimento como a lista de diretórios quando executamos um ls, ou a lista de processos quando executamos um kill.</p></li>
+
+<li><p><strong>Compartilhamento de histórico:</strong> Manter histórico entre as sessões ao invés de sobrepor-las, não tem nada pior do que perder o histórico de comandos executados pois uma sessão havia sido sobreposta, o zsh mantem o histórico das várias sessões.</p></li>
+
+<li><p><strong>Globbing</strong>. O zsh se preocupou muito com seus wildcards, e o resultados foram incríveis _ls git*~*flow* _ou <em>ls (GOL|TAM)*POA*</em>, sempre dou uma olhada  <a href="http://zsh.sourceforge.net/Intro/intro_2.html">na introdução do zsh</a>.</p></li>
+
+<li><p><strong>Criar funções com aliases</strong>. O zsh permite a criação de funções chamadas pelos seus aliases, de forma fácil e ágil. <div class="codecolorer-container bash railscasts" style="overflow:auto;white-space:nowrap;width:435px;">
+  <table cellspacing="0" cellpadding="0">
+    <tr>
+      <td class="line-numbers">
+        <div>
+          1<br />
+        </div>
+      </td></p>
+
+<pre><code>  &lt;td&gt;
+    &lt;div class=&quot;bash codecolorer&quot;&gt;
+      &lt;span class=&quot;kw1&quot;&gt;function&lt;/span&gt; juntarpdfs &lt;span class=&quot;br0&quot;&gt;&amp;#123;&lt;/span&gt; &lt;span class=&quot;kw2&quot;&gt;gs&lt;/span&gt; &lt;span class=&quot;re5&quot;&gt;-q&lt;/span&gt; &lt;span class=&quot;re5&quot;&gt;-dNOPAUSE&lt;/span&gt; &lt;span class=&quot;re5&quot;&gt;-dBATCH&lt;/span&gt; &lt;span class=&quot;re5&quot;&gt;-sDEVICE&lt;/span&gt;=pdfwrite &lt;span class=&quot;re5&quot;&gt;-sOutputFile&lt;/span&gt;=merged.pdf &lt;span class=&quot;st0&quot;&gt;&quot;$@&quot;&lt;/span&gt; &lt;span class=&quot;br0&quot;&gt;&amp;#125;&lt;/span&gt;
+    &lt;/div&gt;
+  &lt;/td&gt;
+&lt;/tr&gt;
+</code></pre>
+
+<p></table>
+</div></p></li>
+
+<li><p><strong>É bem parecido com o bash</strong>. Passei um bom tempo utilizando o zsh exatamente como fazia no trabalho com o bash, e mesmo assim foi impossível não aprender algo novo e que aumentasse minha produtividade, ele é simples e amigável.</p></li>
+</ol>
+
+<div>
+  <span class="Apple-style-span" style="font-size: 20px;font-weight: bold">Mágica com o zsh!</span>
+</div>
+
+<p>Como já havia falado antes, o zsh está presente no darwin, ou seja, se você tem instalado em sua maquina uma nova versão ou antiga do MacOsx como eu tinha, não vai precisar realizar várias buscas no <a href="https://www.google.com/search?aq=f&amp;gcx=w&amp;ix=c1&amp;sourceid=chrome&amp;ie=UTF-8&amp;q=zsh" title="googling zsh">google por zsh</a>, e olhar vários how-tos. Nem mesmo para personalizar em cores, aliases, funções e auto-completes se você usar o <a href="https://github.com/robbyrussell/oh-my-zsh" title="oh-my-zsh">oh-my-zsh</a>. Como descreve no link ao lado no README do projeto, o zsh é mágico para quem não tem muito tempo a perder:</p>
+
+<blockquote>
+<p>&#8220;A community-driven framework for managing your zsh configuration. Includes optional plugins for various tools (rails, git, OSX, brew,&#8230;), nearly 80 terminal themes, and an auto-updating tool so that you can keep up with the latest improvements from the community.&#8221;</p>
+</blockquote>
+
+<p>Para colocar tudo isso para funcionar,  você pode fazer o seguinte:</p>
+
+<ul>
+<li><p>Use o instalador automático criado pelo Robby Russell: <div class="codecolorer-container bash railscasts" style="overflow:auto;white-space:nowrap;width:435px;">
+  <table cellspacing="0" cellpadding="0">
+    <tr>
+      <td class="line-numbers">
+        <div>
+          1<br />
+        </div>
+      </td></p>
+
+<pre><code>  &lt;td&gt;
+    &lt;div class=&quot;bash codecolorer&quot;&gt;
+      &lt;span class=&quot;kw2&quot;&gt;wget&lt;/span&gt; &lt;span class=&quot;re5&quot;&gt;--no-check-certificate&lt;/span&gt; https:&lt;span class=&quot;sy0&quot;&gt;//&lt;/span&gt;github.com&lt;span class=&quot;sy0&quot;&gt;/&lt;/span&gt;robbyrussell&lt;span class=&quot;sy0&quot;&gt;/&lt;/span&gt;oh-my-zsh&lt;span class=&quot;sy0&quot;&gt;/&lt;/span&gt;raw&lt;span class=&quot;sy0&quot;&gt;/&lt;/span&gt;master&lt;span class=&quot;sy0&quot;&gt;/&lt;/span&gt;tools&lt;span class=&quot;sy0&quot;&gt;/&lt;/span&gt;install.sh &lt;span class=&quot;re5&quot;&gt;-O&lt;/span&gt; - &lt;span class=&quot;sy0&quot;&gt;|&lt;/span&gt; &lt;span class=&quot;kw2&quot;&gt;sh&lt;/span&gt;
+    &lt;/div&gt;
+  &lt;/td&gt;
+&lt;/tr&gt;
+</code></pre>
+
+<p></table>
+</div></p></li>
+</ul>
+
+<p>Caso você não tenha o <a href="http://mxcl.github.com/homebrew/" title="instalando o wget com o brew">wget</a> instalado é bem provável que você verá um erro no console. Esta é  uma ótima oportunidade de fazer isso usando o <a href="https://github.com/mxcl/homebrew/wiki/installation" title="instalando o brew">brew</a>.</p>
+
+<ul>
+<li><p>Para instalar o brew: <div class="codecolorer-container bash railscasts" style="overflow:auto;white-space:nowrap;width:435px;">
+  <table cellspacing="0" cellpadding="0">
+    <tr>
+      <td class="line-numbers">
+        <div>
+          1<br />
+        </div>
+      </td></p>
+
+<pre><code>  &lt;td&gt;
+    &lt;div class=&quot;bash codecolorer&quot;&gt;
+      curl &lt;span class=&quot;re5&quot;&gt;-L&lt;/span&gt; http:&lt;span class=&quot;sy0&quot;&gt;//&lt;/span&gt;github.com&lt;span class=&quot;sy0&quot;&gt;/&lt;/span&gt;mxcl&lt;span class=&quot;sy0&quot;&gt;/&lt;/span&gt;homebrew&lt;span class=&quot;sy0&quot;&gt;/&lt;/span&gt;tarball&lt;span class=&quot;sy0&quot;&gt;/&lt;/span&gt;master &lt;span class=&quot;sy0&quot;&gt;|&lt;/span&gt; &lt;span class=&quot;kw2&quot;&gt;tar&lt;/span&gt; xz &lt;span class=&quot;re5&quot;&gt;--str&lt;/span&gt;
+    &lt;/div&gt;
+  &lt;/td&gt;
+&lt;/tr&gt;
+</code></pre>
+
+<p></table>
+</div></p></li>
+
+<li><p>Para instalar o wget: <div class="codecolorer-container bash railscasts" style="overflow:auto;white-space:nowrap;width:435px;">
+  <table cellspacing="0" cellpadding="0">
+    <tr>
+      <td class="line-numbers">
+        <div>
+          1<br />
+        </div>
+      </td></p>
+
+<pre><code>  &lt;td&gt;
+    &lt;div class=&quot;bash codecolorer&quot;&gt;
+      brew &lt;span class=&quot;kw2&quot;&gt;install&lt;/span&gt; &lt;span class=&quot;kw2&quot;&gt;wget&lt;/span&gt;
+    &lt;/div&gt;
+  &lt;/td&gt;
+&lt;/tr&gt;
+</code></pre>
+
+<p></table>
+</div></p></li>
+</ul>
+
+<p>Quando terminar tudo você verá uma tela como a seguinte, daí é só abrir uma nova sessão para ver o thema do Robby Russel fazendo a sua mágica.</p>
+
+<p style="text-align: center">
+  <a href="http://www.helmed.net/blog/wp-content/uploads/2011/11/Screen-Shot-2011-11-15-at-10.35.50-AM1.png"><img class="aligncenter size-full wp-image-415" src="http://www.helmed.net/blog/wp-content/uploads/2011/11/Screen-Shot-2011-11-15-at-10.35.50-AM1.png" alt="" width="478" height="247" srcset="http://www.helmed.net/blog/wp-content/uploads/2011/11/Screen-Shot-2011-11-15-at-10.35.50-AM1.png 671w, http://www.helmed.net/blog/wp-content/uploads/2011/11/Screen-Shot-2011-11-15-at-10.35.50-AM1-300x155.png 300w" sizes="(max-width: 478px) 100vw, 478px" /></a>
+</p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+      </article>
+
+      <ul class="pager blog-pager">
+        
+        <li class="previous">
+          <a href="http://replace-this-with-your-hugo-site.com/2011/06/19/agile-brazil-2011-claro-que-vou/" data-toggle="tooltip" data-placement="top" title="Agile Brazil 2011 – EU VOU!!">&larr; Previous Post</a>
+        </li>
+        
+        
+        <li class="next">
+          <a href="http://replace-this-with-your-hugo-site.com/2011/11/27/nao-adivinhe-o-futuro-acompanhe-o-mvp-e-livro-de-possibilidades/" data-toggle="tooltip" data-placement="top" title="Não adivinhe o futuro, acompanhe-o! MVP e Livro de Possibilidades!">Next Post &rarr;</a>
+        </li>
+        
+      </ul>
+
+      
+
+    </div>
+  </div>
+</div>
+
+      
+
+    </div>
+
+    <footer>
+  <div class="container beautiful-jekyll-footer">
+    <div class="row">
+      <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+        <ul class="list-inline text-center footer-links">
+          
+          
+		      
+		      
+		      
+	    	  
+          
+          
+
+    		  <li>
+      			<a href="http://replace-this-with-your-hugo-site.com/index.xml" title="RSS">
+      			  <span class="fa-stack fa-lg">
+        				<i class="fa fa-circle fa-stack-2x"></i>
+        				<i class="fa fa-rss fa-stack-1x fa-inverse"></i>
+      			  </span>
+      			</a>
+    		  </li>		
+
+        </ul>
+        <p class="copyright text-muted">
+    		  
+    		  &nbsp;&bull;&nbsp;
+    		  2014
+    		  
+    		  
+    		  &nbsp;&bull;&nbsp;
+    		  <a href="http://replace-this-with-your-hugo-site.com/">Helio Medeiros</a>
+    		  
+  	    </p>
+  	        
+    		<p class="theme-by text-muted">
+    		  Theme by
+    		  <a href="http://deanattali.com/beautiful-jekyll/">beautiful-jekyll</a>
+    		</p>
+      </div>
+    </div>
+  </div>
+</footer>
+
+<script src="http://replace-this-with-your-hugo-site.com/js/jquery-1.11.2.min.js"></script>
+<script src="http://replace-this-with-your-hugo-site.com/js/bootstrap.min.js"></script>
+<script src="http://replace-this-with-your-hugo-site.com/js/main.js"></script>
+
+
+
+  </body>
+</html>

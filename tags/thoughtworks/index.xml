@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Thoughtworks on Helio Medeiros</title>
+    <link>http://replace-this-with-your-hugo-site.com/tags/thoughtworks/</link>
+    <description>Recent content in Thoughtworks on Helio Medeiros</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 22 May 2010 21:39:56 +0000</lastBuildDate>
+    
+	<atom:link href="http://replace-this-with-your-hugo-site.com/tags/thoughtworks/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Café Ágil em Recife</title>
+      <link>http://replace-this-with-your-hugo-site.com/2010/05/22/cafe-agil-em-recife/</link>
+      <pubDate>Sat, 22 May 2010 21:39:56 +0000</pubDate>
+      
+      <guid>http://replace-this-with-your-hugo-site.com/2010/05/22/cafe-agil-em-recife/</guid>
+      <description>No último sábado, 15 de maio, estive em Recife para um evento rápido e bastante interessante o Café Ágil. Esta iniciativa da ThoughtWorks Brazil juntamente a UFPE reuniu, em um sábado ensolarado,três palestrantes de peso, Paulo Caroli(TW Br), Luiz Borba(Pitang) e Jim Webber(TW UK) e cerca de 90 pessoas no anfiteatro do Centro de Informática da UFPE, para tratar assuntos como XP, TDD e Rest.
+
+O evento foi iniciado às 08:30h como suscinta o nome regrado a café e muita conversa.</description>
+    </item>
+    
+  </channel>
+</rss>

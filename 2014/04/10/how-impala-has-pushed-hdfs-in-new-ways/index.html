@@ -1,0 +1,197 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  <head>
+  <meta charset="utf-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
+
+  <title>How Impala has Pushed HDFS in New Ways</title>
+
+  <meta name="author" content="" />
+  
+  
+
+  <meta name="generator" content="Hugo 0.44" />
+
+  <link rel="alternate" href="http://replace-this-with-your-hugo-site.com/index.xml" type="application/rss+xml" title="Helio Medeiros">
+
+  <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css" />
+  <link rel="stylesheet" href="http://replace-this-with-your-hugo-site.com/css/bootstrap.min.css" />
+  <link rel="stylesheet" href="http://replace-this-with-your-hugo-site.com/css/main.css" />
+  <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Lora:400,700,400italic,700italic" />
+  <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800" />
+  <link rel="stylesheet" href="http://replace-this-with-your-hugo-site.com/css/pygment_highlights.css" />
+  
+  
+  <meta property="og:title" content="How Impala has Pushed HDFS in New Ways" />
+  <meta property="og:type" content="website" />
+  <meta property="og:url" content="/2014/04/10/how-impala-has-pushed-hdfs-in-new-ways//" />
+  <meta property="og:image" content="" />
+  
+</head>
+
+
+  <body>
+
+    <nav class="navbar navbar-default navbar-fixed-top navbar-custom">
+  <div class="container-fluid">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#main-navbar">
+        <span class="sr-only">Toggle navigation</span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a class="navbar-brand" href="http://replace-this-with-your-hugo-site.com/">Helio Medeiros</a>
+    </div>
+
+    <div class="collapse navbar-collapse" id="main-navbar">
+      <ul class="nav navbar-nav navbar-right">
+      
+      </ul>
+    </div>
+
+	<div class="avatar-container">
+	  <div class="avatar-img-border">
+      
+	  </div>
+	</div>
+
+  </div>
+</nav>
+
+
+    <div role="main" class="container main-content">
+
+      
+        
+
+
+
+
+
+<header class="header-section ">
+
+<div class="intro-header no-img">
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+        <div class="post-heading">
+          <h1>How Impala has Pushed HDFS in New Ways</h1>
+      
+      
+      
+      <span class="post-meta">Posted on April 10, 2014</span>
+      
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+</header>
+
+
+
+
+<div class="container">
+  <div class="row">
+    <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+      <article role="main" class="blog-post">
+          <p>Como Impala e a <a href="http://www.cloudera.com/content/cloudera/en/home.html" title="cloudera">Cloudera</a> tem ajudado a comunidade nos últimos anos, nada melhor que o <a title="Aaron Myers" href="https://twitter.com/atm" target="_blank">Aaron</a> para falar sobre isso commiter do <a title="Hadoop" href="http://hadoop.apache.org/" target="_blank">Hadoop</a>, vamos ver como funciona <a title="HDFS" href="http://hadoop.apache.org/docs/r1.2.1/hdfs_design.html" target="_blank">HDFS</a>, impala e como o último tem sido alterado para atender novos requisitos.</p>
+
+<p>Quando as pessoas falam sobre Hadoop, uma parte esta atrelada ao HDFS (Hadoop Distributed File System). Este é utilizado apenas como um file-system distribuído, ele foi única e exclusivamente para trabalhar com blocos de dados grandes que precisam ser rápidos para uma boa performance de <a title="MapReduce" href="http://en.wikipedia.org/wiki/MapReduce" target="_blank">MapReduce</a>.</p>
+
+<p>Cada cluster HDFS é composto por clusters com vários nodos, eles armazenam metadados e dados. Existem block maps e file system metadados e estes organizam todo o fluxo de acesso.</p>
+
+<p>O <a title="Impala" href="http://en.wikipedia.org/wiki/Cloudera_Impala" target="_blank">Impala</a> é uma engine de propósito geral para processamento de queries em HQL (Hive Query Language), ela funciona tanto para processamento analítico como em tempo de execução.   Ele roda de forma distribuida em clusters, e podemos submeter queries com <a title="Open Database Connectivity" href="http://en.wikipedia.org/wiki/ODBC" target="_blank">ODBC</a> /<a title="Java Database Connectivity" href="http://en.wikipedia.org/wiki/JDBC" target="_blank">JDBC</a>.</p>
+
+<p>Quando fazemos um deploy do Impala em nosso ambiente o que temos por baixo dos panos são dois daemons, o impalad e o <em>statestored</em>. O <em>impalad</em> lida com todos os requestes dos clientes; o <em>statestored </em> trata com todos os estados necessários ao funcionamento dos _daemons. _Cada requisição ao <em>Impala é feita via odbc/jdbc</em>, estas requisições são paralisadas por meio de planos de execução.<figure id="attachment_831" style="width: 468px" class="wp-caption aligncenter"></p>
+
+<p><a href="http://www.helmed.net/blog/wp-content/uploads/2014/04/cloudera_impala.jpg"><img class="size-full wp-image-831" alt="arquitetura da cloudera impala" src="http://www.helmed.net/blog/wp-content/uploads/2014/04/cloudera_impala.jpg" width="468" height="240" srcset="http://www.helmed.net/blog/wp-content/uploads/2014/04/cloudera_impala.jpg 468w, http://www.helmed.net/blog/wp-content/uploads/2014/04/cloudera_impala-300x153.jpg 300w" sizes="(max-width: 468px) 100vw, 468px" /></a><figcaption class="wp-caption-text">arquitetura da cloudera impala</figcaption></figure></p>
+
+<p>Quais são as melhorias trazidas pelo Impala ao HDFS?</p>
+
+<p>Primeiro o Impala está preocupado com queries de baixa latência e para isso ser feito não a como excluir o fato dos cenários distribuídos, como replicas co-alocadas bloqueadas, pela leitura local versus velocidade de rede. Impala adicionou uma funcionalidade que especifica que um conjunto de dados deve saber onde estão suas replicas.</p>
+
+<p>Atualmente a vazão dos discos não são tão rápidos que possamos, acessá-los para realizar o processamento dos arquivos em tempo real, com o peso dos arquivos, para tal  _Impala _facilitou ao HDFS ler diretamente da memória principal de forma otimizada.</p>
+
+<p>Por estas e outras melhorias _impala _se coloca 5-10x mais rápido que o <a title="Hive" href="http://hive.apache.org/" target="_blank"><em>Hive</em></a> para queries simples e 20-50x em queries complexas com joins.</p>
+
+      </article>
+
+      <ul class="pager blog-pager">
+        
+        <li class="previous">
+          <a href="http://replace-this-with-your-hugo-site.com/2014/04/10/scaling-league-of-legends-managing-culture-extreme-complexity-and-30-million-active-users/" data-toggle="tooltip" data-placement="top" title="Scaling League of Legends: managing culture, extreme complexity and 30 million active users">&larr; Previous Post</a>
+        </li>
+        
+        
+        <li class="next">
+          <a href="http://replace-this-with-your-hugo-site.com/2014/04/10/data-science-em-tempo-real-com-storm/" data-toggle="tooltip" data-placement="top" title="Data Science em Tempo Real com Storm">Next Post &rarr;</a>
+        </li>
+        
+      </ul>
+
+      
+
+    </div>
+  </div>
+</div>
+
+      
+
+    </div>
+
+    <footer>
+  <div class="container beautiful-jekyll-footer">
+    <div class="row">
+      <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+        <ul class="list-inline text-center footer-links">
+          
+          
+		      
+		      
+		      
+	    	  
+          
+          
+
+    		  <li>
+      			<a href="http://replace-this-with-your-hugo-site.com/index.xml" title="RSS">
+      			  <span class="fa-stack fa-lg">
+        				<i class="fa fa-circle fa-stack-2x"></i>
+        				<i class="fa fa-rss fa-stack-1x fa-inverse"></i>
+      			  </span>
+      			</a>
+    		  </li>		
+
+        </ul>
+        <p class="copyright text-muted">
+    		  
+    		  &nbsp;&bull;&nbsp;
+    		  2014
+    		  
+    		  
+    		  &nbsp;&bull;&nbsp;
+    		  <a href="http://replace-this-with-your-hugo-site.com/">Helio Medeiros</a>
+    		  
+  	    </p>
+  	        
+    		<p class="theme-by text-muted">
+    		  Theme by
+    		  <a href="http://deanattali.com/beautiful-jekyll/">beautiful-jekyll</a>
+    		</p>
+      </div>
+    </div>
+  </div>
+</footer>
+
+<script src="http://replace-this-with-your-hugo-site.com/js/jquery-1.11.2.min.js"></script>
+<script src="http://replace-this-with-your-hugo-site.com/js/bootstrap.min.js"></script>
+<script src="http://replace-this-with-your-hugo-site.com/js/main.js"></script>
+
+
+
+  </body>
+</html>

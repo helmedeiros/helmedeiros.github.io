@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Falhas De Metodologias on Helio Medeiros</title>
+    <link>http://replace-this-with-your-hugo-site.com/tags/falhas-de-metodologias/</link>
+    <description>Recent content in Falhas De Metodologias on Helio Medeiros</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 08 Apr 2010 14:29:59 +0000</lastBuildDate>
+    
+	<atom:link href="http://replace-this-with-your-hugo-site.com/tags/falhas-de-metodologias/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Melhorando a flacidez… XP –  Aula 12</title>
+      <link>http://replace-this-with-your-hugo-site.com/2010/04/08/melhorando-a-flacidez-xp-aula-12/</link>
+      <pubDate>Thu, 08 Apr 2010 14:29:59 +0000</pubDate>
+      
+      <guid>http://replace-this-with-your-hugo-site.com/2010/04/08/melhorando-a-flacidez-xp-aula-12/</guid>
+      <description>Primeira aula sobre a metodologia ágil XP lecionada junto a Universidade Potiguar. Nesta aula foram apresentadas falhas em outras metodologias, incluindo as ágeis, no que diz respeito a descuido com a qualidade interna dos projetos, o que reforça, segundo Martin Fowler em Scrum Flácido a necessidade de metodologias focadas em práticas técnicas, que retirem e não adicionem débitos técnicos. São apresentados também os problemas encontrados em ambientes de softwares e as soluções do XP para os mesmo.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Apresentação on Helio Medeiros</title>
+    <link>http://replace-this-with-your-hugo-site.com/tags/apresenta%C3%A7%C3%A3o/</link>
+    <description>Recent content in Apresentação on Helio Medeiros</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 24 Feb 2010 02:10:53 +0000</lastBuildDate>
+    
+	<atom:link href="http://replace-this-with-your-hugo-site.com/tags/apresenta%C3%A7%C3%A3o/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Primeira aula ministrada! Começando…</title>
+      <link>http://replace-this-with-your-hugo-site.com/2010/02/24/primeira-aula-ministrada-comecando/</link>
+      <pubDate>Wed, 24 Feb 2010 02:10:53 +0000</pubDate>
+      
+      <guid>http://replace-this-with-your-hugo-site.com/2010/02/24/primeira-aula-ministrada-comecando/</guid>
+      <description>Tem um tempo que comentei sobre o convite realizado pela Universidade Potiguar para que eu ministrasse a disciplina de engenharia de software, bem hoje foi a primeira aula, seguindo principalmente aquilo que esperava como aluno e guiado pela diretrizes da coordenação elaborei o cronograma de aulas que proporcionasse ao aluno um conhecimento geral, mas prático do desenvolvimento de software com objetivos sólidos e focados em qualidade.
+Segue a baixo a primeira aula, quem tiver algumas dicas ou sugestões, sejam bem vindos.</description>
+    </item>
+    
+  </channel>
+</rss>

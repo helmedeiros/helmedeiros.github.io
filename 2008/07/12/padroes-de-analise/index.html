@@ -1,0 +1,221 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  <head>
+  <meta charset="utf-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
+
+  <title>Padrões de Análise</title>
+
+  <meta name="author" content="" />
+  
+  
+
+  <meta name="generator" content="Hugo 0.44" />
+
+  <link rel="alternate" href="http://replace-this-with-your-hugo-site.com/index.xml" type="application/rss+xml" title="Helio Medeiros">
+
+  <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css" />
+  <link rel="stylesheet" href="http://replace-this-with-your-hugo-site.com/css/bootstrap.min.css" />
+  <link rel="stylesheet" href="http://replace-this-with-your-hugo-site.com/css/main.css" />
+  <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Lora:400,700,400italic,700italic" />
+  <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800" />
+  <link rel="stylesheet" href="http://replace-this-with-your-hugo-site.com/css/pygment_highlights.css" />
+  
+  
+  <meta property="og:title" content="Padrões de Análise" />
+  <meta property="og:type" content="website" />
+  <meta property="og:url" content="/2008/07/12/padroes-de-analise//" />
+  <meta property="og:image" content="" />
+  
+</head>
+
+
+  <body>
+
+    <nav class="navbar navbar-default navbar-fixed-top navbar-custom">
+  <div class="container-fluid">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#main-navbar">
+        <span class="sr-only">Toggle navigation</span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a class="navbar-brand" href="http://replace-this-with-your-hugo-site.com/">Helio Medeiros</a>
+    </div>
+
+    <div class="collapse navbar-collapse" id="main-navbar">
+      <ul class="nav navbar-nav navbar-right">
+      
+      </ul>
+    </div>
+
+	<div class="avatar-container">
+	  <div class="avatar-img-border">
+      
+	  </div>
+	</div>
+
+  </div>
+</nav>
+
+
+    <div role="main" class="container main-content">
+
+      
+        
+
+
+
+
+
+<header class="header-section ">
+
+<div class="intro-header no-img">
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+        <div class="post-heading">
+          <h1>Padrões de Análise</h1>
+      
+      
+      
+      <span class="post-meta">Posted on July 12, 2008</span>
+      
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+</header>
+
+
+
+
+<div class="container">
+  <div class="row">
+    <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+      <article role="main" class="blog-post">
+          <p>Há algumas semanas, tive durante a aula de MODELAGEM ORIENTADA A OBJETOS E UML, ministrada pelo professor Osmar Fernandes Jr., uma breve introdução aos Padrões de Software, para Análise (Analysis Patterns) e Projetos (Design Patterns), sobre a qual me faço nesta página, abrindo um pequeno espaço a aqueles, que assim como eu estão iniciando os seus estudos na área.</p>
+
+<p>Com a complexidade inerente aos processos, de negócios, ORGANIZACIONAIS, que se transformam dia-a-dia em milhares de níveis de código e modelagem, de novos módulos de trabalho, tornasse imprescindível o conhecimento de técnicas de modelagem conceitual.</p>
+
+<p>Dentro deste contexto, nos deparamos com os Padrões de Software que, como dito anteriormente, subdivide-se principalmente em duas vertentes  que permitem o compartilhamento de soluções e conceituação de soluções formais, a problemas recorrentes no desenvolvimento de software.</p>
+
+<p>Martin Fowler, em seu livro <a href="http://www.amazon.com/Analysis-Patterns-Reusable-Addison-Wesley-Technology/dp/0201895420" title="Analysis Patterns: Reusable Object Models" target="_blank">Analysis Patterns: Reusable Object Models</a>, define dentre os tipos de padões de software  os padrões de Análise. Estes padrões são um conjunto de classes  e associações que possue algum significado no contexto da aplicação, que quando reinterpretados para os processos da organização, permitem soluções claras e autenticadas sobre muitos aspectos.</p>
+
+<p>Dentre os padrões de projeto estabelecidos pelo autor supracitado podemos ressaltar:</p>
+
+<ul>
+<li>Party: Define um objeto parte como um supertipo para uma pessoa ou organização,  de maneira que a associação entre  informações fosse relativa às partes e não às pessoa ou organização diretamente.</li>
+</ul>
+
+<p><img src="http://www.helmed.net/blog/wp-content/uploads/2008/07/picture-2.png" alt="Analysis Pattern - Party" /></p>
+
+<ul>
+<li>Organization Hierarchies: Modela uma hierarquia organizacional através de uma estrutura recursiva. Estabelecendo relacionamentos entre entidades organizacionais através de regras.</li>
+</ul>
+
+<p><img src="http://www.helmed.net/blog/wp-content/uploads/2008/07/picture-3.png" alt="Analysis Pattern - Organization Hierarchies" /></p>
+
+<ul>
+<li>Organization Structure: Usa tipos para definir relacionamentos entre entidades organizacionais.</li>
+</ul>
+
+<p><img src="http://www.helmed.net/blog/wp-content/uploads/2008/07/picture-4.png" alt="Analysis Pattern - Organization Structure" /></p>
+
+<ul>
+<li>Quantity: Define um tipo de objeto que tem como parte numeros e unidades.</li>
+</ul>
+
+<p><img src="http://www.helmed.net/blog/wp-content/uploads/2008/07/picture-5.png" alt="Analysis Pattern - Quantity" /></p>
+
+<ul>
+<li>Conversation Ratio: Define um objeto de conversão entre unidades, e dá a quantidade uma operação, convertTo(Unit), que retorna uma nova quantidade na unidade.</li>
+</ul>
+
+<p><img src="http://www.helmed.net/blog/wp-content/uploads/2008/07/picture-6.png" alt="Analysis Pattern - Quantity" /></p>
+
+<ul>
+<li>Compound Units: Uma unidade composta é a combinação entre unidades atômicas, por exemplo milhas por hora. Uma operação de conversão sofisticada pode usar um conversor em uma unidade atômica para converter unidades compostas.</li>
+</ul>
+
+      </article>
+
+      <ul class="pager blog-pager">
+        
+        <li class="previous">
+          <a href="http://replace-this-with-your-hugo-site.com/2008/07/12/diagrama-de-casos-de-uso-estacionamento/" data-toggle="tooltip" data-placement="top" title="Diagrama de Casos de Uso ESTACIONAMENTO">&larr; Previous Post</a>
+        </li>
+        
+        
+        <li class="next">
+          <a href="http://replace-this-with-your-hugo-site.com/2008/07/12/minicenario-controle-de-obras/" data-toggle="tooltip" data-placement="top" title="Minicenário: CONTROLE DE OBRAS">Next Post &rarr;</a>
+        </li>
+        
+      </ul>
+
+      
+
+    </div>
+  </div>
+</div>
+
+      
+
+    </div>
+
+    <footer>
+  <div class="container beautiful-jekyll-footer">
+    <div class="row">
+      <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+        <ul class="list-inline text-center footer-links">
+          
+          
+		      
+		      
+		      
+	    	  
+          
+          
+
+    		  <li>
+      			<a href="http://replace-this-with-your-hugo-site.com/index.xml" title="RSS">
+      			  <span class="fa-stack fa-lg">
+        				<i class="fa fa-circle fa-stack-2x"></i>
+        				<i class="fa fa-rss fa-stack-1x fa-inverse"></i>
+      			  </span>
+      			</a>
+    		  </li>		
+
+        </ul>
+        <p class="copyright text-muted">
+    		  
+    		  &nbsp;&bull;&nbsp;
+    		  2014
+    		  
+    		  
+    		  &nbsp;&bull;&nbsp;
+    		  <a href="http://replace-this-with-your-hugo-site.com/">Helio Medeiros</a>
+    		  
+  	    </p>
+  	        
+    		<p class="theme-by text-muted">
+    		  Theme by
+    		  <a href="http://deanattali.com/beautiful-jekyll/">beautiful-jekyll</a>
+    		</p>
+      </div>
+    </div>
+  </div>
+</footer>
+
+<script src="http://replace-this-with-your-hugo-site.com/js/jquery-1.11.2.min.js"></script>
+<script src="http://replace-this-with-your-hugo-site.com/js/bootstrap.min.js"></script>
+<script src="http://replace-this-with-your-hugo-site.com/js/main.js"></script>
+
+
+
+  </body>
+</html>

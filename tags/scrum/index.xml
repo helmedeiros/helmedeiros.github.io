@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Scrum on Helio Medeiros</title>
+    <link>http://replace-this-with-your-hugo-site.com/tags/scrum/</link>
+    <description>Recent content in Scrum on Helio Medeiros</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 18 Mar 2010 03:18:19 +0000</lastBuildDate>
+    
+	<atom:link href="http://replace-this-with-your-hugo-site.com/tags/scrum/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Sétima aula !! SCRUM !!!</title>
+      <link>http://replace-this-with-your-hugo-site.com/2010/03/18/setima-aula-scrum-processo/</link>
+      <pubDate>Thu, 18 Mar 2010 03:18:19 +0000</pubDate>
+      
+      <guid>http://replace-this-with-your-hugo-site.com/2010/03/18/setima-aula-scrum-processo/</guid>
+      <description>Segunda apresentação sobre a metodologia ágil SCRUM lecionada junto a Universidade Potiguar. Nesta aula são definidas as etapas e os benefícios trazidos aos projetos que adotam essa metodologia.
+[slideshare id=3462783&amp;amp;doc=unp-aula7-100317220152-phpapp01]</description>
+    </item>
+    
+    <item>
+      <title>Sexta aula !! SCRUM !!!</title>
+      <link>http://replace-this-with-your-hugo-site.com/2010/03/16/sexta-aula-scrum/</link>
+      <pubDate>Wed, 17 Mar 2010 01:32:39 +0000</pubDate>
+      
+      <guid>http://replace-this-with-your-hugo-site.com/2010/03/16/sexta-aula-scrum/</guid>
+      <description>Primeira aula sobre a metodologia ágil SCRUM apresentada junto a Universidade Potiguar. Nesta aula é apresentada a origem do SCRUM, seus papeis e responsabilidades, ciclo de via e artefatos.
+[slideshare id=3451696&amp;amp;doc=unp-aula6-100316202213-phpapp01]</description>
+    </item>
+    
+    <item>
+      <title>Já tive um gerente que comia velocidade no café</title>
+      <link>http://replace-this-with-your-hugo-site.com/2010/02/25/ja-tive-um-gerente-que-comia-velocidade-no-cafe/</link>
+      <pubDate>Fri, 26 Feb 2010 00:44:26 +0000</pubDate>
+      
+      <guid>http://replace-this-with-your-hugo-site.com/2010/02/25/ja-tive-um-gerente-que-comia-velocidade-no-cafe/</guid>
+      <description>Há um bom tempo venho observando as mais diversas formas utilizadas, pelos gerentes das equipes por onde passei, para realização dos acompanhamentos das minhas produtividades, e também dos outros membros para realizar suas estimativas. Alguns demoram muito analisando os misteriosos pontos de função, outros visualizam apenas linhas de código e só alguns, talvez os mais interessantes, viam a quantidade de funcionalidades entregues realmente da forma que satisfazia iteração após iteração o nosso cliente.</description>
+    </item>
+    
+    <item>
+      <title>Será que ajudei alguém a derrubar as paredes erradas?</title>
+      <link>http://replace-this-with-your-hugo-site.com/2009/11/17/sera-que-ajudei-alguem-a-derrubar-as-paredes-erradas/</link>
+      <pubDate>Tue, 17 Nov 2009 10:06:49 +0000</pubDate>
+      
+      <guid>http://replace-this-with-your-hugo-site.com/2009/11/17/sera-que-ajudei-alguem-a-derrubar-as-paredes-erradas/</guid>
+      <description>Aproximadamente um mês atrás realizei juntamente ao meu ex-colega de trabalho e amigo Germano Carvalho, um minicurso sobre metodologias ágeis e scrum no décimo primeiro congresso científico da UnP. A principio ficamos naquela sobre a quantidade de participantes e do interesse dos mesmos sobre o assunto. Eu como sempre imaginei a sala meio cheia, mas no final quem acertou foi Germano. Acho que os participantes já haviam lido muitos artigos e acabaram por prolongar seus feriados.</description>
+    </item>
+    
+  </channel>
+</rss>

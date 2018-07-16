@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Kent Beck on Helio Medeiros</title>
+    <link>http://replace-this-with-your-hugo-site.com/tags/kent-beck/</link>
+    <description>Recent content in Kent Beck on Helio Medeiros</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 25 Nov 2010 01:41:25 +0000</lastBuildDate>
+    
+	<atom:link href="http://replace-this-with-your-hugo-site.com/tags/kent-beck/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>AGILE DAY 2010 – Klaus Wuestefeld</title>
+      <link>http://replace-this-with-your-hugo-site.com/2010/11/24/agile-day-2010-klaus-wuestefeld/</link>
+      <pubDate>Thu, 25 Nov 2010 01:41:25 +0000</pubDate>
+      
+      <guid>http://replace-this-with-your-hugo-site.com/2010/11/24/agile-day-2010-klaus-wuestefeld/</guid>
+      <description>[][1]Agile day 2010 O Agile Day 2010 POA, começou oficialmente as 09:00h, com o Daniel Wildt que apresentou a idéia do evento e seu formato com aquele entusiasmo agilista que sempre vemos nele! Para este ano foram 114 inscritos e 1 palestrante faltante, o André Nascimento não foi. Logo em seguida o Klaus foi apresentado e começou um dos keynotes planejados para o dia.
+A palestra iniciou-se às 09:20h com o Klaus questionando quais dos congressistas efetivamente trabalhavam com desenvolvimento de software, e destes quais já haviam colocado software em produção!</description>
+    </item>
+    
+    <item>
+      <title>Materializando os Valores XP – Aula 13</title>
+      <link>http://replace-this-with-your-hugo-site.com/2010/04/11/materializando-os-valores-xp-aula-13/</link>
+      <pubDate>Sun, 11 Apr 2010 12:45:09 +0000</pubDate>
+      
+      <guid>http://replace-this-with-your-hugo-site.com/2010/04/11/materializando-os-valores-xp-aula-13/</guid>
+      <description>Segunda aula sobre a metodologia ágil XP lecionada junto a Universidade Potiguar. Nesta aula foram apresentados as formas encontradas pelo XP para transmitir seu valores, materializando-os por meio de ações, decisões e práticas. São apresentados os princípios básicos e menos fundamentais, assim como as práticas do XP. Por fim são diagramadas as relações expostas por Kent Beck em Extreme Programming Explained entre as práticas, mostrando a integração proposta para práticas consagradas mas que haviam falhado em um outros ambientes, que agora mostram sua força coletiva nesta metodologia de ações extremas.</description>
+    </item>
+    
+    <item>
+      <title>Melhorando a flacidez… XP –  Aula 12</title>
+      <link>http://replace-this-with-your-hugo-site.com/2010/04/08/melhorando-a-flacidez-xp-aula-12/</link>
+      <pubDate>Thu, 08 Apr 2010 14:29:59 +0000</pubDate>
+      
+      <guid>http://replace-this-with-your-hugo-site.com/2010/04/08/melhorando-a-flacidez-xp-aula-12/</guid>
+      <description>Primeira aula sobre a metodologia ágil XP lecionada junto a Universidade Potiguar. Nesta aula foram apresentadas falhas em outras metodologias, incluindo as ágeis, no que diz respeito a descuido com a qualidade interna dos projetos, o que reforça, segundo Martin Fowler em Scrum Flácido a necessidade de metodologias focadas em práticas técnicas, que retirem e não adicionem débitos técnicos. São apresentados também os problemas encontrados em ambientes de softwares e as soluções do XP para os mesmo.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,225 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  <head>
+  <meta charset="utf-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
+
+  <title>Hadoop and the Big Data Ecosystem</title>
+
+  <meta name="author" content="" />
+  
+  
+
+  <meta name="generator" content="Hugo 0.44" />
+
+  <link rel="alternate" href="http://replace-this-with-your-hugo-site.com/index.xml" type="application/rss+xml" title="Helio Medeiros">
+
+  <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css" />
+  <link rel="stylesheet" href="http://replace-this-with-your-hugo-site.com/css/bootstrap.min.css" />
+  <link rel="stylesheet" href="http://replace-this-with-your-hugo-site.com/css/main.css" />
+  <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Lora:400,700,400italic,700italic" />
+  <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800" />
+  <link rel="stylesheet" href="http://replace-this-with-your-hugo-site.com/css/pygment_highlights.css" />
+  
+  
+  <meta property="og:title" content="Hadoop and the Big Data Ecosystem" />
+  <meta property="og:type" content="website" />
+  <meta property="og:url" content="/2014/04/11/hadoop-and-the-big-data-ecosystem//" />
+  <meta property="og:image" content="" />
+  
+</head>
+
+
+  <body>
+
+    <nav class="navbar navbar-default navbar-fixed-top navbar-custom">
+  <div class="container-fluid">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#main-navbar">
+        <span class="sr-only">Toggle navigation</span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a class="navbar-brand" href="http://replace-this-with-your-hugo-site.com/">Helio Medeiros</a>
+    </div>
+
+    <div class="collapse navbar-collapse" id="main-navbar">
+      <ul class="nav navbar-nav navbar-right">
+      
+      </ul>
+    </div>
+
+	<div class="avatar-container">
+	  <div class="avatar-img-border">
+      
+	  </div>
+	</div>
+
+  </div>
+</nav>
+
+
+    <div role="main" class="container main-content">
+
+      
+        
+
+
+
+
+
+<header class="header-section ">
+
+<div class="intro-header no-img">
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+        <div class="post-heading">
+          <h1>Hadoop and the Big Data Ecosystem</h1>
+      
+      
+      
+      <span class="post-meta">Posted on April 11, 2014</span>
+      
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+</header>
+
+
+
+
+<div class="container">
+  <div class="row">
+    <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+      <article role="main" class="blog-post">
+          <p>Porque devemos nos preocupar? Assim começou o keynote do <a title="Todd Lipcon" href="https://twitter.com/tlipcon" target="_blank">Todd Lipcon</a>&#8230; Talvez porque ao longo dos últimos anos, as empresas têm visto uma explosão no volume, variedade e velocidade dos dados que eles têm de lidar todos os dias. Esta tem sido uma bênção e uma maldição. Ao mesmo tempo que a explosão de dados nos permitiu gerar novos tipos de aplicativos e insights altamente inteligentes, os desenvolvedores descobriram que a geração anterior de ferramentas de gerenciamento de dados e frameworks desmoronavam quando tentando trabalhar e manter terabytes ou petabytes de dados muitas vezes mal-estruturados.</p>
+
+<p>Quando Todd era uma criança ele encontrou um programa que se fazia passar por uma pessoa respondendo, e depois de algumas perguntas ele descobriu que o programa era muito burro. Apresentando-o a seu pai, foi desafiado, tentou melhorá-lo mas com tal idade, não conseguiu ir muito a frente. Passados 20 anos depois ele vê o <a title="Watson" href="http://en.wikipedia.org/wiki/Watson_(computer)" target="_blank">watson</a> respondendo todos estas perguntas&#8230; a diferença? <a title="Big Data" href="http://en.wikipedia.org/wiki/Big_data" target="_blank">Big data</a>!!</p>
+
+<p>Voltando um pouco no tempo ele começou a mostrar os primeiros passos de um caminho, que passavam pela indexação recursiva e morosa e sem sombra de dúvida por equipamentos e software proprietário de grandes empresas.</p>
+
+<p>Isso começou a mudar com a google, eles criaram seu proprio storage e uma infraestrutura de processamento, o <a title="MapReduce" href="http://en.wikipedia.org/wiki/MapReduce" target="_blank">MapReduce</a> surgiu aí baseado na premissa do <a title="Keep it simple stupid" href="http://en.wikipedia.org/wiki/KISS_principle" target="_blank">KISS</a>. Estas tecnologias ainda estão a todo vapor até os dias atuais, eles nunca os venderam, mas escreveram vários papers que deram origem a várias legais que estão por aí.</p>
+
+<p>O <a title="Hadoop" href="http://hadoop.apache.org/" target="_blank">Hadoop</a> surgiu um tempo depois com o <a title="Doug Cutting" href="https://twitter.com/cutting" target="_blank">Doug Cutting</a>, que tinha problemas bem parecidos com os que a google tinha, lendo os papers  do google encontrou uma boa estratégia para trabalhar com grandes arquivos de forma distribuída.</p>
+
+<p>O Hadoop é um armazenador e processador de dados escaláveis, que podem trabalhar sobre qualquer maquinário. As maquinas dentro do esquema Hadoop são conhecidos como nodes, e o processamento sobre estes dados distribuídos em nós é totalmente transparente como se não houvesse realmente distinção entre local e remoto.</p>
+
+<p>Uma das partes fundamentais do Hadoop é o <a title="Hadoop Distributed File System" href="http://hadoop.apache.org/docs/r1.2.1/hdfs_design.html" target="_blank">HDFS</a>, ele permite trabalharmos com arquivos grandes repartindo-os em blocos de tamanhos máximos, e replicando-os para que eles possam permitir redundância, para evitar a perda de informações ou interrupção no processamento em caso de falhas.</p>
+
+<p>Outra parte fundamental é o MapReduce, um modelo de programação que tem duas partes principais, instruções para realizar transformações, parseamento, ou filtrar dados, esta sempre roda antes e sempre devolve resultados; e instruções para sumarizar os dados. Estas instruções trazem muita simplicidade ao trabalho diário processando um registro por vez, não existe necessidade em realizar I/O explicitamente e ele é bem escalonável.<figure id="attachment_849" style="width: 468px" class="wp-caption aligncenter"></p>
+
+<p><a href="http://www.helmed.net/blog/wp-content/uploads/2014/04/mapreduce.jpg"><img class="size-full wp-image-849" alt="Reducing Soft kitties!!" src="http://www.helmed.net/blog/wp-content/uploads/2014/04/mapreduce.jpg" width="468" height="240" srcset="http://www.helmed.net/blog/wp-content/uploads/2014/04/mapreduce.jpg 468w, http://www.helmed.net/blog/wp-content/uploads/2014/04/mapreduce-300x153.jpg 300w" sizes="(max-width: 468px) 100vw, 468px" /></a><figcaption class="wp-caption-text">Reducing Soft kitties!!</figcaption></figure></p>
+
+<p>Neste momento o Todd nos apresentou um MapReduce sobre um domínio simples, para contagem de palavras na música infantil abaixo, entrando em detalhes em como poderíamos conquistar velocidade para este modelo nos fazendo da implementação de MapReduce do Hadoop.</p>
+
+<blockquote>
+<p>Soft kitty,</p>
+
+<p>Warm kitty,</p>
+
+<p>Little ball of fur.</p>
+
+<p>Happy kitty,</p>
+
+<p>Sleepy kitty,</p>
+
+<p>Purr Purr Purr</p>
+</blockquote>
+
+<p>Alguns frameworks foram citados:</p>
+
+<p style="padding-left: 30px">
+  <strong><a title="Apache Spark" href="http://spark.apache.org/" target="_blank">Spark</a>:</strong> é um framework  que trabalha MapReduce, suporta várias linguagens e tem um shell interactive. Comparando códigos de Maps feitos no Hadoop e com o Spark temos uma redução em níveis de 10x na quantidade de linhas necessárias. Os ganhos também vão em termos de velocidade processamentos;
+</p>
+
+<p style="padding-left: 30px">
+  <strong><a title="Apache Sqoop" href="http://sqoop.apache.org/" target="_blank">Sqoop</a>:</strong> facilitara a troca eficiente de massas de dados entre Apache Hadoop e storages de dados estruturados, tais como bancos de dados relacionais;
+</p>
+
+<p style="padding-left: 30px">
+  <span style="line-height: 1.5em"><strong><a title="Apache Flume" href="http://flume.apache.org/" target="_blank">Flume</a>:</strong> permite a importação de dados para o HDFS enquanto ele são gerados em uma quantidade qualquer de máquinas.</span>
+</p>
+
+      </article>
+
+      <ul class="pager blog-pager">
+        
+        <li class="previous">
+          <a href="http://replace-this-with-your-hugo-site.com/2014/04/10/um-sistema-de-recomendacao-de-produtos-baseado-em-grafos-titan-cassandra-redis-e-hadoop-em-producao/" data-toggle="tooltip" data-placement="top" title="Um Sistema de recomendação de produtos baseado em grafos: Titan, Cassandra, Redis e Hadoop em produção">&larr; Previous Post</a>
+        </li>
+        
+        
+        <li class="next">
+          <a href="http://replace-this-with-your-hugo-site.com/2014/11/06/technology-is-not-enough-barry-oreilly/" data-toggle="tooltip" data-placement="top" title="Technology is not enough! Barry O’Reilly">Next Post &rarr;</a>
+        </li>
+        
+      </ul>
+
+      
+
+    </div>
+  </div>
+</div>
+
+      
+
+    </div>
+
+    <footer>
+  <div class="container beautiful-jekyll-footer">
+    <div class="row">
+      <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+        <ul class="list-inline text-center footer-links">
+          
+          
+		      
+		      
+		      
+	    	  
+          
+          
+
+    		  <li>
+      			<a href="http://replace-this-with-your-hugo-site.com/index.xml" title="RSS">
+      			  <span class="fa-stack fa-lg">
+        				<i class="fa fa-circle fa-stack-2x"></i>
+        				<i class="fa fa-rss fa-stack-1x fa-inverse"></i>
+      			  </span>
+      			</a>
+    		  </li>		
+
+        </ul>
+        <p class="copyright text-muted">
+    		  
+    		  &nbsp;&bull;&nbsp;
+    		  2014
+    		  
+    		  
+    		  &nbsp;&bull;&nbsp;
+    		  <a href="http://replace-this-with-your-hugo-site.com/">Helio Medeiros</a>
+    		  
+  	    </p>
+  	        
+    		<p class="theme-by text-muted">
+    		  Theme by
+    		  <a href="http://deanattali.com/beautiful-jekyll/">beautiful-jekyll</a>
+    		</p>
+      </div>
+    </div>
+  </div>
+</footer>
+
+<script src="http://replace-this-with-your-hugo-site.com/js/jquery-1.11.2.min.js"></script>
+<script src="http://replace-this-with-your-hugo-site.com/js/bootstrap.min.js"></script>
+<script src="http://replace-this-with-your-hugo-site.com/js/main.js"></script>
+
+
+
+  </body>
+</html>

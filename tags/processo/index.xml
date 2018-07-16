@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Processo on Helio Medeiros</title>
+    <link>http://replace-this-with-your-hugo-site.com/tags/processo/</link>
+    <description>Recent content in Processo on Helio Medeiros</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 03 Mar 2010 01:21:54 +0000</lastBuildDate>
+    
+	<atom:link href="http://replace-this-with-your-hugo-site.com/tags/processo/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Segunda aula ministrada! Projeto…Processo…</title>
+      <link>http://replace-this-with-your-hugo-site.com/2010/03/02/segunda-aula-ministrada-projetoprocesso/</link>
+      <pubDate>Wed, 03 Mar 2010 01:21:54 +0000</pubDate>
+      
+      <guid>http://replace-this-with-your-hugo-site.com/2010/03/02/segunda-aula-ministrada-projetoprocesso/</guid>
+      <description>Segue a baixo a segunda aula ministrada a disciplina de engenharia de software da UnP, quem tiver algumas dicas ou sugestões, ainda continuam sendo bem vindos. Tivemos hoje uma breve passagem pela história da criação de software, falamos da &amp;#8220;crise de software&amp;#8221; que apesar de ser datada de muito tempo atrás ainda não se evidência a correção de todos os fatores que a influenciaram.
+Foi apresentado os componentes de um projeto de software e discutimos alguns cenários e qual a influência de cada um destes no resultado final, sucesso ou falha no projeto.</description>
+    </item>
+    
+  </channel>
+</rss>

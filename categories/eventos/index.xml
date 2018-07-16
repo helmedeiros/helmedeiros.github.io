@@ -1,0 +1,446 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Eventos on Helio Medeiros</title>
+    <link>http://replace-this-with-your-hugo-site.com/categories/eventos/</link>
+    <description>Recent content in Eventos on Helio Medeiros</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 06 Nov 2014 12:57:31 +0000</lastBuildDate>
+    
+	<atom:link href="http://replace-this-with-your-hugo-site.com/categories/eventos/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Technology is not enough! Barry O’Reilly</title>
+      <link>http://replace-this-with-your-hugo-site.com/2014/11/06/technology-is-not-enough-barry-oreilly/</link>
+      <pubDate>Thu, 06 Nov 2014 12:57:31 +0000</pubDate>
+      
+      <guid>http://replace-this-with-your-hugo-site.com/2014/11/06/technology-is-not-enough-barry-oreilly/</guid>
+      <description>Durante os anos empresas aparecem e desaparecem com uma certa frequência, e não apenas pequenas tem desaparecido mas com muita frequência as grandes tem perecido. Para onde foram as ideias? O que aconteceu com o mercado? Estamos fazendo o certo? Estamos tentando controlar o incontrolável o imprevisível?
+Boa parte destas empresas, que se extinguiram, são fundamentadas em profundas e verticalizadas organizações. Como conseguiremos trabalhar no imprevisível enquanto as decisões apenas dessem estas grandes cachoeiras!</description>
+    </item>
+    
+    <item>
+      <title>Hadoop and the Big Data Ecosystem</title>
+      <link>http://replace-this-with-your-hugo-site.com/2014/04/11/hadoop-and-the-big-data-ecosystem/</link>
+      <pubDate>Fri, 11 Apr 2014 13:36:05 +0000</pubDate>
+      
+      <guid>http://replace-this-with-your-hugo-site.com/2014/04/11/hadoop-and-the-big-data-ecosystem/</guid>
+      <description>Porque devemos nos preocupar? Assim começou o keynote do Todd Lipcon&amp;#8230; Talvez porque ao longo dos últimos anos, as empresas têm visto uma explosão no volume, variedade e velocidade dos dados que eles têm de lidar todos os dias. Esta tem sido uma bênção e uma maldição. Ao mesmo tempo que a explosão de dados nos permitiu gerar novos tipos de aplicativos e insights altamente inteligentes, os desenvolvedores descobriram que a geração anterior de ferramentas de gerenciamento de dados e frameworks desmoronavam quando tentando trabalhar e manter terabytes ou petabytes de dados muitas vezes mal-estruturados.</description>
+    </item>
+    
+    <item>
+      <title>Um Sistema de recomendação de produtos baseado em grafos: Titan, Cassandra, Redis e Hadoop em produção</title>
+      <link>http://replace-this-with-your-hugo-site.com/2014/04/10/um-sistema-de-recomendacao-de-produtos-baseado-em-grafos-titan-cassandra-redis-e-hadoop-em-producao/</link>
+      <pubDate>Thu, 10 Apr 2014 21:27:50 +0000</pubDate>
+      
+      <guid>http://replace-this-with-your-hugo-site.com/2014/04/10/um-sistema-de-recomendacao-de-produtos-baseado-em-grafos-titan-cassandra-redis-e-hadoop-em-producao/</guid>
+      <description>Big data is like teenage sex: everyone talks about it, nobody really knows how to do it, everyone thinks everyone else is doing it, so everyone claims they are doing it..
+ As maiores empresas estão tentando descobrir e ajudar a empresa a a interseção entre oque as pessoas querem, e o que a empresa quer que as pessoas comprem. Neste contexto o Andre Fatala e o Renato Pedigoni, trazem um case da Magazine Luiza.</description>
+    </item>
+    
+    <item>
+      <title>Data Science em Tempo Real com Storm</title>
+      <link>http://replace-this-with-your-hugo-site.com/2014/04/10/data-science-em-tempo-real-com-storm/</link>
+      <pubDate>Thu, 10 Apr 2014 18:32:54 +0000</pubDate>
+      
+      <guid>http://replace-this-with-your-hugo-site.com/2014/04/10/data-science-em-tempo-real-com-storm/</guid>
+      <description>Hoje sabemos que temos um monte de dados, e dai descobrimos que estes dados não é só uma caixinha mais várias, você aplica processadores estatísticos, algo de inteligência artificial, e no final temos uma saída com os dados que são esperados.
+Em 2012 as aplicações da Fabiane eram mais ou menos, um acumulo de dados e que no final estes eram processados em batch com uma saída. Parece que durante muito tempo este processamento ou a necessidade em relacioná-los e processá-los era menor.</description>
+    </item>
+    
+    <item>
+      <title>How Impala has Pushed HDFS in New Ways</title>
+      <link>http://replace-this-with-your-hugo-site.com/2014/04/10/how-impala-has-pushed-hdfs-in-new-ways/</link>
+      <pubDate>Thu, 10 Apr 2014 16:05:02 +0000</pubDate>
+      
+      <guid>http://replace-this-with-your-hugo-site.com/2014/04/10/how-impala-has-pushed-hdfs-in-new-ways/</guid>
+      <description>Como Impala e a Cloudera tem ajudado a comunidade nos últimos anos, nada melhor que o Aaron para falar sobre isso commiter do Hadoop, vamos ver como funciona HDFS, impala e como o último tem sido alterado para atender novos requisitos.
+Quando as pessoas falam sobre Hadoop, uma parte esta atrelada ao HDFS (Hadoop Distributed File System). Este é utilizado apenas como um file-system distribuído, ele foi única e exclusivamente para trabalhar com blocos de dados grandes que precisam ser rápidos para uma boa performance de MapReduce.</description>
+    </item>
+    
+    <item>
+      <title>Scaling League of Legends: managing culture, extreme complexity and 30 million active users</title>
+      <link>http://replace-this-with-your-hugo-site.com/2014/04/10/scaling-league-of-legends-managing-culture-extreme-complexity-and-30-million-active-users/</link>
+      <pubDate>Thu, 10 Apr 2014 15:03:02 +0000</pubDate>
+      
+      <guid>http://replace-this-with-your-hugo-site.com/2014/04/10/scaling-league-of-legends-managing-culture-extreme-complexity-and-30-million-active-users/</guid>
+      <description>O keynote do Jarrod Overson começou as 10:58h com um pouco do seu background, ele como um gamer não poderia trabalhar em algo diferente. Com 15 anos &amp;#8220;remunerados&amp;#8221; como assim pode dizer, chegou ao ponto em que sua empresa tem um grande produto hoje o League of Legends, em que jogadores on-line se degladeiam, enquanto a plataforma se torna ENORME!!League of legends
+Imagine agora seu código, ou o código escrito por Jarrod ou sua equipe para aguentar tantos acessos, agora pense em como a empresa cresce para acompanhar o sucesso e escalar as necessidades de um novo mercado que se abre.</description>
+    </item>
+    
+    <item>
+      <title>Building a Data Science Program at NASA/JPL with Visual Analytics</title>
+      <link>http://replace-this-with-your-hugo-site.com/2014/04/10/building-a-data-science-program-at-nasajpl-with-visual-analytics/</link>
+      <pubDate>Thu, 10 Apr 2014 13:54:41 +0000</pubDate>
+      
+      <guid>http://replace-this-with-your-hugo-site.com/2014/04/10/building-a-data-science-program-at-nasajpl-with-visual-analytics/</guid>
+      <description>Explorar o universo gera um conjunto enorme de dados. E quando estamos falando sobre os dados que nos deparamos o tempo todo, estamos falando com um conjunto de satélites que estão processando e enviando dados dia e noite durante todo o dia.
+As tecnologias de troca de dados assim como as suas fontes são cada vez maiores e diversas, a troca de informações por lasers está quase acontecendo, e como podemos olhar estes dados de perto?</description>
+    </item>
+    
+    <item>
+      <title>QConSP 2014! Começou!</title>
+      <link>http://replace-this-with-your-hugo-site.com/2014/04/10/qconsp-2014-comecou/</link>
+      <pubDate>Thu, 10 Apr 2014 12:50:51 +0000</pubDate>
+      
+      <guid>http://replace-this-with-your-hugo-site.com/2014/04/10/qconsp-2014-comecou/</guid>
+      <description>&amp;nbsp;QCon São Paulo 2014
+Em sua 5a edição a Qcon começa em São Paulo, no WTC, com novo local, nova infra-estrutura, intervalos maiores para network. Este ano as tracks dos patrocinadores estarão separadas e nomeadas como solutions tracks para que haja transparência sobre oque esperar.
+A QconSP tem 6 tracks, com programação especifica acompanhavel pelo endereço http://qconsp.com/schedule.
+ Big Data, Data Science e o Poder dos Dados Desempenho e Escalabilidade na Prática Front-end universe: JS, HTML5 e novas fronteiras da UX Java na Crista da Onda Arquiteturas que Você Sempre Quis Conhecer Dinâmicas e Funcionais: Linguagens e Técnicas para o Dev Poliglota Fronteiras do Desenvolvimento Mobile: Portáteis e Furiosos Criando Culturas e Equipes que Funcionam De Projetos a Produtos: DevOps, Continuous Delivery e além Solutions Track  Estarei por aqui nos próximos dois dias postando sobre as apresentações legais!</description>
+    </item>
+    
+    <item>
+      <title>Neal Ford – Abstraction Distractions</title>
+      <link>http://replace-this-with-your-hugo-site.com/2013/08/21/neal-ford-abstraction-distractions/</link>
+      <pubDate>Wed, 21 Aug 2013 20:14:02 +0000</pubDate>
+      
+      <guid>http://replace-this-with-your-hugo-site.com/2013/08/21/neal-ford-abstraction-distractions/</guid>
+      <description>Falar sobre abstrações nos dias atuais, é refletir sobre a própria natureza da ciência da computação e da engenharia de software. Soluções escaláveis, problemas rotineiros, todos passam em algum momento pela escolha de como serão visto pelos usuários finais, e é comumente aí em que soterramos sob camadas e mais camadas de abstração as nossas soluções.
+Pensamos na facilidade de entender, de manter, e até de expandir; mas como lidamos com os problemas que existem nas partes que encobrimos com a abstração?</description>
+    </item>
+    
+    <item>
+      <title>O limbo da demanda latente – Alê Gomes</title>
+      <link>http://replace-this-with-your-hugo-site.com/2013/06/28/o-limbo-da-demanda-latente-ale-gomes/</link>
+      <pubDate>Fri, 28 Jun 2013 13:20:24 +0000</pubDate>
+      
+      <guid>http://replace-this-with-your-hugo-site.com/2013/06/28/o-limbo-da-demanda-latente-ale-gomes/</guid>
+      <description>O Alê começou se apresentando e se colocando como indigno de ser keynoter deste grande evento, e começando a definir todos os outros que estão envolvidos no crescimento da comunidade. Para ele um não só é eleito um comitê para representar e lutar pelos interesses de todos uma vez que várias vozes ao mesmo tempo estão clamando.
+O Agile Brazil tem acontecido bem, e assim acontece quando o interesse deste grupo representa os representados!</description>
+    </item>
+    
+    <item>
+      <title>Poised for Changes – The Virtuous cycle of business Agility – Rebecca Parsons</title>
+      <link>http://replace-this-with-your-hugo-site.com/2013/06/27/poised-for-changes-the-virtuous-cycle-of-business-agility-rebecca-parsons/</link>
+      <pubDate>Thu, 27 Jun 2013 13:12:28 +0000</pubDate>
+      
+      <guid>http://replace-this-with-your-hugo-site.com/2013/06/27/poised-for-changes-the-virtuous-cycle-of-business-agility-rebecca-parsons/</guid>
+      <description>O que é agilidade em negócios? Esta foi a pergunta inicial da Rebecca, provavelmente o principal ponto é fazer entregas mais rápido com mais valor, onde o negócio alcance mais eficiência, com medições constantes de hipóteses, e assim que conseguimos confirma-las, então podemos incorpora-las.
+E isso é muito interessante, porque apesar de toda esta ideia envolvida no ciclo de lançamento de um produto, ainda não voltamos a fonte após a entrega para descobrirmos o que fazer em seguida, ou se foi realmente eficiente esta entrega.</description>
+    </item>
+    
+    <item>
+      <title>Métricas de código, pra que te quero? -Mauricio Aniche</title>
+      <link>http://replace-this-with-your-hugo-site.com/2013/06/26/metricas-de-codigo-pra-que-te-quero-mauricio-aniche/</link>
+      <pubDate>Wed, 26 Jun 2013 18:56:30 +0000</pubDate>
+      
+      <guid>http://replace-this-with-your-hugo-site.com/2013/06/26/metricas-de-codigo-pra-que-te-quero-mauricio-aniche/</guid>
+      <description>Tomar decisões é muito complicado e em software, na vida vivemos de achometro e em código devemos parar de fazer isso.
+Qual parte do código deve ser iniciada a cobertura ou os testes, a classe mais fácil, a mais conhecida, a que possui mais dependentes. O Aniche defende que assim como decisões de negócio são apoiadas por mineração de dados devemos fazer o mesmo com os nossos dados sobre código.</description>
+    </item>
+    
+    <item>
+      <title>Story Mapping: o desafio de selecionar a primeira fatia do produto</title>
+      <link>http://replace-this-with-your-hugo-site.com/2013/06/26/story-mapping-o-desafio-de-selecionar-a-primeira-fatia-do-produto/</link>
+      <pubDate>Wed, 26 Jun 2013 15:58:21 +0000</pubDate>
+      
+      <guid>http://replace-this-with-your-hugo-site.com/2013/06/26/story-mapping-o-desafio-de-selecionar-a-primeira-fatia-do-produto/</guid>
+      <description>O Imbertti começou a falar sobre o porque do agile, para ele uma das coisas é descobrir o produto e atender o time to market; outro ponto trabalhar junto e debater os assuntos.
+Story Mapping é desenvolver o produto em camadas, onde a primeira camada a mais baixa de um bolo pode ainda ser realizada uma festa, quanto mais voce aprende e evolui o bolo ganha camadas e pode ficar melhor.</description>
+    </item>
+    
+    <item>
+      <title>Agile: Unlocking our Human Potential – Patrick Kua</title>
+      <link>http://replace-this-with-your-hugo-site.com/2013/06/26/agile-unlocking-our-human-potential-patrick-kua/</link>
+      <pubDate>Wed, 26 Jun 2013 13:45:53 +0000</pubDate>
+      
+      <guid>http://replace-this-with-your-hugo-site.com/2013/06/26/agile-unlocking-our-human-potential-patrick-kua/</guid>
+      <description>Existe mais para o desenvolvimento de produtos do que apenas o desenvolvê-os. O patrcik já trabalha há algum tempo com software, e muitos problemas depois ele vê métodos ágeis como a forma de fazê-lo potencializando o pensamento.
+Antigamente existia a impressão de que a motivação estava atrelado a obrigação, e que pareceu não funcionar com o tempo, mas com o passar dos dias parecia que a melhor ideia era colocar mais dinheiro no meio, bônus entre outros, mas assim como o agile brazil vimos que várias pessoas se engajam em organização de eventos e outras coisas pensando em, Autonomia, excelência e propósito(ideias do daniel pink) e a partir desta mudança de visão passaram a se auto-motivar, a se sentir mais feliz contribuindo para algo melhor, sendo melhor e fazendo isso quando desejou fazer.</description>
+    </item>
+    
+    <item>
+      <title>AgileBR bem vindo!!</title>
+      <link>http://replace-this-with-your-hugo-site.com/2013/06/26/agilebr-bem-vindo/</link>
+      <pubDate>Wed, 26 Jun 2013 13:26:47 +0000</pubDate>
+      
+      <guid>http://replace-this-with-your-hugo-site.com/2013/06/26/agilebr-bem-vindo/</guid>
+      <description>Hoje, 26 de Junho dia de um dos maiores protestos desta nossa nova mudança brasileira, estamos reunidos para o início do maior evento de métodos ágeis do hemisfério sul.
+O grande Manoel Pimentel, iniciou os trabalhos às 09:30h com a apresentação de quem seriam os nosso convidados de honra e sobre oque eles iriam falar. Depois tivemos a apresentação dos novos brinquedos do evento como o continuos feedback, como canal direto com a equipe organizadora do evento e a sugestão de bombarmos com a #agilebr.</description>
+    </item>
+    
+    <item>
+      <title>Desconf 2012 – Fim do mundo</title>
+      <link>http://replace-this-with-your-hugo-site.com/2012/12/29/desconf-2012-fim-do-mundo/</link>
+      <pubDate>Sat, 29 Dec 2012 13:32:02 +0000</pubDate>
+      
+      <guid>http://replace-this-with-your-hugo-site.com/2012/12/29/desconf-2012-fim-do-mundo/</guid>
+      <description>&amp;nbsp;Desconf 2012 &amp;#8211; Eu Falei antes do fim do mundo
+Aconteceu no dia 17 de dezembro de 2012, a terceira edição da desconferência rápida(#desconf2012) em Porto Alegre. Este ano sobe organização apenas do Daniel Wildt e da Natalia Arsand, o evento foi espetacular como as outras edições, apenas em um formato mais curto aproximadamente 28 participantes, dos quais 20 eram palestrantes e 28 eram conferencistas.
+Se tratando de um evento completamente fora dos padrões a desconf, como já havia falado antes por aqui, possuí um formato muito enxuto, que maximiza o primeiro contato entre interessados em um assunto; ou até garante a criação de novas ideias fundamentadas em metáforas extraídas.</description>
+    </item>
+    
+    <item>
+      <title>Sucesso na medida certa – Métricas de vaidade</title>
+      <link>http://replace-this-with-your-hugo-site.com/2012/12/18/sucesso-na-medida-certa-metricas-de-vaidade/</link>
+      <pubDate>Tue, 18 Dec 2012 02:42:59 +0000</pubDate>
+      
+      <guid>http://replace-this-with-your-hugo-site.com/2012/12/18/sucesso-na-medida-certa-metricas-de-vaidade/</guid>
+      <description>[][1]Sucesso na medida certa &amp;#8211; Métricas de vaidade Ví recentemente um time de desenvolvimento apresentando aos gerentes, a defesa da qualidade como agente de crescimento. Eles estavam apresentando em um gráfico que demonstrava que quando eles começaram a focar em qualidade, obtiveram um crescimento no número de cadastros. Já o setor de marketing um dia depois após esta apresentação, reclamou os créditos, e apresentou as propagandas como fator no aumento de 170%… Qual deles foi realmente o gatilho para o sucesso?</description>
+    </item>
+    
+    <item>
+      <title>The Green Lake Strategy – Um metamodelo para design de mercados – Manoel Pimentel Medeiros</title>
+      <link>http://replace-this-with-your-hugo-site.com/2012/09/07/the-green-lake-strategy-um-metamodelo-para-design-de-mercados-manoel-pimentel-medeiros/</link>
+      <pubDate>Fri, 07 Sep 2012 12:12:40 +0000</pubDate>
+      
+      <guid>http://replace-this-with-your-hugo-site.com/2012/09/07/the-green-lake-strategy-um-metamodelo-para-design-de-mercados-manoel-pimentel-medeiros/</guid>
+      <description>A estratégia do oceano azul, é um livro que ensina estratégias de como criar e trabalhar mercados, e vai de encontra ao oceano vermelho cheio de concorrência, e a entrada neste mercado normalmente é baseada no aproveitamento e diferenciação por baixo custo sobre o mesmo. Mas &amp;#8220;como podemos escapar do oceano vermlho&amp;#8221; achar mercados inexplorados, onde você possa estar sozinho, ou que a concorrência seja irrelevante, onde a diferenciação pela inovação possas ser feita pelo valor gerado, oque é diretamente pontuado pelo mercado.</description>
+    </item>
+    
+    <item>
+      <title>Agile Portfolio Planning: Managing Your Project Portfolio – Johanna Rothman</title>
+      <link>http://replace-this-with-your-hugo-site.com/2012/09/06/agile-portfolio-planning-managing-your-project-portfolio-johanna-rothman/</link>
+      <pubDate>Thu, 06 Sep 2012 18:07:51 +0000</pubDate>
+      
+      <guid>http://replace-this-with-your-hugo-site.com/2012/09/06/agile-portfolio-planning-managing-your-project-portfolio-johanna-rothman/</guid>
+      <description>&amp;nbsp;
+A Johanna iniciou agradecendo pelo convite e dizendo quanto esta feliz de estar no Brazil. E com uma pergunta como vocês adoram trabalhar em projetos multitarefas. Muitos podem gostar mas como você sabe oque fazer? Qual delas fazer primeiro? E quando existem interrupções? Não podemos ficar o tempo todo procurando nossos gerentes para que eles nos digam oque fazer. Nos precisamos e queremos usar nossos cerebros e participar e decidir por nós mesmos oque fazer.</description>
+    </item>
+    
+    <item>
+      <title>Keynote: Growing into FLUENCY AND EXCELLENCE – James Shore</title>
+      <link>http://replace-this-with-your-hugo-site.com/2012/09/06/keynote-growing-into-fluency-and-excellence-james-shore/</link>
+      <pubDate>Thu, 06 Sep 2012 13:48:33 +0000</pubDate>
+      
+      <guid>http://replace-this-with-your-hugo-site.com/2012/09/06/keynote-growing-into-fluency-and-excellence-james-shore/</guid>
+      <description>O James Shore iniciou a sua apresentação as 09:10 falando sobre como se envolveu em um primeiro projeto utilizando FDD, com várias práticas que envolviam o cliente e protótipos e após várias entrega o projeto foi ENCERRADO, e uma coisa que ele percebeu pela primeira vez foi como mesmo inertes na realização de práticas ágeis, sem a devida evolução cultural, acabamos e continuamos nos preocupando com os pontos não tão importantes, deixando a preocupação de onde vem o dinheiro por exemplo de fora.</description>
+    </item>
+    
+    <item>
+      <title>Novatos no seu time ágil? Corra da inércia! – Cecilia Fernandes</title>
+      <link>http://replace-this-with-your-hugo-site.com/2012/09/05/novatos-no-seu-time-agil-corra-da-inercia-cecilia-fernandes/</link>
+      <pubDate>Wed, 05 Sep 2012 19:51:01 +0000</pubDate>
+      
+      <guid>http://replace-this-with-your-hugo-site.com/2012/09/05/novatos-no-seu-time-agil-corra-da-inercia-cecilia-fernandes/</guid>
+      <description>[][1]Evitando mudanças Começou falando sobre inércia, explicando que inércia não quer dizer parado, mas pode ser … Então como fugir deste comportamento com os novatos?
+A Caelum em 2009 era de certo pequeno mas passado 3 anos que ainda permanecem na empresa mas muita… muita… mudanças aconteceram, e em uma equipe que acreditava em agilidade e nos benefícios dela pode se preocupar ainda somos ágeis?
+Mas primeiramente precisamos definir o que é agilidade, porque eles ainda continuam com testes automatizados, propriedade coletiva do código, coragem e outras práticas, mas a incerteza da agilidade preocupa.</description>
+    </item>
+    
+    <item>
+      <title>The role of Agile analysis in Continuous Delivery – Jenny Wong e Danilo Sato</title>
+      <link>http://replace-this-with-your-hugo-site.com/2012/09/05/the-role-of-agile-analysis-in-continuous-delivery-jenny-wong-e-danilo-sato/</link>
+      <pubDate>Wed, 05 Sep 2012 17:45:08 +0000</pubDate>
+      
+      <guid>http://replace-this-with-your-hugo-site.com/2012/09/05/the-role-of-agile-analysis-in-continuous-delivery-jenny-wong-e-danilo-sato/</guid>
+      <description>O que é entrega continua(continuos Delivery &amp;#8211; CD)? Assim começou a apresentação! A seguir em palavras trocadas entre a Jenny e o Danilo, vimos o que se seguiria, princípios de analise e engenharia envolvidos, definições e por fim princípios e atividades que podem ser utilizadas e testadas para realmente avançarmos nesta prática avançando de forma consciente as nossas entregas continuamente durante os seus dias e sprints.
+Entrega contínua é uma estratégia de desenvolvimento de software que otimiza o seu processo de entrega para obter software de alta qualidade, de valor entregue o mais rápido possível, mas por mais incrível que pareça, como a maior parte das estratégias lidas por nós acabamos por nos aprofundar e priorizar práticas e passos de como ao invés dos porquês.</description>
+    </item>
+    
+    <item>
+      <title>Bem vindo ao Agile Brazil 2012</title>
+      <link>http://replace-this-with-your-hugo-site.com/2012/09/05/bem-vindo-ao-agile-brazil-2012/</link>
+      <pubDate>Wed, 05 Sep 2012 14:33:33 +0000</pubDate>
+      
+      <guid>http://replace-this-with-your-hugo-site.com/2012/09/05/bem-vindo-ao-agile-brazil-2012/</guid>
+      <description>Chegou o Agile Brazil 2012! Começamos as 09:40h com o Dairton Bassi fazendo as honras, o evento deste ano conta com a participação de 782 participantes, 302 empresas, 121 apresentações e 38 patrocinadores.
+Estarei nos próximos dias trazendo diariamente os relatos das apresentações que participar!
+As fotos vão se acumulando aqui &amp;gt;&amp;gt; http://www.flickr.com/photos/heliomedeiros/sets/72157631421021516/
+Bem Vindos ao Agile brazil 2012!! 
+&amp;nbsp;</description>
+    </item>
+    
+    <item>
+      <title>1ª Semana de LightningTalks e FishBowls no TecnoPUC</title>
+      <link>http://replace-this-with-your-hugo-site.com/2012/08/24/1a-semana-de-lightningtalks-e-fishbowls-no-tecnopuc/</link>
+      <pubDate>Fri, 24 Aug 2012 12:06:34 +0000</pubDate>
+      
+      <guid>http://replace-this-with-your-hugo-site.com/2012/08/24/1a-semana-de-lightningtalks-e-fishbowls-no-tecnopuc/</guid>
+      <description>Aconteceu há algumas horas o 4º dia da 1ª Semana de LightningTalks e FishBowls no TecnoPUC onde apresentei a Lightning Talk Test Driven Development &amp;#8211; Em busca de feedback útil e concreto, que abordava o conceito de feedback validado na construção de software.
+Muito se tem falado por equipes e comunidades por onde transito sobre testes e QA, mas aparentemente muitas delas ainda estão correndo e lutando as mesmas batalhas todos os dias.</description>
+    </item>
+    
+    <item>
+      <title>Slides: Gerando valor – Desafios no lançamentdo conteúdo pago</title>
+      <link>http://replace-this-with-your-hugo-site.com/2012/08/01/slides-gerando-valor-desafios-no-lancamentdo-conteudo-pago/</link>
+      <pubDate>Thu, 02 Aug 2012 01:38:48 +0000</pubDate>
+      
+      <guid>http://replace-this-with-your-hugo-site.com/2012/08/01/slides-gerando-valor-desafios-no-lancamentdo-conteudo-pago/</guid>
+      <description>Hoje tivemos no Grupo RBS mais uma edição do HotSpot, onde apresentei junto a Cintia Lima o case sobre os desafios do lançamento do conteúdo pago da ferramenta de Jornais do Grupo RBS; um projeto de grande importância, que assim como outros possui um escopo variante e exploratoriamente priorizado/validado, construido com uma equipe recém-formada.
+Na apresentação levantamos pontos aos quais atribuimos boa parte do sucesso alcançado, como forma de compartilhar padrões replicáveis em novos projetos com cenários semelhantes.</description>
+    </item>
+    
+    <item>
+      <title>“Se virol” – Reunião de Abril do GUMA-RS</title>
+      <link>http://replace-this-with-your-hugo-site.com/2012/04/11/reuniao-de-abril-do-guma-rs/</link>
+      <pubDate>Thu, 12 Apr 2012 01:37:54 +0000</pubDate>
+      
+      <guid>http://replace-this-with-your-hugo-site.com/2012/04/11/reuniao-de-abril-do-guma-rs/</guid>
+      <description>Aconteceu hoje, 11 de Abril de 2012, na Faculdade de Informática da PUC-RS sala 516, mais uma reunião do Grupo de Usuários de Metodologias Ágeis do Rio Grande do Sul. Realmente tem valido a pena estar em terras gauchas!! Grandes talks, muito networking e várias idéias&amp;#8230;.
+O evento teve início as 19:28h, com o Marco Enes fazendo sua lightning talk no &amp;#8220;Se virol&amp;#8221;&amp;#8230; quer dizer o título que era &amp;#8220;se virol&amp;#8221;!</description>
+    </item>
+    
+    <item>
+      <title>Mexa-se e porque não!!</title>
+      <link>http://replace-this-with-your-hugo-site.com/2011/12/11/mexa-se-e-porque-nao/</link>
+      <pubDate>Sun, 11 Dec 2011 17:52:30 +0000</pubDate>
+      
+      <guid>http://replace-this-with-your-hugo-site.com/2011/12/11/mexa-se-e-porque-nao/</guid>
+      <description>A recente participação na Desconf 2011, assim como conversas e acontecimentos não tão recentes, me fizeram refletir sobre o nosso comportamento como agente transformador de nosso ambiente de trabalho. Muitas e muitas vez ouvimos ou começamos debates com a frase &amp;#8220;isso nunca funcionaria onde trabalho&amp;#8221;, acontece&amp;#8230; mas você nunca terá certeza até tentar. Um ano atrás twittei feliz que estava saindo de Natal para encarar novas tarefas, conhecer novas pessoas, imergir em novos domínios e encarar de peito aberto as mudanças.</description>
+    </item>
+    
+    <item>
+      <title>DESCONF 2011-Mustache edition</title>
+      <link>http://replace-this-with-your-hugo-site.com/2011/11/29/desconf-2011-mustache-edition/</link>
+      <pubDate>Tue, 29 Nov 2011 18:53:53 +0000</pubDate>
+      
+      <guid>http://replace-this-with-your-hugo-site.com/2011/11/29/desconf-2011-mustache-edition/</guid>
+      <description>No último sábado, 29 de Novembro de 2011, tive o prazer de trocar várias idéias durante a segunda edição de uma nova modalidade de evento que trás a inovação em seu nome DESCONF!
+Sediada pela Faculdade Dom Bosco a DESCONF 2011 mustache edition, declarou a liberdade de expressão na sua temática bigodes, com um formato nada convencional que mesclava espaços abertos e lightning talks, tendo uma representatividade de 62% de seus participantes registrados como conferencistas, mas que em proporções de tempo dentro e fora do auditório todos acabam por definir e debater suas linhas de pensamentos, não conseguiu oferecer nada menos que um dia de grande aprendizagem.</description>
+    </item>
+    
+    <item>
+      <title>Não adivinhe o futuro, acompanhe-o! MVP e Livro de Possibilidades!</title>
+      <link>http://replace-this-with-your-hugo-site.com/2011/11/27/nao-adivinhe-o-futuro-acompanhe-o-mvp-e-livro-de-possibilidades/</link>
+      <pubDate>Sun, 27 Nov 2011 17:08:43 +0000</pubDate>
+      
+      <guid>http://replace-this-with-your-hugo-site.com/2011/11/27/nao-adivinhe-o-futuro-acompanhe-o-mvp-e-livro-de-possibilidades/</guid>
+      <description>[][1]KYEO Costumo pensar que todo projeto, seja aqui ou na China, tem algo semelhante em seu início, algo que permite a fundamentação, o crescimento e a melhoria continua&amp;hellip; Seguindo os encalorados discursos sobre Lean Startups, dentre muitos outros que já ouvi de pequenos, médios e grandes empreendedores, é certo concluir que o sucesso é um longo caminho de aprendizados, no qual nossa única certeza é que as ideias irão surgir e quando implementadas podem ser bem sucedidas ou não.</description>
+    </item>
+    
+    <item>
+      <title>Agile Brazil 2011 – EU VOU!!</title>
+      <link>http://replace-this-with-your-hugo-site.com/2011/06/19/agile-brazil-2011-claro-que-vou/</link>
+      <pubDate>Sun, 19 Jun 2011 15:49:35 +0000</pubDate>
+      
+      <guid>http://replace-this-with-your-hugo-site.com/2011/06/19/agile-brazil-2011-claro-que-vou/</guid>
+      <description>Este ano o Agile Brazil vai acontecer dos dias 27 de Junho a 1º de Julho em Fortaleza/CE, com mais de 50 palestras cobrindo boa parte dos &amp;#8220;must haves&amp;#8221; do cenário mundial agile.
+Para que não ficasse assim tão simples minha participação nos eventos, quando estava em Natal/RN invejava a distância, após 6 meses de minha mudança para Porto Alegre para trabalhar junto a equipe de services da Dell, fui aceito para apresentar no Agile Brazil 2011 dois lightining talks bem pertinho de onde saí.</description>
+    </item>
+    
+    <item>
+      <title>Stefanini Open Talks – Pomodoro Technique</title>
+      <link>http://replace-this-with-your-hugo-site.com/2011/01/13/stefanini-open-talks-pomodoro-technique/</link>
+      <pubDate>Fri, 14 Jan 2011 01:07:59 +0000</pubDate>
+      
+      <guid>http://replace-this-with-your-hugo-site.com/2011/01/13/stefanini-open-talks-pomodoro-technique/</guid>
+      <description>Aconteceu nesta quinta-feira dia 13 de Janeiro, no Auditório da Assespro prédio 96 da Tecnopuc, o primeiro encontro do Stefanini Open Talks.
+Esta nova iniciativa proposta pelo colaborador Marcelo Schmidt juntamente à equipe administrativa da Stefanini responsável pela conta do cliente DELL, tem como intenção envolver os colaboradores da instituição em volta dos mais variados temas. Tendo origem nos brown bags seminars, o evento segue a divisão dos lightinig talks com 15 minutos de apresentação e outros 15 minutos para dúvidas.</description>
+    </item>
+    
+    <item>
+      <title>AGILE DAY 2010 – Paulo Caroli</title>
+      <link>http://replace-this-with-your-hugo-site.com/2010/12/12/agile-day-2010-paulo-caroli/</link>
+      <pubDate>Sun, 12 Dec 2010 12:21:35 +0000</pubDate>
+      
+      <guid>http://replace-this-with-your-hugo-site.com/2010/12/12/agile-day-2010-paulo-caroli/</guid>
+      <description>No último dia 29 de novembro tivemos durante a tarde do Agile Day 2010 Porto Alegre uma excelente transferência de experiências conduzida pelo Paulo Caroli da ThoughtWorks, com sua palestra A LINHA DE MONTAGEM DE SW representada como cartões na parede.Paulo Caroli Agile Day Porto Alegre 2010
+A apresentação foi iniciada evidenciando Taylor e suas contribuições ao aumento da eficiência industrial, com uma ressalva a uma de suas teorias de gerência, a scientific management, que em linhas gerais integrava a lógica produtiva a especialização de cada operário, aproveitando estas vantagens empregando-as em um determinado ponto no caminho para a construção desejada.</description>
+    </item>
+    
+    <item>
+      <title>AGILE DAY 2010 – Luiz Faias Jr.</title>
+      <link>http://replace-this-with-your-hugo-site.com/2010/11/30/agile-day-2010-luiz-faias-jr/</link>
+      <pubDate>Tue, 30 Nov 2010 02:35:31 +0000</pubDate>
+      
+      <guid>http://replace-this-with-your-hugo-site.com/2010/11/30/agile-day-2010-luiz-faias-jr/</guid>
+      <description>[][1]Luiz Faias Junior - Aprendizado Na tarde do dia 29&amp;frasl;11 tivemos a frente do palco do Agile Day 2010 Porto Alegre o Luiz Faias Jr., diretor de tecnologia da Bluesoft, compartilhando em sua palestra os conceitos e idéias que vem refletindo e aplicando sobre a criação de um ambiente aprendizagem!
+A palestra foi iniciada às 14:30h com várias perguntas rápidas, no qual em pouco tempo o mesmo admitiu se tratar apenas de uma brincadeira para para o pessoal levantar o braço e acordar!</description>
+    </item>
+    
+    <item>
+      <title>AGILE DAY 2010 – Klaus Wuestefeld</title>
+      <link>http://replace-this-with-your-hugo-site.com/2010/11/24/agile-day-2010-klaus-wuestefeld/</link>
+      <pubDate>Thu, 25 Nov 2010 01:41:25 +0000</pubDate>
+      
+      <guid>http://replace-this-with-your-hugo-site.com/2010/11/24/agile-day-2010-klaus-wuestefeld/</guid>
+      <description>[][1]Agile day 2010 O Agile Day 2010 POA, começou oficialmente as 09:00h, com o Daniel Wildt que apresentou a idéia do evento e seu formato com aquele entusiasmo agilista que sempre vemos nele! Para este ano foram 114 inscritos e 1 palestrante faltante, o André Nascimento não foi. Logo em seguida o Klaus foi apresentado e começou um dos keynotes planejados para o dia.
+A palestra iniciou-se às 09:20h com o Klaus questionando quais dos congressistas efetivamente trabalhavam com desenvolvimento de software, e destes quais já haviam colocado software em produção!</description>
+    </item>
+    
+    <item>
+      <title>Agile Day 2010 – Porto Alegre</title>
+      <link>http://replace-this-with-your-hugo-site.com/2010/11/23/agile-day-2010-porto-alegre/</link>
+      <pubDate>Wed, 24 Nov 2010 00:09:00 +0000</pubDate>
+      
+      <guid>http://replace-this-with-your-hugo-site.com/2010/11/23/agile-day-2010-porto-alegre/</guid>
+      <description>Amanhã dia 24&amp;frasl;11 acontecerá na FACIN/PUCRS o último evento, para o ano de 2010, promovido pelo grupo de usuários de metodologias ágeis do Rio Grande do Sul, o AGILE DAY 2010.
+A programação do evento está bem interessante tendo 5 keynotes e vários lightining talks e fishbowl conversations. Teremos o Klaus Wuestefeld, que esteve no palco do AGILE BRAZIL 2010, falando sobre o dilema de focar e manter a qualidade de um software mediante as entregas rápidas e urgentes; do André Nascimento, da Stefanini, sobre a implantação de metodos ágeis na Stefanini; do Luiz Faias, da bluesoft, sobre a construção de uma cultura de aprendizagem (ESTOU ESPERANDO ESTA); do Paulo Caroli, da TWBr, sobre a linha de montagem de SW representada com cartões na parede e por fim o Daniel Weinmann, da Softa, falando sobre Crowdfunding e Agile &amp;#8211; Acabando com a discussão entre escopo aberto e escopo fechado.</description>
+    </item>
+    
+    <item>
+      <title>Agile Brazil 2010 – Introdução a programação Extrema (XP)</title>
+      <link>http://replace-this-with-your-hugo-site.com/2010/06/22/agile-brazil-2010-introducao-a-programacao-extrema-xp/</link>
+      <pubDate>Tue, 22 Jun 2010 02:54:34 +0000</pubDate>
+      
+      <guid>http://replace-this-with-your-hugo-site.com/2010/06/22/agile-brazil-2010-introducao-a-programacao-extrema-xp/</guid>
+      <description>Extra oficialmente o Agile Brazil 2010 começou hoje!
+Como todo bom evento de ótimos palestrantes, o Agile Brazil iniciou para mim a algum tempo atrás com a publicação da programação, que tentava nos ajudar com suas trilhas relacionadas a familiaridade o expertise dos participantes&amp;#8230; mas para mim não ajudou muito!! Acontece que neste nosso cenário, de grandes massas de informações lançadas em blogs muitas vezes sem a responsabilidade do concreto funcionamento, boas palestras mesmo que básicas são sempre desejáveis; entregues em mãos apropriadas, 45 minutos podem tirar o seu chão e construí-lo de uma forma totalmente nova e isso espero do Agile Brazil 2010.</description>
+    </item>
+    
+    <item>
+      <title>Café Ágil em Recife</title>
+      <link>http://replace-this-with-your-hugo-site.com/2010/05/22/cafe-agil-em-recife/</link>
+      <pubDate>Sat, 22 May 2010 21:39:56 +0000</pubDate>
+      
+      <guid>http://replace-this-with-your-hugo-site.com/2010/05/22/cafe-agil-em-recife/</guid>
+      <description>No último sábado, 15 de maio, estive em Recife para um evento rápido e bastante interessante o Café Ágil. Esta iniciativa da ThoughtWorks Brazil juntamente a UFPE reuniu, em um sábado ensolarado,três palestrantes de peso, Paulo Caroli(TW Br), Luiz Borba(Pitang) e Jim Webber(TW UK) e cerca de 90 pessoas no anfiteatro do Centro de Informática da UFPE, para tratar assuntos como XP, TDD e Rest.
+
+O evento foi iniciado às 08:30h como suscinta o nome regrado a café e muita conversa.</description>
+    </item>
+    
+    <item>
+      <title>Será que ajudei alguém a derrubar as paredes erradas?</title>
+      <link>http://replace-this-with-your-hugo-site.com/2009/11/17/sera-que-ajudei-alguem-a-derrubar-as-paredes-erradas/</link>
+      <pubDate>Tue, 17 Nov 2009 10:06:49 +0000</pubDate>
+      
+      <guid>http://replace-this-with-your-hugo-site.com/2009/11/17/sera-que-ajudei-alguem-a-derrubar-as-paredes-erradas/</guid>
+      <description>Aproximadamente um mês atrás realizei juntamente ao meu ex-colega de trabalho e amigo Germano Carvalho, um minicurso sobre metodologias ágeis e scrum no décimo primeiro congresso científico da UnP. A principio ficamos naquela sobre a quantidade de participantes e do interesse dos mesmos sobre o assunto. Eu como sempre imaginei a sala meio cheia, mas no final quem acertou foi Germano. Acho que os participantes já haviam lido muitos artigos e acabaram por prolongar seus feriados.</description>
+    </item>
+    
+    <item>
+      <title>Mike Keith – Java EE 6 – Uma grande evolução</title>
+      <link>http://replace-this-with-your-hugo-site.com/2009/11/11/mike-keith-java-ee-6-uma-grande-evolucao/</link>
+      <pubDate>Wed, 11 Nov 2009 14:22:51 +0000</pubDate>
+      
+      <guid>http://replace-this-with-your-hugo-site.com/2009/11/11/mike-keith-java-ee-6-uma-grande-evolucao/</guid>
+      <description>A palestra de Mike Keith iniciou às 11:00h, após o coffee break, com algumas brincadeiras e perguntas sobre o tempo em que era despendido entre o lançamento das novas versões Java, sem a platéia achava muito ou pouco e se não os interessava, o slide deste momento mostrava a frase &amp;#8220;Ou não se importa pois acha que a Microsoft irá matar o Java&amp;#8221;. Sei que poderiam haver problemas dizer algo assim a algum tempo&amp;#8230; mas pelo que vim escutando neste tempo aqui no Rio, pelo próprio Phillip, o .</description>
+    </item>
+    
+    <item>
+      <title>Rod Johnson – Tendências em Java EE: Como serão os próximos 5 anos</title>
+      <link>http://replace-this-with-your-hugo-site.com/2009/11/11/rod-johnson-tendencias-em-java-ee-como-serao-os-proximos-5-anos/</link>
+      <pubDate>Wed, 11 Nov 2009 13:07:38 +0000</pubDate>
+      
+      <guid>http://replace-this-with-your-hugo-site.com/2009/11/11/rod-johnson-tendencias-em-java-ee-como-serao-os-proximos-5-anos/</guid>
+      <description>Quarta Feira dia de TDC no Rio, uma das palestras mais esperadas é a do Rod Johnson criador do Spring e responsável por livros muito interessantes. A palestra iniciou-se às 10:00h e tratou as mudanças e tendências sobre seu ponto de vista.
+Para o Rod o mundo esta passando por uma série de mudanças que nos levam a quebras de paradigma e nos põem sobre uma novas perspectiva.
+Uma das primeiras coisas expostas, que conduzem a esta mudança é cloud computing, para ele uma das coisas que nos leva a utilizar e visualizar esta solução como tendência, é a distribuição de poder computacional, proporcionando economias pela não necessidade de compra de maquinário suficiente para agüentar os picos.</description>
+    </item>
+    
+    <item>
+      <title>WS-46 na Caelum com Phillip Calçado</title>
+      <link>http://replace-this-with-your-hugo-site.com/2009/11/09/ws-46-na-caelum-com-phillip-calcado/</link>
+      <pubDate>Mon, 09 Nov 2009 23:37:20 +0000</pubDate>
+      
+      <guid>http://replace-this-with-your-hugo-site.com/2009/11/09/ws-46-na-caelum-com-phillip-calcado/</guid>
+      <description>Após alguns anos acompanhando o blog do Phillip, tive nesta segunda-feira o tão esperado curso WS-46 na Caelum Rio. Em um post recente e durante nossas conversas nos intervalos do curso o Phillip disse que provavelmente este seria o último ano do curso&amp;#8230; estou muito feliz por ter aproveitado a oportunidade.
+O curso iniciou-se às 09:20h devido alguns problemas de conexão apple mini display port -&amp;gt; projetor com entrada vga, o Nico Steppat que estava por lá rapidamente providenciou um notebook para substituir o mac pro do Phillip e a palestra começou com o aviso de que o computador não lhe pertencia e que com certeza haveriam problemas&amp;#8230;.</description>
+    </item>
+    
+    <item>
+      <title>Caelum Day in Rio – Muito Sol e excelentes palestrantes</title>
+      <link>http://replace-this-with-your-hugo-site.com/2009/11/07/caelum-day-in-rio-muito-sol-e-excelentes-palestrantes/</link>
+      <pubDate>Sat, 07 Nov 2009 23:27:21 +0000</pubDate>
+      
+      <guid>http://replace-this-with-your-hugo-site.com/2009/11/07/caelum-day-in-rio-muito-sol-e-excelentes-palestrantes/</guid>
+      <description>Caelum day in Rio  Mesmo com todo o sol que convidava os cariocas e visitantes a refrescarem-se nas frias águas das praias cariocas, houveram pouquíssimas cadeiras vazias no primeiro evento, da Caelum unidade Rio, intitulado Caelum Day in Rio.  Ao todo 120 e participantes, entre desenvolvedores atraídos pelas palestras e light talks   do Fábio Kung sobre Cloud;   do Guilherme Silveira e Filipe Sabella sobre as novidades do VRaptor 3;   do Sergio Junior e Luiz Costa sobre Restful.</description>
+    </item>
+    
+    <item>
+      <title>SCRUM no congresso científico da UnP !!!</title>
+      <link>http://replace-this-with-your-hugo-site.com/2009/10/22/scrum-no-congresso-cientifico-da-unp/</link>
+      <pubDate>Thu, 22 Oct 2009 05:31:22 +0000</pubDate>
+      
+      <guid>http://replace-this-with-your-hugo-site.com/2009/10/22/scrum-no-congresso-cientifico-da-unp/</guid>
+      <description>Nos dias 22 e 23 de outubro vai rolar na Universidade Potiguar &amp;#8211; RN o seu décimo primeiro congresso científico.
+Este ano fui convidado pela direção do curso de sistemas de informação para ministrar um mini-curso SCRUM, como transformar equipes em times com entregas repetitivas de valor ao cliente de oito horas.
+Estive quando aluno em alguns deste congressos assistindo a palestras do meu atual chefe Prof. Paulo Benício sobre programação Open-GL, na época os congressos eram excelentes e espero que este ano seja ainda melhor!</description>
+    </item>
+    
+  </channel>
+</rss>

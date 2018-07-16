@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Xp on Helio Medeiros</title>
+    <link>http://replace-this-with-your-hugo-site.com/tags/xp/</link>
+    <description>Recent content in Xp on Helio Medeiros</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 24 Aug 2012 12:06:34 +0000</lastBuildDate>
+    
+	<atom:link href="http://replace-this-with-your-hugo-site.com/tags/xp/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>1ª Semana de LightningTalks e FishBowls no TecnoPUC</title>
+      <link>http://replace-this-with-your-hugo-site.com/2012/08/24/1a-semana-de-lightningtalks-e-fishbowls-no-tecnopuc/</link>
+      <pubDate>Fri, 24 Aug 2012 12:06:34 +0000</pubDate>
+      
+      <guid>http://replace-this-with-your-hugo-site.com/2012/08/24/1a-semana-de-lightningtalks-e-fishbowls-no-tecnopuc/</guid>
+      <description>Aconteceu há algumas horas o 4º dia da 1ª Semana de LightningTalks e FishBowls no TecnoPUC onde apresentei a Lightning Talk Test Driven Development &amp;#8211; Em busca de feedback útil e concreto, que abordava o conceito de feedback validado na construção de software.
+Muito se tem falado por equipes e comunidades por onde transito sobre testes e QA, mas aparentemente muitas delas ainda estão correndo e lutando as mesmas batalhas todos os dias.</description>
+    </item>
+    
+    <item>
+      <title>Café Ágil em Recife</title>
+      <link>http://replace-this-with-your-hugo-site.com/2010/05/22/cafe-agil-em-recife/</link>
+      <pubDate>Sat, 22 May 2010 21:39:56 +0000</pubDate>
+      
+      <guid>http://replace-this-with-your-hugo-site.com/2010/05/22/cafe-agil-em-recife/</guid>
+      <description>No último sábado, 15 de maio, estive em Recife para um evento rápido e bastante interessante o Café Ágil. Esta iniciativa da ThoughtWorks Brazil juntamente a UFPE reuniu, em um sábado ensolarado,três palestrantes de peso, Paulo Caroli(TW Br), Luiz Borba(Pitang) e Jim Webber(TW UK) e cerca de 90 pessoas no anfiteatro do Centro de Informática da UFPE, para tratar assuntos como XP, TDD e Rest.
+
+O evento foi iniciado às 08:30h como suscinta o nome regrado a café e muita conversa.</description>
+    </item>
+    
+    <item>
+      <title>Materializando os Valores XP – Aula 13</title>
+      <link>http://replace-this-with-your-hugo-site.com/2010/04/11/materializando-os-valores-xp-aula-13/</link>
+      <pubDate>Sun, 11 Apr 2010 12:45:09 +0000</pubDate>
+      
+      <guid>http://replace-this-with-your-hugo-site.com/2010/04/11/materializando-os-valores-xp-aula-13/</guid>
+      <description>Segunda aula sobre a metodologia ágil XP lecionada junto a Universidade Potiguar. Nesta aula foram apresentados as formas encontradas pelo XP para transmitir seu valores, materializando-os por meio de ações, decisões e práticas. São apresentados os princípios básicos e menos fundamentais, assim como as práticas do XP. Por fim são diagramadas as relações expostas por Kent Beck em Extreme Programming Explained entre as práticas, mostrando a integração proposta para práticas consagradas mas que haviam falhado em um outros ambientes, que agora mostram sua força coletiva nesta metodologia de ações extremas.</description>
+    </item>
+    
+    <item>
+      <title>Minha equipe precisa de um pedal de overdriver</title>
+      <link>http://replace-this-with-your-hugo-site.com/2010/02/11/minha-equipe-precisa-de-um-pedal-de-overdriver/</link>
+      <pubDate>Fri, 12 Feb 2010 01:55:03 +0000</pubDate>
+      
+      <guid>http://replace-this-with-your-hugo-site.com/2010/02/11/minha-equipe-precisa-de-um-pedal-de-overdriver/</guid>
+      <description>Estou a algum tempo pesquisando sobre o as relações e como podemos trabalhar junto as equipes constituindo um crescimento naturalmente feliz e produtivo.
+Estive um tempo atrás no Rio e ouvi(tudo que eu queria saber antes de virar um líder técnico), assim como tinha lido em alguns blogs, que se queremos aprender ou aplicar algo em nosso dia-a-dia que impacte positivamente em nosso trabalho devemos fazê-lo nos mesmos e não esperar por chefes ou colegas, é mostrando as melhorias que realmente se conquista o reconhecimento do sucesso.</description>
+    </item>
+    
+    <item>
+      <title>O objetivo não deveria ser entregar ótimas funcionalidades ?</title>
+      <link>http://replace-this-with-your-hugo-site.com/2010/02/09/o-objetivo-nao-deveria-ser-entregar-otimas-funcionalidades/</link>
+      <pubDate>Tue, 09 Feb 2010 23:49:20 +0000</pubDate>
+      
+      <guid>http://replace-this-with-your-hugo-site.com/2010/02/09/o-objetivo-nao-deveria-ser-entregar-otimas-funcionalidades/</guid>
+      <description>Uma coisa que me intriga mais e mais cada vez que escuto alguém falando que utiliza metodologias ágeis, e que seus clientes continuam insatisfeitos, mesmo com as entregas reptiveis de software funcionando, é que nós não deveríamos antecipar o retorno ao investimento de nosso cliente dando a ele subsídios para otimizar o funcionamento de seu negócio ?
+Lí a pouco uma frase no twitter do @jeffpatton, &amp;#8220;Looking forward to the time when people use agile development to build great products, not just deliver dumb stuff faster.</description>
+    </item>
+    
+  </channel>
+</rss>

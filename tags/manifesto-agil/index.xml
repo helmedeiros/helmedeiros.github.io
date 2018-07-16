@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Manifesto Agil on Helio Medeiros</title>
+    <link>http://replace-this-with-your-hugo-site.com/tags/manifesto-agil/</link>
+    <description>Recent content in Manifesto Agil on Helio Medeiros</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 11 Mar 2010 10:21:39 +0000</lastBuildDate>
+    
+	<atom:link href="http://replace-this-with-your-hugo-site.com/tags/manifesto-agil/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Quinta Aula, Introduzindo Agilidade !!!</title>
+      <link>http://replace-this-with-your-hugo-site.com/2010/03/11/quinta-aula-introduzindo-agilidade/</link>
+      <pubDate>Thu, 11 Mar 2010 10:21:39 +0000</pubDate>
+      
+      <guid>http://replace-this-with-your-hugo-site.com/2010/03/11/quinta-aula-introduzindo-agilidade/</guid>
+      <description>A quinta aula ministrada ao curso de Sistemas de Informação da UnP iniciou a apresentação das metodologias ágeis como mais uma estratégia em processo empíricos para trabalharmos focados em qualidade com custo e tempos fixos e escopo variado.
+[slideshare id=3392936&amp;amp;doc=unp-aula5-100310231121-phpapp02]</description>
+    </item>
+    
+  </channel>
+</rss>

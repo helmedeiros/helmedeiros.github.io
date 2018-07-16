@@ -1,0 +1,201 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  <head>
+  <meta charset="utf-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
+
+  <title>Métricas de código, pra que te quero? -Mauricio Aniche</title>
+
+  <meta name="author" content="" />
+  
+  
+
+  <meta name="generator" content="Hugo 0.44" />
+
+  <link rel="alternate" href="http://replace-this-with-your-hugo-site.com/index.xml" type="application/rss+xml" title="Helio Medeiros">
+
+  <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css" />
+  <link rel="stylesheet" href="http://replace-this-with-your-hugo-site.com/css/bootstrap.min.css" />
+  <link rel="stylesheet" href="http://replace-this-with-your-hugo-site.com/css/main.css" />
+  <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Lora:400,700,400italic,700italic" />
+  <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800" />
+  <link rel="stylesheet" href="http://replace-this-with-your-hugo-site.com/css/pygment_highlights.css" />
+  
+  
+  <meta property="og:title" content="Métricas de código, pra que te quero? -Mauricio Aniche" />
+  <meta property="og:type" content="website" />
+  <meta property="og:url" content="/2013/06/26/metricas-de-codigo-pra-que-te-quero-mauricio-aniche//" />
+  <meta property="og:image" content="" />
+  
+</head>
+
+
+  <body>
+
+    <nav class="navbar navbar-default navbar-fixed-top navbar-custom">
+  <div class="container-fluid">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#main-navbar">
+        <span class="sr-only">Toggle navigation</span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a class="navbar-brand" href="http://replace-this-with-your-hugo-site.com/">Helio Medeiros</a>
+    </div>
+
+    <div class="collapse navbar-collapse" id="main-navbar">
+      <ul class="nav navbar-nav navbar-right">
+      
+      </ul>
+    </div>
+
+	<div class="avatar-container">
+	  <div class="avatar-img-border">
+      
+	  </div>
+	</div>
+
+  </div>
+</nav>
+
+
+    <div role="main" class="container main-content">
+
+      
+        
+
+
+
+
+
+<header class="header-section ">
+
+<div class="intro-header no-img">
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+        <div class="post-heading">
+          <h1>Métricas de código, pra que te quero? -Mauricio Aniche</h1>
+      
+      
+      
+      <span class="post-meta">Posted on June 26, 2013</span>
+      
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+</header>
+
+
+
+
+<div class="container">
+  <div class="row">
+    <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+      <article role="main" class="blog-post">
+          <p>Tomar decisões é muito complicado e em software, na vida vivemos de achometro e em código devemos parar de fazer isso.</p>
+
+<p>Qual parte do código deve ser iniciada a cobertura ou os testes, a classe mais fácil, a mais conhecida, a que possui mais dependentes. O Aniche defende que assim como decisões de negócio são apoiadas por mineração de dados devemos fazer o mesmo com os nossos dados sobre código.</p>
+
+<p>Software apodrece! Precisamos pensar nas métricas, precisamos ir além da nossa percepção.</p>
+
+<p>Dizer oque é um código bonito ou um código feio é difícil, até porque perceber ou definir ou unanimizar estes índices é difícil. Cada pessoa tem o seu número ideial, por que não realizarmos uma melhoria gradativa, vamos tirando média e puxando os muito acima para a média, ajuda?</p>
+
+<p>Qual a quantidade de métodos máximo de uma classe, para que ela seja considerada bonita? Novamente cada pessoa pode encontrar ou definir sua própria métrica para uma classe DEUS(o PMD define que classes com muitas atribuições são DEUS).</p>
+
+<p>Quantas responsabilidades uma classe tem? Uma classe com 10m poderia ter muitas responsabilidades? Num mundo O.O. temos atributos e métodos, se uma classe tem 4 atributos e 2 métodos, se o método 1 altera 2 atributos  e o 2 os outros 2 métodos, esta métrica pode nos ajudar a falar sobre coesão e responsabilidades? E isto é absoluto?</p>
+
+<p>Precisamos olhar os acoplamentos das classes, preciso saber quantas classes eu dependo e quantas dependem de mim…. talvez estes acoplamentos sejam bons… ou não?</p>
+
+<p>Ainda dentro do tópico de acoplamento temos as co-changes, que são acoplamentos que não podemos ver, toda vez que altero um objeto ou mbean e não altero a jsp, tenho erros, este também deve ser observado de perto.</p>
+
+<p>Vê a quantidade de métricas que temos. Será que poderíamos combiná-las? Temos métricas de implementação, projeto de classes… existem estudos sobre estes resultados, e com toda certeza devemos usá-lo.</p>
+
+<p>Podemos ver quais arquivos são mais comitados, quem são os responsáveis pelos comits. Podemos potencializar a qualidade, utilizar o conhecimento.</p>
+
+<p>Quem e quando gerou mais bugs? Podemos descobrir quem corrigiu algo, que dia foi esse e quem sabe podemos fazer algo a respeito. Muitos riscos podem ser minimizados entendendo um pouco mais estas métricas.</p>
+
+<p>Uma imagem vale mais que mil palavras! Descubra oque está por baixo do teu capô, e faça isso com gráficos, podemos analisar rapidamente e entender oque acontece. Olhe o <a href="http://www.inf.usi.ch/phd/wettel/codecity.html" title="code city">CodeCity</a>, use DSM, Matrix Pyramid, veja o Kiviat, JDpendend, JavaNCSS, Eclipse Metrics! Nem tudo é perfeito mas vale testar!!</p>
+
+      </article>
+
+      <ul class="pager blog-pager">
+        
+        <li class="previous">
+          <a href="http://replace-this-with-your-hugo-site.com/2013/06/26/story-mapping-o-desafio-de-selecionar-a-primeira-fatia-do-produto/" data-toggle="tooltip" data-placement="top" title="Story Mapping: o desafio de selecionar a primeira fatia do produto">&larr; Previous Post</a>
+        </li>
+        
+        
+        <li class="next">
+          <a href="http://replace-this-with-your-hugo-site.com/2013/06/27/poised-for-changes-the-virtuous-cycle-of-business-agility-rebecca-parsons/" data-toggle="tooltip" data-placement="top" title="Poised for Changes – The Virtuous cycle of business Agility – Rebecca Parsons">Next Post &rarr;</a>
+        </li>
+        
+      </ul>
+
+      
+
+    </div>
+  </div>
+</div>
+
+      
+
+    </div>
+
+    <footer>
+  <div class="container beautiful-jekyll-footer">
+    <div class="row">
+      <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+        <ul class="list-inline text-center footer-links">
+          
+          
+		      
+		      
+		      
+	    	  
+          
+          
+
+    		  <li>
+      			<a href="http://replace-this-with-your-hugo-site.com/index.xml" title="RSS">
+      			  <span class="fa-stack fa-lg">
+        				<i class="fa fa-circle fa-stack-2x"></i>
+        				<i class="fa fa-rss fa-stack-1x fa-inverse"></i>
+      			  </span>
+      			</a>
+    		  </li>		
+
+        </ul>
+        <p class="copyright text-muted">
+    		  
+    		  &nbsp;&bull;&nbsp;
+    		  2014
+    		  
+    		  
+    		  &nbsp;&bull;&nbsp;
+    		  <a href="http://replace-this-with-your-hugo-site.com/">Helio Medeiros</a>
+    		  
+  	    </p>
+  	        
+    		<p class="theme-by text-muted">
+    		  Theme by
+    		  <a href="http://deanattali.com/beautiful-jekyll/">beautiful-jekyll</a>
+    		</p>
+      </div>
+    </div>
+  </div>
+</footer>
+
+<script src="http://replace-this-with-your-hugo-site.com/js/jquery-1.11.2.min.js"></script>
+<script src="http://replace-this-with-your-hugo-site.com/js/bootstrap.min.js"></script>
+<script src="http://replace-this-with-your-hugo-site.com/js/main.js"></script>
+
+
+
+  </body>
+</html>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hélio on Helio Medeiros</title>
+    <link>http://replace-this-with-your-hugo-site.com/tags/h%C3%A9lio/</link>
+    <description>Recent content in Hélio on Helio Medeiros</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 14 Jan 2011 01:07:59 +0000</lastBuildDate>
+    
+	<atom:link href="http://replace-this-with-your-hugo-site.com/tags/h%C3%A9lio/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Stefanini Open Talks – Pomodoro Technique</title>
+      <link>http://replace-this-with-your-hugo-site.com/2011/01/13/stefanini-open-talks-pomodoro-technique/</link>
+      <pubDate>Fri, 14 Jan 2011 01:07:59 +0000</pubDate>
+      
+      <guid>http://replace-this-with-your-hugo-site.com/2011/01/13/stefanini-open-talks-pomodoro-technique/</guid>
+      <description>Aconteceu nesta quinta-feira dia 13 de Janeiro, no Auditório da Assespro prédio 96 da Tecnopuc, o primeiro encontro do Stefanini Open Talks.
+Esta nova iniciativa proposta pelo colaborador Marcelo Schmidt juntamente à equipe administrativa da Stefanini responsável pela conta do cliente DELL, tem como intenção envolver os colaboradores da instituição em volta dos mais variados temas. Tendo origem nos brown bags seminars, o evento segue a divisão dos lightinig talks com 15 minutos de apresentação e outros 15 minutos para dúvidas.</description>
+    </item>
+    
+  </channel>
+</rss>

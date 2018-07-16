@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2010 on Helio Medeiros</title>
+    <link>http://replace-this-with-your-hugo-site.com/tags/2010/</link>
+    <description>Recent content in 2010 on Helio Medeiros</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 12 Dec 2010 12:21:35 +0000</lastBuildDate>
+    
+	<atom:link href="http://replace-this-with-your-hugo-site.com/tags/2010/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>AGILE DAY 2010 – Paulo Caroli</title>
+      <link>http://replace-this-with-your-hugo-site.com/2010/12/12/agile-day-2010-paulo-caroli/</link>
+      <pubDate>Sun, 12 Dec 2010 12:21:35 +0000</pubDate>
+      
+      <guid>http://replace-this-with-your-hugo-site.com/2010/12/12/agile-day-2010-paulo-caroli/</guid>
+      <description>No último dia 29 de novembro tivemos durante a tarde do Agile Day 2010 Porto Alegre uma excelente transferência de experiências conduzida pelo Paulo Caroli da ThoughtWorks, com sua palestra A LINHA DE MONTAGEM DE SW representada como cartões na parede.Paulo Caroli Agile Day Porto Alegre 2010
+A apresentação foi iniciada evidenciando Taylor e suas contribuições ao aumento da eficiência industrial, com uma ressalva a uma de suas teorias de gerência, a scientific management, que em linhas gerais integrava a lógica produtiva a especialização de cada operário, aproveitando estas vantagens empregando-as em um determinado ponto no caminho para a construção desejada.</description>
+    </item>
+    
+    <item>
+      <title>AGILE DAY 2010 – Luiz Faias Jr.</title>
+      <link>http://replace-this-with-your-hugo-site.com/2010/11/30/agile-day-2010-luiz-faias-jr/</link>
+      <pubDate>Tue, 30 Nov 2010 02:35:31 +0000</pubDate>
+      
+      <guid>http://replace-this-with-your-hugo-site.com/2010/11/30/agile-day-2010-luiz-faias-jr/</guid>
+      <description>[][1]Luiz Faias Junior - Aprendizado Na tarde do dia 29&amp;frasl;11 tivemos a frente do palco do Agile Day 2010 Porto Alegre o Luiz Faias Jr., diretor de tecnologia da Bluesoft, compartilhando em sua palestra os conceitos e idéias que vem refletindo e aplicando sobre a criação de um ambiente aprendizagem!
+A palestra foi iniciada às 14:30h com várias perguntas rápidas, no qual em pouco tempo o mesmo admitiu se tratar apenas de uma brincadeira para para o pessoal levantar o braço e acordar!</description>
+    </item>
+    
+    <item>
+      <title>AGILE DAY 2010 – Klaus Wuestefeld</title>
+      <link>http://replace-this-with-your-hugo-site.com/2010/11/24/agile-day-2010-klaus-wuestefeld/</link>
+      <pubDate>Thu, 25 Nov 2010 01:41:25 +0000</pubDate>
+      
+      <guid>http://replace-this-with-your-hugo-site.com/2010/11/24/agile-day-2010-klaus-wuestefeld/</guid>
+      <description>[][1]Agile day 2010 O Agile Day 2010 POA, começou oficialmente as 09:00h, com o Daniel Wildt que apresentou a idéia do evento e seu formato com aquele entusiasmo agilista que sempre vemos nele! Para este ano foram 114 inscritos e 1 palestrante faltante, o André Nascimento não foi. Logo em seguida o Klaus foi apresentado e começou um dos keynotes planejados para o dia.
+A palestra iniciou-se às 09:20h com o Klaus questionando quais dos congressistas efetivamente trabalhavam com desenvolvimento de software, e destes quais já haviam colocado software em produção!</description>
+    </item>
+    
+    <item>
+      <title>Agile Day 2010 – Porto Alegre</title>
+      <link>http://replace-this-with-your-hugo-site.com/2010/11/23/agile-day-2010-porto-alegre/</link>
+      <pubDate>Wed, 24 Nov 2010 00:09:00 +0000</pubDate>
+      
+      <guid>http://replace-this-with-your-hugo-site.com/2010/11/23/agile-day-2010-porto-alegre/</guid>
+      <description>Amanhã dia 24&amp;frasl;11 acontecerá na FACIN/PUCRS o último evento, para o ano de 2010, promovido pelo grupo de usuários de metodologias ágeis do Rio Grande do Sul, o AGILE DAY 2010.
+A programação do evento está bem interessante tendo 5 keynotes e vários lightining talks e fishbowl conversations. Teremos o Klaus Wuestefeld, que esteve no palco do AGILE BRAZIL 2010, falando sobre o dilema de focar e manter a qualidade de um software mediante as entregas rápidas e urgentes; do André Nascimento, da Stefanini, sobre a implantação de metodos ágeis na Stefanini; do Luiz Faias, da bluesoft, sobre a construção de uma cultura de aprendizagem (ESTOU ESPERANDO ESTA); do Paulo Caroli, da TWBr, sobre a linha de montagem de SW representada com cartões na parede e por fim o Daniel Weinmann, da Softa, falando sobre Crowdfunding e Agile &amp;#8211; Acabando com a discussão entre escopo aberto e escopo fechado.</description>
+    </item>
+    
+  </channel>
+</rss>

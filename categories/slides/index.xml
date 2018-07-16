@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Slides on Helio Medeiros</title>
+    <link>http://replace-this-with-your-hugo-site.com/categories/slides/</link>
+    <description>Recent content in Slides on Helio Medeiros</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 18 Dec 2012 02:42:59 +0000</lastBuildDate>
+    
+	<atom:link href="http://replace-this-with-your-hugo-site.com/categories/slides/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Sucesso na medida certa – Métricas de vaidade</title>
+      <link>http://replace-this-with-your-hugo-site.com/2012/12/18/sucesso-na-medida-certa-metricas-de-vaidade/</link>
+      <pubDate>Tue, 18 Dec 2012 02:42:59 +0000</pubDate>
+      
+      <guid>http://replace-this-with-your-hugo-site.com/2012/12/18/sucesso-na-medida-certa-metricas-de-vaidade/</guid>
+      <description>[][1]Sucesso na medida certa &amp;#8211; Métricas de vaidade Ví recentemente um time de desenvolvimento apresentando aos gerentes, a defesa da qualidade como agente de crescimento. Eles estavam apresentando em um gráfico que demonstrava que quando eles começaram a focar em qualidade, obtiveram um crescimento no número de cadastros. Já o setor de marketing um dia depois após esta apresentação, reclamou os créditos, e apresentou as propagandas como fator no aumento de 170%… Qual deles foi realmente o gatilho para o sucesso?</description>
+    </item>
+    
+    <item>
+      <title>1ª Semana de LightningTalks e FishBowls no TecnoPUC</title>
+      <link>http://replace-this-with-your-hugo-site.com/2012/08/24/1a-semana-de-lightningtalks-e-fishbowls-no-tecnopuc/</link>
+      <pubDate>Fri, 24 Aug 2012 12:06:34 +0000</pubDate>
+      
+      <guid>http://replace-this-with-your-hugo-site.com/2012/08/24/1a-semana-de-lightningtalks-e-fishbowls-no-tecnopuc/</guid>
+      <description>Aconteceu há algumas horas o 4º dia da 1ª Semana de LightningTalks e FishBowls no TecnoPUC onde apresentei a Lightning Talk Test Driven Development &amp;#8211; Em busca de feedback útil e concreto, que abordava o conceito de feedback validado na construção de software.
+Muito se tem falado por equipes e comunidades por onde transito sobre testes e QA, mas aparentemente muitas delas ainda estão correndo e lutando as mesmas batalhas todos os dias.</description>
+    </item>
+    
+    <item>
+      <title>Slides: Gerando valor – Desafios no lançamentdo conteúdo pago</title>
+      <link>http://replace-this-with-your-hugo-site.com/2012/08/01/slides-gerando-valor-desafios-no-lancamentdo-conteudo-pago/</link>
+      <pubDate>Thu, 02 Aug 2012 01:38:48 +0000</pubDate>
+      
+      <guid>http://replace-this-with-your-hugo-site.com/2012/08/01/slides-gerando-valor-desafios-no-lancamentdo-conteudo-pago/</guid>
+      <description>Hoje tivemos no Grupo RBS mais uma edição do HotSpot, onde apresentei junto a Cintia Lima o case sobre os desafios do lançamento do conteúdo pago da ferramenta de Jornais do Grupo RBS; um projeto de grande importância, que assim como outros possui um escopo variante e exploratoriamente priorizado/validado, construido com uma equipe recém-formada.
+Na apresentação levantamos pontos aos quais atribuimos boa parte do sucesso alcançado, como forma de compartilhar padrões replicáveis em novos projetos com cenários semelhantes.</description>
+    </item>
+    
+    <item>
+      <title>Mexa-se e porque não!!</title>
+      <link>http://replace-this-with-your-hugo-site.com/2011/12/11/mexa-se-e-porque-nao/</link>
+      <pubDate>Sun, 11 Dec 2011 17:52:30 +0000</pubDate>
+      
+      <guid>http://replace-this-with-your-hugo-site.com/2011/12/11/mexa-se-e-porque-nao/</guid>
+      <description>A recente participação na Desconf 2011, assim como conversas e acontecimentos não tão recentes, me fizeram refletir sobre o nosso comportamento como agente transformador de nosso ambiente de trabalho. Muitas e muitas vez ouvimos ou começamos debates com a frase &amp;#8220;isso nunca funcionaria onde trabalho&amp;#8221;, acontece&amp;#8230; mas você nunca terá certeza até tentar. Um ano atrás twittei feliz que estava saindo de Natal para encarar novas tarefas, conhecer novas pessoas, imergir em novos domínios e encarar de peito aberto as mudanças.</description>
+    </item>
+    
+    <item>
+      <title>Não adivinhe o futuro, acompanhe-o! MVP e Livro de Possibilidades!</title>
+      <link>http://replace-this-with-your-hugo-site.com/2011/11/27/nao-adivinhe-o-futuro-acompanhe-o-mvp-e-livro-de-possibilidades/</link>
+      <pubDate>Sun, 27 Nov 2011 17:08:43 +0000</pubDate>
+      
+      <guid>http://replace-this-with-your-hugo-site.com/2011/11/27/nao-adivinhe-o-futuro-acompanhe-o-mvp-e-livro-de-possibilidades/</guid>
+      <description>[][1]KYEO Costumo pensar que todo projeto, seja aqui ou na China, tem algo semelhante em seu início, algo que permite a fundamentação, o crescimento e a melhoria continua&amp;hellip; Seguindo os encalorados discursos sobre Lean Startups, dentre muitos outros que já ouvi de pequenos, médios e grandes empreendedores, é certo concluir que o sucesso é um longo caminho de aprendizados, no qual nossa única certeza é que as ideias irão surgir e quando implementadas podem ser bem sucedidas ou não.</description>
+    </item>
+    
+  </channel>
+</rss>

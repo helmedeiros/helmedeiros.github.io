@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Eventos on Helio Medeiros</title>
+    <link>http://replace-this-with-your-hugo-site.com/tags/eventos/</link>
+    <description>Recent content in Eventos on Helio Medeiros</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 30 Nov 2010 02:35:31 +0000</lastBuildDate>
+    
+	<atom:link href="http://replace-this-with-your-hugo-site.com/tags/eventos/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>AGILE DAY 2010 – Luiz Faias Jr.</title>
+      <link>http://replace-this-with-your-hugo-site.com/2010/11/30/agile-day-2010-luiz-faias-jr/</link>
+      <pubDate>Tue, 30 Nov 2010 02:35:31 +0000</pubDate>
+      
+      <guid>http://replace-this-with-your-hugo-site.com/2010/11/30/agile-day-2010-luiz-faias-jr/</guid>
+      <description>[][1]Luiz Faias Junior - Aprendizado Na tarde do dia 29&amp;frasl;11 tivemos a frente do palco do Agile Day 2010 Porto Alegre o Luiz Faias Jr., diretor de tecnologia da Bluesoft, compartilhando em sua palestra os conceitos e idéias que vem refletindo e aplicando sobre a criação de um ambiente aprendizagem!
+A palestra foi iniciada às 14:30h com várias perguntas rápidas, no qual em pouco tempo o mesmo admitiu se tratar apenas de uma brincadeira para para o pessoal levantar o braço e acordar!</description>
+    </item>
+    
+    <item>
+      <title>AGILE DAY 2010 – Klaus Wuestefeld</title>
+      <link>http://replace-this-with-your-hugo-site.com/2010/11/24/agile-day-2010-klaus-wuestefeld/</link>
+      <pubDate>Thu, 25 Nov 2010 01:41:25 +0000</pubDate>
+      
+      <guid>http://replace-this-with-your-hugo-site.com/2010/11/24/agile-day-2010-klaus-wuestefeld/</guid>
+      <description>[][1]Agile day 2010 O Agile Day 2010 POA, começou oficialmente as 09:00h, com o Daniel Wildt que apresentou a idéia do evento e seu formato com aquele entusiasmo agilista que sempre vemos nele! Para este ano foram 114 inscritos e 1 palestrante faltante, o André Nascimento não foi. Logo em seguida o Klaus foi apresentado e começou um dos keynotes planejados para o dia.
+A palestra iniciou-se às 09:20h com o Klaus questionando quais dos congressistas efetivamente trabalhavam com desenvolvimento de software, e destes quais já haviam colocado software em produção!</description>
+    </item>
+    
+    <item>
+      <title>Será que ajudei alguém a derrubar as paredes erradas?</title>
+      <link>http://replace-this-with-your-hugo-site.com/2009/11/17/sera-que-ajudei-alguem-a-derrubar-as-paredes-erradas/</link>
+      <pubDate>Tue, 17 Nov 2009 10:06:49 +0000</pubDate>
+      
+      <guid>http://replace-this-with-your-hugo-site.com/2009/11/17/sera-que-ajudei-alguem-a-derrubar-as-paredes-erradas/</guid>
+      <description>Aproximadamente um mês atrás realizei juntamente ao meu ex-colega de trabalho e amigo Germano Carvalho, um minicurso sobre metodologias ágeis e scrum no décimo primeiro congresso científico da UnP. A principio ficamos naquela sobre a quantidade de participantes e do interesse dos mesmos sobre o assunto. Eu como sempre imaginei a sala meio cheia, mas no final quem acertou foi Germano. Acho que os participantes já haviam lido muitos artigos e acabaram por prolongar seus feriados.</description>
+    </item>
+    
+    <item>
+      <title>Mike Keith – Java EE 6 – Uma grande evolução</title>
+      <link>http://replace-this-with-your-hugo-site.com/2009/11/11/mike-keith-java-ee-6-uma-grande-evolucao/</link>
+      <pubDate>Wed, 11 Nov 2009 14:22:51 +0000</pubDate>
+      
+      <guid>http://replace-this-with-your-hugo-site.com/2009/11/11/mike-keith-java-ee-6-uma-grande-evolucao/</guid>
+      <description>A palestra de Mike Keith iniciou às 11:00h, após o coffee break, com algumas brincadeiras e perguntas sobre o tempo em que era despendido entre o lançamento das novas versões Java, sem a platéia achava muito ou pouco e se não os interessava, o slide deste momento mostrava a frase &amp;#8220;Ou não se importa pois acha que a Microsoft irá matar o Java&amp;#8221;. Sei que poderiam haver problemas dizer algo assim a algum tempo&amp;#8230; mas pelo que vim escutando neste tempo aqui no Rio, pelo próprio Phillip, o .</description>
+    </item>
+    
+    <item>
+      <title>Caelum Day in Rio – Muito Sol e excelentes palestrantes</title>
+      <link>http://replace-this-with-your-hugo-site.com/2009/11/07/caelum-day-in-rio-muito-sol-e-excelentes-palestrantes/</link>
+      <pubDate>Sat, 07 Nov 2009 23:27:21 +0000</pubDate>
+      
+      <guid>http://replace-this-with-your-hugo-site.com/2009/11/07/caelum-day-in-rio-muito-sol-e-excelentes-palestrantes/</guid>
+      <description>Caelum day in Rio  Mesmo com todo o sol que convidava os cariocas e visitantes a refrescarem-se nas frias águas das praias cariocas, houveram pouquíssimas cadeiras vazias no primeiro evento, da Caelum unidade Rio, intitulado Caelum Day in Rio.  Ao todo 120 e participantes, entre desenvolvedores atraídos pelas palestras e light talks   do Fábio Kung sobre Cloud;   do Guilherme Silveira e Filipe Sabella sobre as novidades do VRaptor 3;   do Sergio Junior e Luiz Costa sobre Restful.</description>
+    </item>
+    
+  </channel>
+</rss>

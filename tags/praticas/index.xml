@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Praticas on Helio Medeiros</title>
+    <link>http://replace-this-with-your-hugo-site.com/tags/praticas/</link>
+    <description>Recent content in Praticas on Helio Medeiros</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 11 Apr 2010 12:45:09 +0000</lastBuildDate>
+    
+	<atom:link href="http://replace-this-with-your-hugo-site.com/tags/praticas/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Materializando os Valores XP – Aula 13</title>
+      <link>http://replace-this-with-your-hugo-site.com/2010/04/11/materializando-os-valores-xp-aula-13/</link>
+      <pubDate>Sun, 11 Apr 2010 12:45:09 +0000</pubDate>
+      
+      <guid>http://replace-this-with-your-hugo-site.com/2010/04/11/materializando-os-valores-xp-aula-13/</guid>
+      <description>Segunda aula sobre a metodologia ágil XP lecionada junto a Universidade Potiguar. Nesta aula foram apresentados as formas encontradas pelo XP para transmitir seu valores, materializando-os por meio de ações, decisões e práticas. São apresentados os princípios básicos e menos fundamentais, assim como as práticas do XP. Por fim são diagramadas as relações expostas por Kent Beck em Extreme Programming Explained entre as práticas, mostrando a integração proposta para práticas consagradas mas que haviam falhado em um outros ambientes, que agora mostram sua força coletiva nesta metodologia de ações extremas.</description>
+    </item>
+    
+  </channel>
+</rss>

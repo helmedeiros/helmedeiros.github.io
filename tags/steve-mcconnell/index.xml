@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Steve Mcconnell on Helio Medeiros</title>
+    <link>http://replace-this-with-your-hugo-site.com/tags/steve-mcconnell/</link>
+    <description>Recent content in Steve Mcconnell on Helio Medeiros</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 28 Mar 2010 17:47:30 +0000</lastBuildDate>
+    
+	<atom:link href="http://replace-this-with-your-hugo-site.com/tags/steve-mcconnell/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Sem mascaras em PROJETOS REAIS !!</title>
+      <link>http://replace-this-with-your-hugo-site.com/2010/03/28/sem-mascaras-em-projetos-reais/</link>
+      <pubDate>Sun, 28 Mar 2010 17:47:30 +0000</pubDate>
+      
+      <guid>http://replace-this-with-your-hugo-site.com/2010/03/28/sem-mascaras-em-projetos-reais/</guid>
+      <description>Esses dias recebi uma mensagem intrigante enviada por um aluno de Engenharia de Software de uma outra universidade:    “Foi comentado em minha aula de engenharia de software sobre um elemento, o qual eu não entendi muito, algo que é citado em alguns livros da engenharia, chama-se &amp;#8220;o homem mascarado&amp;#8221; ou &amp;#8221; homem da mascara&amp;#8221; e gostaria de saber que papel ele representa na engenharia de software e aonde posso encontrar mais sobre isso”.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Uml on Helio Medeiros</title>
+    <link>http://replace-this-with-your-hugo-site.com/categories/uml/</link>
+    <description>Recent content in Uml on Helio Medeiros</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 05 Aug 2009 12:03:24 +0000</lastBuildDate>
+    
+	<atom:link href="http://replace-this-with-your-hugo-site.com/categories/uml/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>yUML- Por que escrever um blog ?</title>
+      <link>http://replace-this-with-your-hugo-site.com/2009/08/05/yuml-por-que-escrever-um-blog/</link>
+      <pubDate>Wed, 05 Aug 2009 12:03:24 +0000</pubDate>
+      
+      <guid>http://replace-this-with-your-hugo-site.com/2009/08/05/yuml-por-que-escrever-um-blog/</guid>
+      <description>Venho tentando a algum tempo criar a cultura de assim como ler ótimos posts, escrevê-los tambem. Lí em vários destes a importância da disseminação do conhecimento e ê sobre isso que falo neste post de retomada.
+Foi lançado mais um serviço web que reforça o compartilhamento de conhecimentos web, o que era antes algo dispendioso para os blogueiros do &amp;#8220;mundo.dev&amp;#8221;, que tinham sua pequena banda utilizada pelas visualização de diagramas e mais diagramas, que deveriam ser pequenos para não ocupar muito espaço, mas não tanto para que não se tornasse impossível a visualização e entendimento.</description>
+    </item>
+    
+    <item>
+      <title>Minicenário: CONTROLE DE OBRAS</title>
+      <link>http://replace-this-with-your-hugo-site.com/2008/07/12/minicenario-controle-de-obras/</link>
+      <pubDate>Sat, 12 Jul 2008 09:24:08 +0000</pubDate>
+      
+      <guid>http://replace-this-with-your-hugo-site.com/2008/07/12/minicenario-controle-de-obras/</guid>
+      <description>Neste terceiro minicenário temos que:
+Álvaro está fazendo uma ampliação de sua residência. Todo dia existe demanda de compra de materail. Sendo assim, ele desenvolveu uma pequena aplica˜çao que controla essa demanda de solicitações e as compras efetuadas, de forma a montar uma base de cotaçnao para as compras futuras.
+Aplicação possui um cadastro de produtos, contendo: nome,descrição, medida de venda do produto(Kg, ml ou m; indicando peso, volume ou comprimento) e valor da medida de venda(ex.</description>
+    </item>
+    
+    <item>
+      <title>Diagrama de Casos de Uso ESTACIONAMENTO</title>
+      <link>http://replace-this-with-your-hugo-site.com/2008/07/12/diagrama-de-casos-de-uso-estacionamento/</link>
+      <pubDate>Sat, 12 Jul 2008 02:48:10 +0000</pubDate>
+      
+      <guid>http://replace-this-with-your-hugo-site.com/2008/07/12/diagrama-de-casos-de-uso-estacionamento/</guid>
+      <description>O últmo cenário dentre os itens propostos seguem a seguinte regra de negócio.
+Bruno e seu pai compraram um terreno e inaugurarão um estacionamento.
+Para ajudar, a irmã de Bruno está desenvolvendo uma aplicação de controle de estacionamento.
+Quando o veículo entra no estacionamento, o atendente observa sua placa e a mesma é cadatrada juntamente com o modelo do veículo e sua cor.
+A hora de entrada é gerada automaticamente, correspondendo ao momneto do cadastramento da placa.</description>
+    </item>
+    
+    <item>
+      <title>Minicenário: CONTROLE DE BOLÃO</title>
+      <link>http://replace-this-with-your-hugo-site.com/2008/07/12/minicenario-controle-de-bolao/</link>
+      <pubDate>Sat, 12 Jul 2008 02:14:52 +0000</pubDate>
+      
+      <guid>http://replace-this-with-your-hugo-site.com/2008/07/12/minicenario-controle-de-bolao/</guid>
+      <description>Continuando a sessão, vamos ao segundo Minicenário.
+Jairo trabalha no Departamento de Informática de uma grande empresa. Ele e seus amigos estão sempre fazendo bolão de MegaSena, Quina e outros tipos de jogos. Jairo sempre controla numa planilha Excel os números apostados, além das pessoas que entraram no bolão, seus e-mails(para receberem os números apostados) e se pagaram suas cotas. Enretanto, isso tem lhe tomado um tempo considerável. Sendo assim, ele pensou em desenvolver uma aplicação que atenda àas seguintes funcionalidades:</description>
+    </item>
+    
+    <item>
+      <title>Minicenário: CLASSIFICADOS NA WEB</title>
+      <link>http://replace-this-with-your-hugo-site.com/2008/07/11/minicenario-classificados-na-web/</link>
+      <pubDate>Sat, 12 Jul 2008 01:57:56 +0000</pubDate>
+      
+      <guid>http://replace-this-with-your-hugo-site.com/2008/07/11/minicenario-classificados-na-web/</guid>
+      <description>Dando início a esta sessão do meu blog apresentarei 4 minicenários, criados durante o primeiro módulo da minha pós-graduação em Projetos de Sistemas Web, ministrada pelo professor Osmar Fernandes Jr.
+DESCRIÇÃO
+Dalila está oferecendo aos amigos da escola, do bairro e do clube, o serviço de classificados pela Web.
+Quem anuncia paga R$ 2,00 pelo anúncio simples de 20 palavras ou R$5,00 pelo anúncio destaque de página, que pode conter até 50 palavras e uma imagem.</description>
+    </item>
+    
+  </channel>
+</rss>

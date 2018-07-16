@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2012 on Helio Medeiros</title>
+    <link>http://replace-this-with-your-hugo-site.com/tags/2012/</link>
+    <description>Recent content in 2012 on Helio Medeiros</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 18 Dec 2012 02:42:59 +0000</lastBuildDate>
+    
+	<atom:link href="http://replace-this-with-your-hugo-site.com/tags/2012/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Sucesso na medida certa – Métricas de vaidade</title>
+      <link>http://replace-this-with-your-hugo-site.com/2012/12/18/sucesso-na-medida-certa-metricas-de-vaidade/</link>
+      <pubDate>Tue, 18 Dec 2012 02:42:59 +0000</pubDate>
+      
+      <guid>http://replace-this-with-your-hugo-site.com/2012/12/18/sucesso-na-medida-certa-metricas-de-vaidade/</guid>
+      <description>[][1]Sucesso na medida certa &amp;#8211; Métricas de vaidade Ví recentemente um time de desenvolvimento apresentando aos gerentes, a defesa da qualidade como agente de crescimento. Eles estavam apresentando em um gráfico que demonstrava que quando eles começaram a focar em qualidade, obtiveram um crescimento no número de cadastros. Já o setor de marketing um dia depois após esta apresentação, reclamou os créditos, e apresentou as propagandas como fator no aumento de 170%… Qual deles foi realmente o gatilho para o sucesso?</description>
+    </item>
+    
+    <item>
+      <title>Keynote: Growing into FLUENCY AND EXCELLENCE – James Shore</title>
+      <link>http://replace-this-with-your-hugo-site.com/2012/09/06/keynote-growing-into-fluency-and-excellence-james-shore/</link>
+      <pubDate>Thu, 06 Sep 2012 13:48:33 +0000</pubDate>
+      
+      <guid>http://replace-this-with-your-hugo-site.com/2012/09/06/keynote-growing-into-fluency-and-excellence-james-shore/</guid>
+      <description>O James Shore iniciou a sua apresentação as 09:10 falando sobre como se envolveu em um primeiro projeto utilizando FDD, com várias práticas que envolviam o cliente e protótipos e após várias entrega o projeto foi ENCERRADO, e uma coisa que ele percebeu pela primeira vez foi como mesmo inertes na realização de práticas ágeis, sem a devida evolução cultural, acabamos e continuamos nos preocupando com os pontos não tão importantes, deixando a preocupação de onde vem o dinheiro por exemplo de fora.</description>
+    </item>
+    
+    <item>
+      <title>The role of Agile analysis in Continuous Delivery – Jenny Wong e Danilo Sato</title>
+      <link>http://replace-this-with-your-hugo-site.com/2012/09/05/the-role-of-agile-analysis-in-continuous-delivery-jenny-wong-e-danilo-sato/</link>
+      <pubDate>Wed, 05 Sep 2012 17:45:08 +0000</pubDate>
+      
+      <guid>http://replace-this-with-your-hugo-site.com/2012/09/05/the-role-of-agile-analysis-in-continuous-delivery-jenny-wong-e-danilo-sato/</guid>
+      <description>O que é entrega continua(continuos Delivery &amp;#8211; CD)? Assim começou a apresentação! A seguir em palavras trocadas entre a Jenny e o Danilo, vimos o que se seguiria, princípios de analise e engenharia envolvidos, definições e por fim princípios e atividades que podem ser utilizadas e testadas para realmente avançarmos nesta prática avançando de forma consciente as nossas entregas continuamente durante os seus dias e sprints.
+Entrega contínua é uma estratégia de desenvolvimento de software que otimiza o seu processo de entrega para obter software de alta qualidade, de valor entregue o mais rápido possível, mas por mais incrível que pareça, como a maior parte das estratégias lidas por nós acabamos por nos aprofundar e priorizar práticas e passos de como ao invés dos porquês.</description>
+    </item>
+    
+    <item>
+      <title>Bem vindo ao Agile Brazil 2012</title>
+      <link>http://replace-this-with-your-hugo-site.com/2012/09/05/bem-vindo-ao-agile-brazil-2012/</link>
+      <pubDate>Wed, 05 Sep 2012 14:33:33 +0000</pubDate>
+      
+      <guid>http://replace-this-with-your-hugo-site.com/2012/09/05/bem-vindo-ao-agile-brazil-2012/</guid>
+      <description>Chegou o Agile Brazil 2012! Começamos as 09:40h com o Dairton Bassi fazendo as honras, o evento deste ano conta com a participação de 782 participantes, 302 empresas, 121 apresentações e 38 patrocinadores.
+Estarei nos próximos dias trazendo diariamente os relatos das apresentações que participar!
+As fotos vão se acumulando aqui &amp;gt;&amp;gt; http://www.flickr.com/photos/heliomedeiros/sets/72157631421021516/
+Bem Vindos ao Agile brazil 2012!! 
+&amp;nbsp;</description>
+    </item>
+    
+  </channel>
+</rss>

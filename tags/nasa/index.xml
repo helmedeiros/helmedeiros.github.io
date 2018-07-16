@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Nasa on Helio Medeiros</title>
+    <link>http://replace-this-with-your-hugo-site.com/tags/nasa/</link>
+    <description>Recent content in Nasa on Helio Medeiros</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 10 Apr 2014 13:54:41 +0000</lastBuildDate>
+    
+	<atom:link href="http://replace-this-with-your-hugo-site.com/tags/nasa/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Building a Data Science Program at NASA/JPL with Visual Analytics</title>
+      <link>http://replace-this-with-your-hugo-site.com/2014/04/10/building-a-data-science-program-at-nasajpl-with-visual-analytics/</link>
+      <pubDate>Thu, 10 Apr 2014 13:54:41 +0000</pubDate>
+      
+      <guid>http://replace-this-with-your-hugo-site.com/2014/04/10/building-a-data-science-program-at-nasajpl-with-visual-analytics/</guid>
+      <description>Explorar o universo gera um conjunto enorme de dados. E quando estamos falando sobre os dados que nos deparamos o tempo todo, estamos falando com um conjunto de satélites que estão processando e enviando dados dia e noite durante todo o dia.
+As tecnologias de troca de dados assim como as suas fontes são cada vez maiores e diversas, a troca de informações por lasers está quase acontecendo, e como podemos olhar estes dados de perto?</description>
+    </item>
+    
+  </channel>
+</rss>

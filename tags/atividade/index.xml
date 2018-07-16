@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Atividade on Helio Medeiros</title>
+    <link>http://replace-this-with-your-hugo-site.com/tags/atividade/</link>
+    <description>Recent content in Atividade on Helio Medeiros</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 12 Jul 2008 09:24:51 +0000</lastBuildDate>
+    
+	<atom:link href="http://replace-this-with-your-hugo-site.com/tags/atividade/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Mascarando a aproximação BDUF com template RUP ?</title>
+      <link>http://replace-this-with-your-hugo-site.com/2008/07/12/modelando-com-rup/</link>
+      <pubDate>Sat, 12 Jul 2008 09:24:51 +0000</pubDate>
+      
+      <guid>http://replace-this-with-your-hugo-site.com/2008/07/12/modelando-com-rup/</guid>
+      <description>Tivemos um debate nos últimos dias em nossa classe de Pós-Graduação sobre, BDUF, e se seria possível reduzir a bagagem de documentos não compiláveis, através da composição de novos templates junto ao RUP, endeusado por alguns profissionais da escola do escopo fechado. O Rational Unified Process(RUP) é um processo de engenharia de software, que oferece uma abordagem baseada em disciplinas para atribuir tarefas e responsabilidades dentro de uma organização de desenvolvimento; guiado pelos princípios ABCDE do BDD que garante um processo adaptável, com gerência de níveis de prioridade e colaboração entre membros do time.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Paulo Caroli on Helio Medeiros</title>
+    <link>http://replace-this-with-your-hugo-site.com/tags/paulo-caroli/</link>
+    <description>Recent content in Paulo Caroli on Helio Medeiros</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 12 Dec 2010 12:21:35 +0000</lastBuildDate>
+    
+	<atom:link href="http://replace-this-with-your-hugo-site.com/tags/paulo-caroli/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>AGILE DAY 2010 – Paulo Caroli</title>
+      <link>http://replace-this-with-your-hugo-site.com/2010/12/12/agile-day-2010-paulo-caroli/</link>
+      <pubDate>Sun, 12 Dec 2010 12:21:35 +0000</pubDate>
+      
+      <guid>http://replace-this-with-your-hugo-site.com/2010/12/12/agile-day-2010-paulo-caroli/</guid>
+      <description>No último dia 29 de novembro tivemos durante a tarde do Agile Day 2010 Porto Alegre uma excelente transferência de experiências conduzida pelo Paulo Caroli da ThoughtWorks, com sua palestra A LINHA DE MONTAGEM DE SW representada como cartões na parede.Paulo Caroli Agile Day Porto Alegre 2010
+A apresentação foi iniciada evidenciando Taylor e suas contribuições ao aumento da eficiência industrial, com uma ressalva a uma de suas teorias de gerência, a scientific management, que em linhas gerais integrava a lógica produtiva a especialização de cada operário, aproveitando estas vantagens empregando-as em um determinado ponto no caminho para a construção desejada.</description>
+    </item>
+    
+  </channel>
+</rss>

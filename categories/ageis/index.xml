@@ -1,0 +1,352 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ageis on Helio Medeiros</title>
+    <link>http://replace-this-with-your-hugo-site.com/categories/ageis/</link>
+    <description>Recent content in Ageis on Helio Medeiros</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 06 Nov 2014 12:57:31 +0000</lastBuildDate>
+    
+	<atom:link href="http://replace-this-with-your-hugo-site.com/categories/ageis/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Technology is not enough! Barry O’Reilly</title>
+      <link>http://replace-this-with-your-hugo-site.com/2014/11/06/technology-is-not-enough-barry-oreilly/</link>
+      <pubDate>Thu, 06 Nov 2014 12:57:31 +0000</pubDate>
+      
+      <guid>http://replace-this-with-your-hugo-site.com/2014/11/06/technology-is-not-enough-barry-oreilly/</guid>
+      <description>Durante os anos empresas aparecem e desaparecem com uma certa frequência, e não apenas pequenas tem desaparecido mas com muita frequência as grandes tem perecido. Para onde foram as ideias? O que aconteceu com o mercado? Estamos fazendo o certo? Estamos tentando controlar o incontrolável o imprevisível?
+Boa parte destas empresas, que se extinguiram, são fundamentadas em profundas e verticalizadas organizações. Como conseguiremos trabalhar no imprevisível enquanto as decisões apenas dessem estas grandes cachoeiras!</description>
+    </item>
+    
+    <item>
+      <title>Neal Ford – Abstraction Distractions</title>
+      <link>http://replace-this-with-your-hugo-site.com/2013/08/21/neal-ford-abstraction-distractions/</link>
+      <pubDate>Wed, 21 Aug 2013 20:14:02 +0000</pubDate>
+      
+      <guid>http://replace-this-with-your-hugo-site.com/2013/08/21/neal-ford-abstraction-distractions/</guid>
+      <description>Falar sobre abstrações nos dias atuais, é refletir sobre a própria natureza da ciência da computação e da engenharia de software. Soluções escaláveis, problemas rotineiros, todos passam em algum momento pela escolha de como serão visto pelos usuários finais, e é comumente aí em que soterramos sob camadas e mais camadas de abstração as nossas soluções.
+Pensamos na facilidade de entender, de manter, e até de expandir; mas como lidamos com os problemas que existem nas partes que encobrimos com a abstração?</description>
+    </item>
+    
+    <item>
+      <title>O limbo da demanda latente – Alê Gomes</title>
+      <link>http://replace-this-with-your-hugo-site.com/2013/06/28/o-limbo-da-demanda-latente-ale-gomes/</link>
+      <pubDate>Fri, 28 Jun 2013 13:20:24 +0000</pubDate>
+      
+      <guid>http://replace-this-with-your-hugo-site.com/2013/06/28/o-limbo-da-demanda-latente-ale-gomes/</guid>
+      <description>O Alê começou se apresentando e se colocando como indigno de ser keynoter deste grande evento, e começando a definir todos os outros que estão envolvidos no crescimento da comunidade. Para ele um não só é eleito um comitê para representar e lutar pelos interesses de todos uma vez que várias vozes ao mesmo tempo estão clamando.
+O Agile Brazil tem acontecido bem, e assim acontece quando o interesse deste grupo representa os representados!</description>
+    </item>
+    
+    <item>
+      <title>Poised for Changes – The Virtuous cycle of business Agility – Rebecca Parsons</title>
+      <link>http://replace-this-with-your-hugo-site.com/2013/06/27/poised-for-changes-the-virtuous-cycle-of-business-agility-rebecca-parsons/</link>
+      <pubDate>Thu, 27 Jun 2013 13:12:28 +0000</pubDate>
+      
+      <guid>http://replace-this-with-your-hugo-site.com/2013/06/27/poised-for-changes-the-virtuous-cycle-of-business-agility-rebecca-parsons/</guid>
+      <description>O que é agilidade em negócios? Esta foi a pergunta inicial da Rebecca, provavelmente o principal ponto é fazer entregas mais rápido com mais valor, onde o negócio alcance mais eficiência, com medições constantes de hipóteses, e assim que conseguimos confirma-las, então podemos incorpora-las.
+E isso é muito interessante, porque apesar de toda esta ideia envolvida no ciclo de lançamento de um produto, ainda não voltamos a fonte após a entrega para descobrirmos o que fazer em seguida, ou se foi realmente eficiente esta entrega.</description>
+    </item>
+    
+    <item>
+      <title>Métricas de código, pra que te quero? -Mauricio Aniche</title>
+      <link>http://replace-this-with-your-hugo-site.com/2013/06/26/metricas-de-codigo-pra-que-te-quero-mauricio-aniche/</link>
+      <pubDate>Wed, 26 Jun 2013 18:56:30 +0000</pubDate>
+      
+      <guid>http://replace-this-with-your-hugo-site.com/2013/06/26/metricas-de-codigo-pra-que-te-quero-mauricio-aniche/</guid>
+      <description>Tomar decisões é muito complicado e em software, na vida vivemos de achometro e em código devemos parar de fazer isso.
+Qual parte do código deve ser iniciada a cobertura ou os testes, a classe mais fácil, a mais conhecida, a que possui mais dependentes. O Aniche defende que assim como decisões de negócio são apoiadas por mineração de dados devemos fazer o mesmo com os nossos dados sobre código.</description>
+    </item>
+    
+    <item>
+      <title>Story Mapping: o desafio de selecionar a primeira fatia do produto</title>
+      <link>http://replace-this-with-your-hugo-site.com/2013/06/26/story-mapping-o-desafio-de-selecionar-a-primeira-fatia-do-produto/</link>
+      <pubDate>Wed, 26 Jun 2013 15:58:21 +0000</pubDate>
+      
+      <guid>http://replace-this-with-your-hugo-site.com/2013/06/26/story-mapping-o-desafio-de-selecionar-a-primeira-fatia-do-produto/</guid>
+      <description>O Imbertti começou a falar sobre o porque do agile, para ele uma das coisas é descobrir o produto e atender o time to market; outro ponto trabalhar junto e debater os assuntos.
+Story Mapping é desenvolver o produto em camadas, onde a primeira camada a mais baixa de um bolo pode ainda ser realizada uma festa, quanto mais voce aprende e evolui o bolo ganha camadas e pode ficar melhor.</description>
+    </item>
+    
+    <item>
+      <title>Agile: Unlocking our Human Potential – Patrick Kua</title>
+      <link>http://replace-this-with-your-hugo-site.com/2013/06/26/agile-unlocking-our-human-potential-patrick-kua/</link>
+      <pubDate>Wed, 26 Jun 2013 13:45:53 +0000</pubDate>
+      
+      <guid>http://replace-this-with-your-hugo-site.com/2013/06/26/agile-unlocking-our-human-potential-patrick-kua/</guid>
+      <description>Existe mais para o desenvolvimento de produtos do que apenas o desenvolvê-os. O patrcik já trabalha há algum tempo com software, e muitos problemas depois ele vê métodos ágeis como a forma de fazê-lo potencializando o pensamento.
+Antigamente existia a impressão de que a motivação estava atrelado a obrigação, e que pareceu não funcionar com o tempo, mas com o passar dos dias parecia que a melhor ideia era colocar mais dinheiro no meio, bônus entre outros, mas assim como o agile brazil vimos que várias pessoas se engajam em organização de eventos e outras coisas pensando em, Autonomia, excelência e propósito(ideias do daniel pink) e a partir desta mudança de visão passaram a se auto-motivar, a se sentir mais feliz contribuindo para algo melhor, sendo melhor e fazendo isso quando desejou fazer.</description>
+    </item>
+    
+    <item>
+      <title>AgileBR bem vindo!!</title>
+      <link>http://replace-this-with-your-hugo-site.com/2013/06/26/agilebr-bem-vindo/</link>
+      <pubDate>Wed, 26 Jun 2013 13:26:47 +0000</pubDate>
+      
+      <guid>http://replace-this-with-your-hugo-site.com/2013/06/26/agilebr-bem-vindo/</guid>
+      <description>Hoje, 26 de Junho dia de um dos maiores protestos desta nossa nova mudança brasileira, estamos reunidos para o início do maior evento de métodos ágeis do hemisfério sul.
+O grande Manoel Pimentel, iniciou os trabalhos às 09:30h com a apresentação de quem seriam os nosso convidados de honra e sobre oque eles iriam falar. Depois tivemos a apresentação dos novos brinquedos do evento como o continuos feedback, como canal direto com a equipe organizadora do evento e a sugestão de bombarmos com a #agilebr.</description>
+    </item>
+    
+    <item>
+      <title>Sucesso na medida certa – Métricas de vaidade</title>
+      <link>http://replace-this-with-your-hugo-site.com/2012/12/18/sucesso-na-medida-certa-metricas-de-vaidade/</link>
+      <pubDate>Tue, 18 Dec 2012 02:42:59 +0000</pubDate>
+      
+      <guid>http://replace-this-with-your-hugo-site.com/2012/12/18/sucesso-na-medida-certa-metricas-de-vaidade/</guid>
+      <description>[][1]Sucesso na medida certa &amp;#8211; Métricas de vaidade Ví recentemente um time de desenvolvimento apresentando aos gerentes, a defesa da qualidade como agente de crescimento. Eles estavam apresentando em um gráfico que demonstrava que quando eles começaram a focar em qualidade, obtiveram um crescimento no número de cadastros. Já o setor de marketing um dia depois após esta apresentação, reclamou os créditos, e apresentou as propagandas como fator no aumento de 170%… Qual deles foi realmente o gatilho para o sucesso?</description>
+    </item>
+    
+    <item>
+      <title>The Green Lake Strategy – Um metamodelo para design de mercados – Manoel Pimentel Medeiros</title>
+      <link>http://replace-this-with-your-hugo-site.com/2012/09/07/the-green-lake-strategy-um-metamodelo-para-design-de-mercados-manoel-pimentel-medeiros/</link>
+      <pubDate>Fri, 07 Sep 2012 12:12:40 +0000</pubDate>
+      
+      <guid>http://replace-this-with-your-hugo-site.com/2012/09/07/the-green-lake-strategy-um-metamodelo-para-design-de-mercados-manoel-pimentel-medeiros/</guid>
+      <description>A estratégia do oceano azul, é um livro que ensina estratégias de como criar e trabalhar mercados, e vai de encontra ao oceano vermelho cheio de concorrência, e a entrada neste mercado normalmente é baseada no aproveitamento e diferenciação por baixo custo sobre o mesmo. Mas &amp;#8220;como podemos escapar do oceano vermlho&amp;#8221; achar mercados inexplorados, onde você possa estar sozinho, ou que a concorrência seja irrelevante, onde a diferenciação pela inovação possas ser feita pelo valor gerado, oque é diretamente pontuado pelo mercado.</description>
+    </item>
+    
+    <item>
+      <title>Agile Portfolio Planning: Managing Your Project Portfolio – Johanna Rothman</title>
+      <link>http://replace-this-with-your-hugo-site.com/2012/09/06/agile-portfolio-planning-managing-your-project-portfolio-johanna-rothman/</link>
+      <pubDate>Thu, 06 Sep 2012 18:07:51 +0000</pubDate>
+      
+      <guid>http://replace-this-with-your-hugo-site.com/2012/09/06/agile-portfolio-planning-managing-your-project-portfolio-johanna-rothman/</guid>
+      <description>&amp;nbsp;
+A Johanna iniciou agradecendo pelo convite e dizendo quanto esta feliz de estar no Brazil. E com uma pergunta como vocês adoram trabalhar em projetos multitarefas. Muitos podem gostar mas como você sabe oque fazer? Qual delas fazer primeiro? E quando existem interrupções? Não podemos ficar o tempo todo procurando nossos gerentes para que eles nos digam oque fazer. Nos precisamos e queremos usar nossos cerebros e participar e decidir por nós mesmos oque fazer.</description>
+    </item>
+    
+    <item>
+      <title>Keynote: Growing into FLUENCY AND EXCELLENCE – James Shore</title>
+      <link>http://replace-this-with-your-hugo-site.com/2012/09/06/keynote-growing-into-fluency-and-excellence-james-shore/</link>
+      <pubDate>Thu, 06 Sep 2012 13:48:33 +0000</pubDate>
+      
+      <guid>http://replace-this-with-your-hugo-site.com/2012/09/06/keynote-growing-into-fluency-and-excellence-james-shore/</guid>
+      <description>O James Shore iniciou a sua apresentação as 09:10 falando sobre como se envolveu em um primeiro projeto utilizando FDD, com várias práticas que envolviam o cliente e protótipos e após várias entrega o projeto foi ENCERRADO, e uma coisa que ele percebeu pela primeira vez foi como mesmo inertes na realização de práticas ágeis, sem a devida evolução cultural, acabamos e continuamos nos preocupando com os pontos não tão importantes, deixando a preocupação de onde vem o dinheiro por exemplo de fora.</description>
+    </item>
+    
+    <item>
+      <title>Novatos no seu time ágil? Corra da inércia! – Cecilia Fernandes</title>
+      <link>http://replace-this-with-your-hugo-site.com/2012/09/05/novatos-no-seu-time-agil-corra-da-inercia-cecilia-fernandes/</link>
+      <pubDate>Wed, 05 Sep 2012 19:51:01 +0000</pubDate>
+      
+      <guid>http://replace-this-with-your-hugo-site.com/2012/09/05/novatos-no-seu-time-agil-corra-da-inercia-cecilia-fernandes/</guid>
+      <description>[][1]Evitando mudanças Começou falando sobre inércia, explicando que inércia não quer dizer parado, mas pode ser … Então como fugir deste comportamento com os novatos?
+A Caelum em 2009 era de certo pequeno mas passado 3 anos que ainda permanecem na empresa mas muita… muita… mudanças aconteceram, e em uma equipe que acreditava em agilidade e nos benefícios dela pode se preocupar ainda somos ágeis?
+Mas primeiramente precisamos definir o que é agilidade, porque eles ainda continuam com testes automatizados, propriedade coletiva do código, coragem e outras práticas, mas a incerteza da agilidade preocupa.</description>
+    </item>
+    
+    <item>
+      <title>The role of Agile analysis in Continuous Delivery – Jenny Wong e Danilo Sato</title>
+      <link>http://replace-this-with-your-hugo-site.com/2012/09/05/the-role-of-agile-analysis-in-continuous-delivery-jenny-wong-e-danilo-sato/</link>
+      <pubDate>Wed, 05 Sep 2012 17:45:08 +0000</pubDate>
+      
+      <guid>http://replace-this-with-your-hugo-site.com/2012/09/05/the-role-of-agile-analysis-in-continuous-delivery-jenny-wong-e-danilo-sato/</guid>
+      <description>O que é entrega continua(continuos Delivery &amp;#8211; CD)? Assim começou a apresentação! A seguir em palavras trocadas entre a Jenny e o Danilo, vimos o que se seguiria, princípios de analise e engenharia envolvidos, definições e por fim princípios e atividades que podem ser utilizadas e testadas para realmente avançarmos nesta prática avançando de forma consciente as nossas entregas continuamente durante os seus dias e sprints.
+Entrega contínua é uma estratégia de desenvolvimento de software que otimiza o seu processo de entrega para obter software de alta qualidade, de valor entregue o mais rápido possível, mas por mais incrível que pareça, como a maior parte das estratégias lidas por nós acabamos por nos aprofundar e priorizar práticas e passos de como ao invés dos porquês.</description>
+    </item>
+    
+    <item>
+      <title>Bem vindo ao Agile Brazil 2012</title>
+      <link>http://replace-this-with-your-hugo-site.com/2012/09/05/bem-vindo-ao-agile-brazil-2012/</link>
+      <pubDate>Wed, 05 Sep 2012 14:33:33 +0000</pubDate>
+      
+      <guid>http://replace-this-with-your-hugo-site.com/2012/09/05/bem-vindo-ao-agile-brazil-2012/</guid>
+      <description>Chegou o Agile Brazil 2012! Começamos as 09:40h com o Dairton Bassi fazendo as honras, o evento deste ano conta com a participação de 782 participantes, 302 empresas, 121 apresentações e 38 patrocinadores.
+Estarei nos próximos dias trazendo diariamente os relatos das apresentações que participar!
+As fotos vão se acumulando aqui &amp;gt;&amp;gt; http://www.flickr.com/photos/heliomedeiros/sets/72157631421021516/
+Bem Vindos ao Agile brazil 2012!! 
+&amp;nbsp;</description>
+    </item>
+    
+    <item>
+      <title>1ª Semana de LightningTalks e FishBowls no TecnoPUC</title>
+      <link>http://replace-this-with-your-hugo-site.com/2012/08/24/1a-semana-de-lightningtalks-e-fishbowls-no-tecnopuc/</link>
+      <pubDate>Fri, 24 Aug 2012 12:06:34 +0000</pubDate>
+      
+      <guid>http://replace-this-with-your-hugo-site.com/2012/08/24/1a-semana-de-lightningtalks-e-fishbowls-no-tecnopuc/</guid>
+      <description>Aconteceu há algumas horas o 4º dia da 1ª Semana de LightningTalks e FishBowls no TecnoPUC onde apresentei a Lightning Talk Test Driven Development &amp;#8211; Em busca de feedback útil e concreto, que abordava o conceito de feedback validado na construção de software.
+Muito se tem falado por equipes e comunidades por onde transito sobre testes e QA, mas aparentemente muitas delas ainda estão correndo e lutando as mesmas batalhas todos os dias.</description>
+    </item>
+    
+    <item>
+      <title>“Se virol” – Reunião de Abril do GUMA-RS</title>
+      <link>http://replace-this-with-your-hugo-site.com/2012/04/11/reuniao-de-abril-do-guma-rs/</link>
+      <pubDate>Thu, 12 Apr 2012 01:37:54 +0000</pubDate>
+      
+      <guid>http://replace-this-with-your-hugo-site.com/2012/04/11/reuniao-de-abril-do-guma-rs/</guid>
+      <description>Aconteceu hoje, 11 de Abril de 2012, na Faculdade de Informática da PUC-RS sala 516, mais uma reunião do Grupo de Usuários de Metodologias Ágeis do Rio Grande do Sul. Realmente tem valido a pena estar em terras gauchas!! Grandes talks, muito networking e várias idéias&amp;#8230;.
+O evento teve início as 19:28h, com o Marco Enes fazendo sua lightning talk no &amp;#8220;Se virol&amp;#8221;&amp;#8230; quer dizer o título que era &amp;#8220;se virol&amp;#8221;!</description>
+    </item>
+    
+    <item>
+      <title>Agile Brazil 2011 – EU VOU!!</title>
+      <link>http://replace-this-with-your-hugo-site.com/2011/06/19/agile-brazil-2011-claro-que-vou/</link>
+      <pubDate>Sun, 19 Jun 2011 15:49:35 +0000</pubDate>
+      
+      <guid>http://replace-this-with-your-hugo-site.com/2011/06/19/agile-brazil-2011-claro-que-vou/</guid>
+      <description>Este ano o Agile Brazil vai acontecer dos dias 27 de Junho a 1º de Julho em Fortaleza/CE, com mais de 50 palestras cobrindo boa parte dos &amp;#8220;must haves&amp;#8221; do cenário mundial agile.
+Para que não ficasse assim tão simples minha participação nos eventos, quando estava em Natal/RN invejava a distância, após 6 meses de minha mudança para Porto Alegre para trabalhar junto a equipe de services da Dell, fui aceito para apresentar no Agile Brazil 2011 dois lightining talks bem pertinho de onde saí.</description>
+    </item>
+    
+    <item>
+      <title>Stefanini Open Talks – PLUGUE-SE com SONGDORO</title>
+      <link>http://replace-this-with-your-hugo-site.com/2011/04/18/stefanini-open-talks-afinando-sua-equipe-com-songdoro/</link>
+      <pubDate>Tue, 19 Apr 2011 00:38:19 +0000</pubDate>
+      
+      <guid>http://replace-this-with-your-hugo-site.com/2011/04/18/stefanini-open-talks-afinando-sua-equipe-com-songdoro/</guid>
+      <description>Continuando a tradição dos brown bags seminars na Stefanini, realizei esta semana mais uma apresentação num conjunto que tendo a afirmar como o tripé produtivo moderno; depois da última apresentação no Stefanini Open Talks, na qual falei apresentei dicas e relatei um pouco da minha experiência e resultados atingidos com a aplicação de POMODORO, chegou a vez de falar sobre um conceito que durante o último agile brazil ouvi o Daniel Wildt falando e mais recentemente assistindo o filme “Rede Social” ouvi mais algumas varias vezes falar-se sobre plugar-se como o segredo para aumentar a sua capacidade produtiva as alturas.</description>
+    </item>
+    
+    <item>
+      <title>AGILE DAY 2010 – Paulo Caroli</title>
+      <link>http://replace-this-with-your-hugo-site.com/2010/12/12/agile-day-2010-paulo-caroli/</link>
+      <pubDate>Sun, 12 Dec 2010 12:21:35 +0000</pubDate>
+      
+      <guid>http://replace-this-with-your-hugo-site.com/2010/12/12/agile-day-2010-paulo-caroli/</guid>
+      <description>No último dia 29 de novembro tivemos durante a tarde do Agile Day 2010 Porto Alegre uma excelente transferência de experiências conduzida pelo Paulo Caroli da ThoughtWorks, com sua palestra A LINHA DE MONTAGEM DE SW representada como cartões na parede.Paulo Caroli Agile Day Porto Alegre 2010
+A apresentação foi iniciada evidenciando Taylor e suas contribuições ao aumento da eficiência industrial, com uma ressalva a uma de suas teorias de gerência, a scientific management, que em linhas gerais integrava a lógica produtiva a especialização de cada operário, aproveitando estas vantagens empregando-as em um determinado ponto no caminho para a construção desejada.</description>
+    </item>
+    
+    <item>
+      <title>AGILE DAY 2010 – Luiz Faias Jr.</title>
+      <link>http://replace-this-with-your-hugo-site.com/2010/11/30/agile-day-2010-luiz-faias-jr/</link>
+      <pubDate>Tue, 30 Nov 2010 02:35:31 +0000</pubDate>
+      
+      <guid>http://replace-this-with-your-hugo-site.com/2010/11/30/agile-day-2010-luiz-faias-jr/</guid>
+      <description>[][1]Luiz Faias Junior - Aprendizado Na tarde do dia 29&amp;frasl;11 tivemos a frente do palco do Agile Day 2010 Porto Alegre o Luiz Faias Jr., diretor de tecnologia da Bluesoft, compartilhando em sua palestra os conceitos e idéias que vem refletindo e aplicando sobre a criação de um ambiente aprendizagem!
+A palestra foi iniciada às 14:30h com várias perguntas rápidas, no qual em pouco tempo o mesmo admitiu se tratar apenas de uma brincadeira para para o pessoal levantar o braço e acordar!</description>
+    </item>
+    
+    <item>
+      <title>AGILE DAY 2010 – Klaus Wuestefeld</title>
+      <link>http://replace-this-with-your-hugo-site.com/2010/11/24/agile-day-2010-klaus-wuestefeld/</link>
+      <pubDate>Thu, 25 Nov 2010 01:41:25 +0000</pubDate>
+      
+      <guid>http://replace-this-with-your-hugo-site.com/2010/11/24/agile-day-2010-klaus-wuestefeld/</guid>
+      <description>[][1]Agile day 2010 O Agile Day 2010 POA, começou oficialmente as 09:00h, com o Daniel Wildt que apresentou a idéia do evento e seu formato com aquele entusiasmo agilista que sempre vemos nele! Para este ano foram 114 inscritos e 1 palestrante faltante, o André Nascimento não foi. Logo em seguida o Klaus foi apresentado e começou um dos keynotes planejados para o dia.
+A palestra iniciou-se às 09:20h com o Klaus questionando quais dos congressistas efetivamente trabalhavam com desenvolvimento de software, e destes quais já haviam colocado software em produção!</description>
+    </item>
+    
+    <item>
+      <title>Agile Day 2010 – Porto Alegre</title>
+      <link>http://replace-this-with-your-hugo-site.com/2010/11/23/agile-day-2010-porto-alegre/</link>
+      <pubDate>Wed, 24 Nov 2010 00:09:00 +0000</pubDate>
+      
+      <guid>http://replace-this-with-your-hugo-site.com/2010/11/23/agile-day-2010-porto-alegre/</guid>
+      <description>Amanhã dia 24&amp;frasl;11 acontecerá na FACIN/PUCRS o último evento, para o ano de 2010, promovido pelo grupo de usuários de metodologias ágeis do Rio Grande do Sul, o AGILE DAY 2010.
+A programação do evento está bem interessante tendo 5 keynotes e vários lightining talks e fishbowl conversations. Teremos o Klaus Wuestefeld, que esteve no palco do AGILE BRAZIL 2010, falando sobre o dilema de focar e manter a qualidade de um software mediante as entregas rápidas e urgentes; do André Nascimento, da Stefanini, sobre a implantação de metodos ágeis na Stefanini; do Luiz Faias, da bluesoft, sobre a construção de uma cultura de aprendizagem (ESTOU ESPERANDO ESTA); do Paulo Caroli, da TWBr, sobre a linha de montagem de SW representada com cartões na parede e por fim o Daniel Weinmann, da Softa, falando sobre Crowdfunding e Agile &amp;#8211; Acabando com a discussão entre escopo aberto e escopo fechado.</description>
+    </item>
+    
+    <item>
+      <title>Café Ágil em Recife</title>
+      <link>http://replace-this-with-your-hugo-site.com/2010/05/22/cafe-agil-em-recife/</link>
+      <pubDate>Sat, 22 May 2010 21:39:56 +0000</pubDate>
+      
+      <guid>http://replace-this-with-your-hugo-site.com/2010/05/22/cafe-agil-em-recife/</guid>
+      <description>No último sábado, 15 de maio, estive em Recife para um evento rápido e bastante interessante o Café Ágil. Esta iniciativa da ThoughtWorks Brazil juntamente a UFPE reuniu, em um sábado ensolarado,três palestrantes de peso, Paulo Caroli(TW Br), Luiz Borba(Pitang) e Jim Webber(TW UK) e cerca de 90 pessoas no anfiteatro do Centro de Informática da UFPE, para tratar assuntos como XP, TDD e Rest.
+
+O evento foi iniciado às 08:30h como suscinta o nome regrado a café e muita conversa.</description>
+    </item>
+    
+    <item>
+      <title>Materializando os Valores XP – Aula 13</title>
+      <link>http://replace-this-with-your-hugo-site.com/2010/04/11/materializando-os-valores-xp-aula-13/</link>
+      <pubDate>Sun, 11 Apr 2010 12:45:09 +0000</pubDate>
+      
+      <guid>http://replace-this-with-your-hugo-site.com/2010/04/11/materializando-os-valores-xp-aula-13/</guid>
+      <description>Segunda aula sobre a metodologia ágil XP lecionada junto a Universidade Potiguar. Nesta aula foram apresentados as formas encontradas pelo XP para transmitir seu valores, materializando-os por meio de ações, decisões e práticas. São apresentados os princípios básicos e menos fundamentais, assim como as práticas do XP. Por fim são diagramadas as relações expostas por Kent Beck em Extreme Programming Explained entre as práticas, mostrando a integração proposta para práticas consagradas mas que haviam falhado em um outros ambientes, que agora mostram sua força coletiva nesta metodologia de ações extremas.</description>
+    </item>
+    
+    <item>
+      <title>Melhorando a flacidez… XP –  Aula 12</title>
+      <link>http://replace-this-with-your-hugo-site.com/2010/04/08/melhorando-a-flacidez-xp-aula-12/</link>
+      <pubDate>Thu, 08 Apr 2010 14:29:59 +0000</pubDate>
+      
+      <guid>http://replace-this-with-your-hugo-site.com/2010/04/08/melhorando-a-flacidez-xp-aula-12/</guid>
+      <description>Primeira aula sobre a metodologia ágil XP lecionada junto a Universidade Potiguar. Nesta aula foram apresentadas falhas em outras metodologias, incluindo as ágeis, no que diz respeito a descuido com a qualidade interna dos projetos, o que reforça, segundo Martin Fowler em Scrum Flácido a necessidade de metodologias focadas em práticas técnicas, que retirem e não adicionem débitos técnicos. São apresentados também os problemas encontrados em ambientes de softwares e as soluções do XP para os mesmo.</description>
+    </item>
+    
+    <item>
+      <title>Sem mascaras em PROJETOS REAIS !!</title>
+      <link>http://replace-this-with-your-hugo-site.com/2010/03/28/sem-mascaras-em-projetos-reais/</link>
+      <pubDate>Sun, 28 Mar 2010 17:47:30 +0000</pubDate>
+      
+      <guid>http://replace-this-with-your-hugo-site.com/2010/03/28/sem-mascaras-em-projetos-reais/</guid>
+      <description>Esses dias recebi uma mensagem intrigante enviada por um aluno de Engenharia de Software de uma outra universidade:    “Foi comentado em minha aula de engenharia de software sobre um elemento, o qual eu não entendi muito, algo que é citado em alguns livros da engenharia, chama-se &amp;#8220;o homem mascarado&amp;#8221; ou &amp;#8221; homem da mascara&amp;#8221; e gostaria de saber que papel ele representa na engenharia de software e aonde posso encontrar mais sobre isso”.</description>
+    </item>
+    
+    <item>
+      <title>Quinta Aula, Introduzindo Agilidade !!!</title>
+      <link>http://replace-this-with-your-hugo-site.com/2010/03/11/quinta-aula-introduzindo-agilidade/</link>
+      <pubDate>Thu, 11 Mar 2010 10:21:39 +0000</pubDate>
+      
+      <guid>http://replace-this-with-your-hugo-site.com/2010/03/11/quinta-aula-introduzindo-agilidade/</guid>
+      <description>A quinta aula ministrada ao curso de Sistemas de Informação da UnP iniciou a apresentação das metodologias ágeis como mais uma estratégia em processo empíricos para trabalharmos focados em qualidade com custo e tempos fixos e escopo variado.
+[slideshare id=3392936&amp;amp;doc=unp-aula5-100310231121-phpapp02]</description>
+    </item>
+    
+    <item>
+      <title>Segunda aula ministrada! Projeto…Processo…</title>
+      <link>http://replace-this-with-your-hugo-site.com/2010/03/02/segunda-aula-ministrada-projetoprocesso/</link>
+      <pubDate>Wed, 03 Mar 2010 01:21:54 +0000</pubDate>
+      
+      <guid>http://replace-this-with-your-hugo-site.com/2010/03/02/segunda-aula-ministrada-projetoprocesso/</guid>
+      <description>Segue a baixo a segunda aula ministrada a disciplina de engenharia de software da UnP, quem tiver algumas dicas ou sugestões, ainda continuam sendo bem vindos. Tivemos hoje uma breve passagem pela história da criação de software, falamos da &amp;#8220;crise de software&amp;#8221; que apesar de ser datada de muito tempo atrás ainda não se evidência a correção de todos os fatores que a influenciaram.
+Foi apresentado os componentes de um projeto de software e discutimos alguns cenários e qual a influência de cada um destes no resultado final, sucesso ou falha no projeto.</description>
+    </item>
+    
+    <item>
+      <title>Já tive um gerente que comia velocidade no café</title>
+      <link>http://replace-this-with-your-hugo-site.com/2010/02/25/ja-tive-um-gerente-que-comia-velocidade-no-cafe/</link>
+      <pubDate>Fri, 26 Feb 2010 00:44:26 +0000</pubDate>
+      
+      <guid>http://replace-this-with-your-hugo-site.com/2010/02/25/ja-tive-um-gerente-que-comia-velocidade-no-cafe/</guid>
+      <description>Há um bom tempo venho observando as mais diversas formas utilizadas, pelos gerentes das equipes por onde passei, para realização dos acompanhamentos das minhas produtividades, e também dos outros membros para realizar suas estimativas. Alguns demoram muito analisando os misteriosos pontos de função, outros visualizam apenas linhas de código e só alguns, talvez os mais interessantes, viam a quantidade de funcionalidades entregues realmente da forma que satisfazia iteração após iteração o nosso cliente.</description>
+    </item>
+    
+    <item>
+      <title>Minha equipe precisa de um pedal de overdriver</title>
+      <link>http://replace-this-with-your-hugo-site.com/2010/02/11/minha-equipe-precisa-de-um-pedal-de-overdriver/</link>
+      <pubDate>Fri, 12 Feb 2010 01:55:03 +0000</pubDate>
+      
+      <guid>http://replace-this-with-your-hugo-site.com/2010/02/11/minha-equipe-precisa-de-um-pedal-de-overdriver/</guid>
+      <description>Estou a algum tempo pesquisando sobre o as relações e como podemos trabalhar junto as equipes constituindo um crescimento naturalmente feliz e produtivo.
+Estive um tempo atrás no Rio e ouvi(tudo que eu queria saber antes de virar um líder técnico), assim como tinha lido em alguns blogs, que se queremos aprender ou aplicar algo em nosso dia-a-dia que impacte positivamente em nosso trabalho devemos fazê-lo nos mesmos e não esperar por chefes ou colegas, é mostrando as melhorias que realmente se conquista o reconhecimento do sucesso.</description>
+    </item>
+    
+    <item>
+      <title>O objetivo não deveria ser entregar ótimas funcionalidades ?</title>
+      <link>http://replace-this-with-your-hugo-site.com/2010/02/09/o-objetivo-nao-deveria-ser-entregar-otimas-funcionalidades/</link>
+      <pubDate>Tue, 09 Feb 2010 23:49:20 +0000</pubDate>
+      
+      <guid>http://replace-this-with-your-hugo-site.com/2010/02/09/o-objetivo-nao-deveria-ser-entregar-otimas-funcionalidades/</guid>
+      <description>Uma coisa que me intriga mais e mais cada vez que escuto alguém falando que utiliza metodologias ágeis, e que seus clientes continuam insatisfeitos, mesmo com as entregas reptiveis de software funcionando, é que nós não deveríamos antecipar o retorno ao investimento de nosso cliente dando a ele subsídios para otimizar o funcionamento de seu negócio ?
+Lí a pouco uma frase no twitter do @jeffpatton, &amp;#8220;Looking forward to the time when people use agile development to build great products, not just deliver dumb stuff faster.</description>
+    </item>
+    
+    <item>
+      <title>Será que ajudei alguém a derrubar as paredes erradas?</title>
+      <link>http://replace-this-with-your-hugo-site.com/2009/11/17/sera-que-ajudei-alguem-a-derrubar-as-paredes-erradas/</link>
+      <pubDate>Tue, 17 Nov 2009 10:06:49 +0000</pubDate>
+      
+      <guid>http://replace-this-with-your-hugo-site.com/2009/11/17/sera-que-ajudei-alguem-a-derrubar-as-paredes-erradas/</guid>
+      <description>Aproximadamente um mês atrás realizei juntamente ao meu ex-colega de trabalho e amigo Germano Carvalho, um minicurso sobre metodologias ágeis e scrum no décimo primeiro congresso científico da UnP. A principio ficamos naquela sobre a quantidade de participantes e do interesse dos mesmos sobre o assunto. Eu como sempre imaginei a sala meio cheia, mas no final quem acertou foi Germano. Acho que os participantes já haviam lido muitos artigos e acabaram por prolongar seus feriados.</description>
+    </item>
+    
+    <item>
+      <title>SCRUM no congresso científico da UnP !!!</title>
+      <link>http://replace-this-with-your-hugo-site.com/2009/10/22/scrum-no-congresso-cientifico-da-unp/</link>
+      <pubDate>Thu, 22 Oct 2009 05:31:22 +0000</pubDate>
+      
+      <guid>http://replace-this-with-your-hugo-site.com/2009/10/22/scrum-no-congresso-cientifico-da-unp/</guid>
+      <description>Nos dias 22 e 23 de outubro vai rolar na Universidade Potiguar &amp;#8211; RN o seu décimo primeiro congresso científico.
+Este ano fui convidado pela direção do curso de sistemas de informação para ministrar um mini-curso SCRUM, como transformar equipes em times com entregas repetitivas de valor ao cliente de oito horas.
+Estive quando aluno em alguns deste congressos assistindo a palestras do meu atual chefe Prof. Paulo Benício sobre programação Open-GL, na época os congressos eram excelentes e espero que este ano seja ainda melhor!</description>
+    </item>
+    
+  </channel>
+</rss>

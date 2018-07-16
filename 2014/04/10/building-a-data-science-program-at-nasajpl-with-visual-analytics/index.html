@@ -1,0 +1,203 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  <head>
+  <meta charset="utf-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
+
+  <title>Building a Data Science Program at NASA/JPL with Visual Analytics</title>
+
+  <meta name="author" content="" />
+  
+  
+
+  <meta name="generator" content="Hugo 0.44" />
+
+  <link rel="alternate" href="http://replace-this-with-your-hugo-site.com/index.xml" type="application/rss+xml" title="Helio Medeiros">
+
+  <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css" />
+  <link rel="stylesheet" href="http://replace-this-with-your-hugo-site.com/css/bootstrap.min.css" />
+  <link rel="stylesheet" href="http://replace-this-with-your-hugo-site.com/css/main.css" />
+  <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Lora:400,700,400italic,700italic" />
+  <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800" />
+  <link rel="stylesheet" href="http://replace-this-with-your-hugo-site.com/css/pygment_highlights.css" />
+  
+  
+  <meta property="og:title" content="Building a Data Science Program at NASA/JPL with Visual Analytics" />
+  <meta property="og:type" content="website" />
+  <meta property="og:url" content="/2014/04/10/building-a-data-science-program-at-nasajpl-with-visual-analytics//" />
+  <meta property="og:image" content="" />
+  
+</head>
+
+
+  <body>
+
+    <nav class="navbar navbar-default navbar-fixed-top navbar-custom">
+  <div class="container-fluid">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#main-navbar">
+        <span class="sr-only">Toggle navigation</span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a class="navbar-brand" href="http://replace-this-with-your-hugo-site.com/">Helio Medeiros</a>
+    </div>
+
+    <div class="collapse navbar-collapse" id="main-navbar">
+      <ul class="nav navbar-nav navbar-right">
+      
+      </ul>
+    </div>
+
+	<div class="avatar-container">
+	  <div class="avatar-img-border">
+      
+	  </div>
+	</div>
+
+  </div>
+</nav>
+
+
+    <div role="main" class="container main-content">
+
+      
+        
+
+
+
+
+
+<header class="header-section ">
+
+<div class="intro-header no-img">
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+        <div class="post-heading">
+          <h1>Building a Data Science Program at NASA/JPL with Visual Analytics</h1>
+      
+      
+      
+      <span class="post-meta">Posted on April 10, 2014</span>
+      
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+</header>
+
+
+
+
+<div class="container">
+  <div class="row">
+    <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+      <article role="main" class="blog-post">
+          <p><span style="line-height: 1.5em">Explorar o universo gera um conjunto enorme de dados. E quando estamos falando sobre os dados que nos deparamos o tempo todo, estamos falando com um conjunto de satélites que estão processando e enviando dados dia e noite durante todo o dia.</span></p>
+
+<p>As tecnologias de troca de dados assim como as suas fontes são cada vez maiores e diversas, a troca de informações por lasers está quase acontecendo, e como podemos olhar estes dados de perto? Quais mistérios existem neles? Precisamos processá-los rapidamente para entendermos oque estamos observando mas não entendemos.</p>
+
+<p>Assim como _<a title="Dark Matter" href="http://en.wikipedia.org/wiki/Dark_matter" target="_blank">dark matter</a>, _<a href="http://qconsp.com/user/rob-witoff">Rob Witoff</a> propõe que as informações que colhemos é na verdade <a title="Dark Data" href="http://searchdatamanagement.techtarget.com/definition/dark-data" target="_blank"><em>dark data</em></a>, até que possamos extrair ao máximo todas as informações escondidas ou ocultas ao meio de tantos dados.</p>
+
+<p>A <a title="NASA" href="http://www.nasa.gov/" target="_blank">NASA</a> trabalha a um longo tempo extraindo/capturando dados e transformando-os em poder na mão dos especialista para que possamos tomar decisões mais rápido.</p>
+
+<p>Segundo a <a title="HBR" href="http://hbr.org/" target="_blank">Harvard Business Review</a> <a title="http://en.wikipedia.org/wiki/Data_science" href="http://en.wikipedia.org/wiki/Data_science" target="_blank"><em>Data Scientist</em></a>, é o trabalho mais <a title="Data Scientist: The Sexiest Job of the 21st Century" href="http://hbr.org/2012/10/data-scientist-the-sexiest-job-of-the-21st-century/ar/1" target="_blank">sexy do século 21</a>. O papel do _Data Scientist _é primeiro facilitar a liberação dos dados, e proporcionar o compartilhamento para que por meio da colaboração se crie um conjunto inimaginável de força em volta de um conjunto de dados que nos permita processar e extrair o sentido da nossa <em>dark data.</em></p>
+
+<p>Hoje é muito mais simples trabalharmos grandes massas de dados do que já foi um tempo atrás, temos muitos serviços sobre demanda, temos uma forte integração entre profissionais e amadores (<a title="Pro-Am" href="http://en.wikipedia.org/wiki/Pro%E2%80%93am" target="_blank">Pro-Am</a>), que podem impulsionar a descoberta de informação. Então a busca pelo compartilhamento é muito necessária.</p>
+
+<p>Em seguida o <em>Data Scientist</em> deve ser guiado pela idéia de impulsionar/facilitar os especialistas a descoberta e tomada de decisão sobre dados reais. Primeiro fazendo perguntas aos especialista, trabalhando os dados e trazendo-os novamente, para que eles possam olhar, ver, pesquisar e falhar o quanto antes, iterando sobre massas e mais massas de dados.</p>
+
+<p>Existem hoje um conjunto de ferramentas simples que facilitam, a extração de informações dentro de nossa <em>dark data</em>, e assim que a temos, podemos plotá-las e deixá-las mais simples para que possam ser manipuladas e acompanhadas por especialista a todo momento.</p>
+
+<p><span style="line-height: 1.5em">Em seguida o </span><em style="line-height: 1.5em">Data Scientist</em> <span style="line-height: 1.5em">deve infundir todo o conhecimento, para que outras pessoas possam descobrir e analisar as informações, manipulando-as da melhor forma possível. </span></p>
+
+<p>O <em>Data Scientist</em> deve levar o conhecimento para o maior número de informações, para que elas possam transformá-la. Dentro da NASA eles tem alguns programas que possibilitam cientistas, startups entre outros imergirem em dados e informações e no final compartilhá-las com especialista que irão validá-las e enfim gerar mais conhecimento para o público.</p>
+
+<p>Mostrar as informações de uma forma diferente, está gerando um valor cada vez maior sobre as descobertas feitas pela NASA, por que não podemos liberar os dados de nossas empresas, empoderar a comunidade e os especialistas com não só dados mas também informações e ajudar a comunidade a transformá-la, assim terminou a apresentação do Rob Witoff.</p>
+
+<p><a style="line-height: 1.5em" title="http://qconsp.com/keynote/building-data-science-program-nasajpl-visual-analytics" href="http://qconsp.com/keynote/building-data-science-program-nasajpl-visual-analytics" target="_blank"><a href="http://qconsp.com/keynote/building-data-science-program-nasajpl-visual-analytics">http://qconsp.com/keynote/building-data-science-program-nasajpl-visual-analytics</a></a><figure id="attachment_817" style="width: 476px" class="wp-caption aligncenter"></p>
+
+<p><a href="http://www.helmed.net/blog/wp-content/uploads/2014/04/Bk3VhGxIUAErN1W.jpg"><img class="size-full wp-image-817" alt="Rob Witoff - Thanks" src="http://www.helmed.net/blog/wp-content/uploads/2014/04/Bk3VhGxIUAErN1W.jpg" width="476" height="240" srcset="http://www.helmed.net/blog/wp-content/uploads/2014/04/Bk3VhGxIUAErN1W.jpg 476w, http://www.helmed.net/blog/wp-content/uploads/2014/04/Bk3VhGxIUAErN1W-300x151.jpg 300w" sizes="(max-width: 476px) 100vw, 476px" /></a><figcaption class="wp-caption-text">Rob Witoff &#8211; Thanks</figcaption></figure></p>
+
+      </article>
+
+      <ul class="pager blog-pager">
+        
+        <li class="previous">
+          <a href="http://replace-this-with-your-hugo-site.com/2014/04/10/qconsp-2014-comecou/" data-toggle="tooltip" data-placement="top" title="QConSP 2014! Começou!">&larr; Previous Post</a>
+        </li>
+        
+        
+        <li class="next">
+          <a href="http://replace-this-with-your-hugo-site.com/2014/04/10/scaling-league-of-legends-managing-culture-extreme-complexity-and-30-million-active-users/" data-toggle="tooltip" data-placement="top" title="Scaling League of Legends: managing culture, extreme complexity and 30 million active users">Next Post &rarr;</a>
+        </li>
+        
+      </ul>
+
+      
+
+    </div>
+  </div>
+</div>
+
+      
+
+    </div>
+
+    <footer>
+  <div class="container beautiful-jekyll-footer">
+    <div class="row">
+      <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+        <ul class="list-inline text-center footer-links">
+          
+          
+		      
+		      
+		      
+	    	  
+          
+          
+
+    		  <li>
+      			<a href="http://replace-this-with-your-hugo-site.com/index.xml" title="RSS">
+      			  <span class="fa-stack fa-lg">
+        				<i class="fa fa-circle fa-stack-2x"></i>
+        				<i class="fa fa-rss fa-stack-1x fa-inverse"></i>
+      			  </span>
+      			</a>
+    		  </li>		
+
+        </ul>
+        <p class="copyright text-muted">
+    		  
+    		  &nbsp;&bull;&nbsp;
+    		  2014
+    		  
+    		  
+    		  &nbsp;&bull;&nbsp;
+    		  <a href="http://replace-this-with-your-hugo-site.com/">Helio Medeiros</a>
+    		  
+  	    </p>
+  	        
+    		<p class="theme-by text-muted">
+    		  Theme by
+    		  <a href="http://deanattali.com/beautiful-jekyll/">beautiful-jekyll</a>
+    		</p>
+      </div>
+    </div>
+  </div>
+</footer>
+
+<script src="http://replace-this-with-your-hugo-site.com/js/jquery-1.11.2.min.js"></script>
+<script src="http://replace-this-with-your-hugo-site.com/js/bootstrap.min.js"></script>
+<script src="http://replace-this-with-your-hugo-site.com/js/main.js"></script>
+
+
+
+  </body>
+</html>

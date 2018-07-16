@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Engenharia De Software on Helio Medeiros</title>
+    <link>http://replace-this-with-your-hugo-site.com/tags/engenharia-de-software/</link>
+    <description>Recent content in Engenharia De Software on Helio Medeiros</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 18 Mar 2010 03:18:19 +0000</lastBuildDate>
+    
+	<atom:link href="http://replace-this-with-your-hugo-site.com/tags/engenharia-de-software/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Sétima aula !! SCRUM !!!</title>
+      <link>http://replace-this-with-your-hugo-site.com/2010/03/18/setima-aula-scrum-processo/</link>
+      <pubDate>Thu, 18 Mar 2010 03:18:19 +0000</pubDate>
+      
+      <guid>http://replace-this-with-your-hugo-site.com/2010/03/18/setima-aula-scrum-processo/</guid>
+      <description>Segunda apresentação sobre a metodologia ágil SCRUM lecionada junto a Universidade Potiguar. Nesta aula são definidas as etapas e os benefícios trazidos aos projetos que adotam essa metodologia.
+[slideshare id=3462783&amp;amp;doc=unp-aula7-100317220152-phpapp01]</description>
+    </item>
+    
+    <item>
+      <title>Sexta aula !! SCRUM !!!</title>
+      <link>http://replace-this-with-your-hugo-site.com/2010/03/16/sexta-aula-scrum/</link>
+      <pubDate>Wed, 17 Mar 2010 01:32:39 +0000</pubDate>
+      
+      <guid>http://replace-this-with-your-hugo-site.com/2010/03/16/sexta-aula-scrum/</guid>
+      <description>Primeira aula sobre a metodologia ágil SCRUM apresentada junto a Universidade Potiguar. Nesta aula é apresentada a origem do SCRUM, seus papeis e responsabilidades, ciclo de via e artefatos.
+[slideshare id=3451696&amp;amp;doc=unp-aula6-100316202213-phpapp01]</description>
+    </item>
+    
+    <item>
+      <title>Quinta Aula, Introduzindo Agilidade !!!</title>
+      <link>http://replace-this-with-your-hugo-site.com/2010/03/11/quinta-aula-introduzindo-agilidade/</link>
+      <pubDate>Thu, 11 Mar 2010 10:21:39 +0000</pubDate>
+      
+      <guid>http://replace-this-with-your-hugo-site.com/2010/03/11/quinta-aula-introduzindo-agilidade/</guid>
+      <description>A quinta aula ministrada ao curso de Sistemas de Informação da UnP iniciou a apresentação das metodologias ágeis como mais uma estratégia em processo empíricos para trabalharmos focados em qualidade com custo e tempos fixos e escopo variado.
+[slideshare id=3392936&amp;amp;doc=unp-aula5-100310231121-phpapp02]</description>
+    </item>
+    
+    <item>
+      <title>Quarta aula!! modelos evolucionários…</title>
+      <link>http://replace-this-with-your-hugo-site.com/2010/03/10/quarta-aula-modelos-evolucionarios/</link>
+      <pubDate>Wed, 10 Mar 2010 02:42:59 +0000</pubDate>
+      
+      <guid>http://replace-this-with-your-hugo-site.com/2010/03/10/quarta-aula-modelos-evolucionarios/</guid>
+      <description>Nesta quarta aula ministrada junto a turma de Engenharia de Software da Universidade Potiguar, foi a apresentado aos alunos mais um nível de visão sobre a escolha dos métodos possíveis a aplicação em projetos reais.
+[slideshare id=3381986&amp;amp;doc=unp-aula4-100309203745-phpapp01]</description>
+    </item>
+    
+    <item>
+      <title>Terceira Aula !! Modelo Cascata…</title>
+      <link>http://replace-this-with-your-hugo-site.com/2010/03/04/terceira-aula-modelo-cascata/</link>
+      <pubDate>Thu, 04 Mar 2010 02:53:58 +0000</pubDate>
+      
+      <guid>http://replace-this-with-your-hugo-site.com/2010/03/04/terceira-aula-modelo-cascata/</guid>
+      <description>Esta é a terceira aula ministrada junto a disciplina de engenharia de software da Universidade Potiguar, onde é apresentada a fundamentação para a escolha de um modelo baseado em processo sequencial e definido para resolução dos problemas conhecidos e imutáveis. É exibido o modelo cascata e sua incompatibilidade com os cenários reais&amp;#8230; desenvolver software não é construir prédio.
+[slideshare id=3331054&amp;amp;doc=unp-aula3-100303204328-phpapp01]</description>
+    </item>
+    
+    <item>
+      <title>Segunda aula ministrada! Projeto…Processo…</title>
+      <link>http://replace-this-with-your-hugo-site.com/2010/03/02/segunda-aula-ministrada-projetoprocesso/</link>
+      <pubDate>Wed, 03 Mar 2010 01:21:54 +0000</pubDate>
+      
+      <guid>http://replace-this-with-your-hugo-site.com/2010/03/02/segunda-aula-ministrada-projetoprocesso/</guid>
+      <description>Segue a baixo a segunda aula ministrada a disciplina de engenharia de software da UnP, quem tiver algumas dicas ou sugestões, ainda continuam sendo bem vindos. Tivemos hoje uma breve passagem pela história da criação de software, falamos da &amp;#8220;crise de software&amp;#8221; que apesar de ser datada de muito tempo atrás ainda não se evidência a correção de todos os fatores que a influenciaram.
+Foi apresentado os componentes de um projeto de software e discutimos alguns cenários e qual a influência de cada um destes no resultado final, sucesso ou falha no projeto.</description>
+    </item>
+    
+    <item>
+      <title>Primeira aula ministrada! Começando…</title>
+      <link>http://replace-this-with-your-hugo-site.com/2010/02/24/primeira-aula-ministrada-comecando/</link>
+      <pubDate>Wed, 24 Feb 2010 02:10:53 +0000</pubDate>
+      
+      <guid>http://replace-this-with-your-hugo-site.com/2010/02/24/primeira-aula-ministrada-comecando/</guid>
+      <description>Tem um tempo que comentei sobre o convite realizado pela Universidade Potiguar para que eu ministrasse a disciplina de engenharia de software, bem hoje foi a primeira aula, seguindo principalmente aquilo que esperava como aluno e guiado pela diretrizes da coordenação elaborei o cronograma de aulas que proporcionasse ao aluno um conhecimento geral, mas prático do desenvolvimento de software com objetivos sólidos e focados em qualidade.
+Segue a baixo a primeira aula, quem tiver algumas dicas ou sugestões, sejam bem vindos.</description>
+    </item>
+    
+    <item>
+      <title>Mais um professor na família !</title>
+      <link>http://replace-this-with-your-hugo-site.com/2010/01/26/ola-unp-mais-um-professor-na-familia/</link>
+      <pubDate>Tue, 26 Jan 2010 23:47:13 +0000</pubDate>
+      
+      <guid>http://replace-this-with-your-hugo-site.com/2010/01/26/ola-unp-mais-um-professor-na-familia/</guid>
+      <description>Não esperava que isto pudesse acontecer tão cedo, o fluxo a seguir tratando-se da área acadêmica é sempre muito longo e normalmente pretere os mais experientes, mas acontece que em 2010 minha família ganhará um novo professor.
+Sempre tive este sonho, de assim como minha família, poder um dia lecionar e quem sabe ajudar a construir os alicerces de algumas carreiras, assim como estou acostumado a ouvir grandes pessoas referindo-se a minha mãe; ou quem sabe receber o afeto incondicional dos alunos&amp;#8230; materializados em chocolates, maças e outras coisas mais&amp;#8230; como minha irmã mais velha.</description>
+    </item>
+    
+  </channel>
+</rss>

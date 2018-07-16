@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Geracaoy on Helio Medeiros</title>
+    <link>http://replace-this-with-your-hugo-site.com/tags/geracaoy/</link>
+    <description>Recent content in Geracaoy on Helio Medeiros</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 19 Jun 2011 15:49:35 +0000</lastBuildDate>
+    
+	<atom:link href="http://replace-this-with-your-hugo-site.com/tags/geracaoy/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Agile Brazil 2011 – EU VOU!!</title>
+      <link>http://replace-this-with-your-hugo-site.com/2011/06/19/agile-brazil-2011-claro-que-vou/</link>
+      <pubDate>Sun, 19 Jun 2011 15:49:35 +0000</pubDate>
+      
+      <guid>http://replace-this-with-your-hugo-site.com/2011/06/19/agile-brazil-2011-claro-que-vou/</guid>
+      <description>Este ano o Agile Brazil vai acontecer dos dias 27 de Junho a 1º de Julho em Fortaleza/CE, com mais de 50 palestras cobrindo boa parte dos &amp;#8220;must haves&amp;#8221; do cenário mundial agile.
+Para que não ficasse assim tão simples minha participação nos eventos, quando estava em Natal/RN invejava a distância, após 6 meses de minha mudança para Porto Alegre para trabalhar junto a equipe de services da Dell, fui aceito para apresentar no Agile Brazil 2011 dois lightining talks bem pertinho de onde saí.</description>
+    </item>
+    
+  </channel>
+</rss>

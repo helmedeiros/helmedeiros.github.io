@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Open Talks on Helio Medeiros</title>
+    <link>http://replace-this-with-your-hugo-site.com/tags/open-talks/</link>
+    <description>Recent content in Open Talks on Helio Medeiros</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 19 Apr 2011 00:38:19 +0000</lastBuildDate>
+    
+	<atom:link href="http://replace-this-with-your-hugo-site.com/tags/open-talks/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Stefanini Open Talks – PLUGUE-SE com SONGDORO</title>
+      <link>http://replace-this-with-your-hugo-site.com/2011/04/18/stefanini-open-talks-afinando-sua-equipe-com-songdoro/</link>
+      <pubDate>Tue, 19 Apr 2011 00:38:19 +0000</pubDate>
+      
+      <guid>http://replace-this-with-your-hugo-site.com/2011/04/18/stefanini-open-talks-afinando-sua-equipe-com-songdoro/</guid>
+      <description>Continuando a tradição dos brown bags seminars na Stefanini, realizei esta semana mais uma apresentação num conjunto que tendo a afirmar como o tripé produtivo moderno; depois da última apresentação no Stefanini Open Talks, na qual falei apresentei dicas e relatei um pouco da minha experiência e resultados atingidos com a aplicação de POMODORO, chegou a vez de falar sobre um conceito que durante o último agile brazil ouvi o Daniel Wildt falando e mais recentemente assistindo o filme “Rede Social” ouvi mais algumas varias vezes falar-se sobre plugar-se como o segredo para aumentar a sua capacidade produtiva as alturas.</description>
+    </item>
+    
+    <item>
+      <title>Stefanini Open Talks – Pomodoro Technique</title>
+      <link>http://replace-this-with-your-hugo-site.com/2011/01/13/stefanini-open-talks-pomodoro-technique/</link>
+      <pubDate>Fri, 14 Jan 2011 01:07:59 +0000</pubDate>
+      
+      <guid>http://replace-this-with-your-hugo-site.com/2011/01/13/stefanini-open-talks-pomodoro-technique/</guid>
+      <description>Aconteceu nesta quinta-feira dia 13 de Janeiro, no Auditório da Assespro prédio 96 da Tecnopuc, o primeiro encontro do Stefanini Open Talks.
+Esta nova iniciativa proposta pelo colaborador Marcelo Schmidt juntamente à equipe administrativa da Stefanini responsável pela conta do cliente DELL, tem como intenção envolver os colaboradores da instituição em volta dos mais variados temas. Tendo origem nos brown bags seminars, o evento segue a divisão dos lightinig talks com 15 minutos de apresentação e outros 15 minutos para dúvidas.</description>
+    </item>
+    
+  </channel>
+</rss>
